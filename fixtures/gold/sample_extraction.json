@@ -1,0 +1,81 @@
+{
+  "header": {
+    "exam_name": "B.Tech / M.Tech (Integrated) DEGREE EXAMINATION, JULY 2023",
+    "subject_code": "21MAB102T",
+    "subject_name": "ADVANCED CALCULUS AND COMPLEX ANALYSIS",
+    "semester": "Second Semester",
+    "max_marks": 75
+  },
+  "questions": [
+    {
+      "part": "A",
+      "question_no": 1,
+      "or_group": null,
+      "sub_no": null,
+      "question_text": "Evaluation of $\\int_{0}^{\\pi}\\int_{0}^{\\pi} d\\theta d\\phi$ is",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "\\pi/2",
+        "D": "\\pi^2"
+      },
+      "marks": 1,
+      "bl": 1,
+      "co": 1,
+      "po": 1
+    },
+    {
+      "part": "A",
+      "question_no": 2,
+      "or_group": null,
+      "sub_no": null,
+      "question_text": "The area of an ellipse is",
+      "options": {
+        "A": "\\pi r^2",
+        "B": "\\pi a^2 b",
+        "C": "\\pi ab",
+        "D": "\\pi ab^2"
+      },
+      "marks": 1,
+      "bl": 1,
+      "co": 1,
+      "po": 1
+    },
+    {
+      "part": "B",
+      "question_no": 21,
+      "or_group": "21.a",
+      "sub_no": "a",
+      "question_text": "Change the order of integration and evaluation $\\int_{0}^{4a}\\int_{x^2/4a}^{2\\sqrt{ax}} dy dx$",
+      "options": null,
+      "marks": 8,
+      "bl": 3,
+      "co": 1,
+      "po": 3
+    },
+    {
+      "part": "B",
+      "question_no": 21,
+      "or_group": "21.b",
+      "sub_no": "b",
+      "question_text": "Evaluate $\\int_{0}^{a}\\int_{0}^{\\sqrt{a^2-x^2}}\\int_{0}^{\\sqrt{a^2-x^2-y^2}} dzdydx$",
+      "options": null,
+      "marks": 8,
+      "bl": 3,
+      "co": 1,
+      "po": 3
+    },
+    {
+      "part": "C",
+      "question_no": 27,
+      "or_group": null,
+      "sub_no": null,
+      "question_text": "Evaluate $\\int_{0}^{2\\pi} \\frac{d\\theta}{13 + 5\\sin\\theta}$ using contour integration.",
+      "options": null,
+      "marks": 15,
+      "bl": 4,
+      "co": 5,
+      "po": 3
+    }
+  ]
+}

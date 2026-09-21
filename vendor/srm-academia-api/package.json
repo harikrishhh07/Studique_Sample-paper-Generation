@@ -1,0 +1,56 @@
+{
+  "name": "srm-academia-api",
+  "description": "REST API for SRMIST KTR Academia portal",
+  "version": "1.0.8",
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/src/index.d.ts",
+      "import": "./dist/src/index.js",
+      "require": "./dist/src/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/index.ts",
+    "prepublishOnly": "npm run build",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "srm academia api",
+    "academia api",
+    "srm academia backend",
+    "academia backend"
+  ],
+  "author": "Jack Waghan A S <jackwaghan@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jackwaghan/srm-academia-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jackwaghan/srm-academia-api/issues"
+  },
+  "homepage": "https://github.com/jackwaghan/srm-academia-api#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.32.0",
+    "@tsconfig/node-lts": "^22.0.2",
+    "@types/node": "^24.1.0",
+    "eslint": "^9.32.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.38.0"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cheerio": "^1.1.2"
+  }
+}

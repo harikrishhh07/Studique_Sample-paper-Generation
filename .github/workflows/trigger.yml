@@ -1,0 +1,30 @@
+name: Trigger Vercel Deploy
+
+on:
+  push:
+    branches:
+      - staging 
+permissions:
+  contents: write
+
+jobs:
+  append-dot:
+    runs-on: ubuntu-latest
+    if: github.actor != 'UtkarshJaiswal1406' 
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Append dot to trigger.txt
+        run: echo "." >> trigger.txt
+
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trigger.txt
+          git commit -m "chore: trigger Vercel deploy" || echo "No changes to commit"
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:staging

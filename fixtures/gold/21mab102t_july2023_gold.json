@@ -1,0 +1,94 @@
+{
+  "header": {
+    "exam_name": "B.Tech. / M.Tech (Integrated) DEGREE EXAMINATION, JULY 2023",
+    "subject_code": "21MAB102T",
+    "subject_name": "ADVANCED CALCULUS AND COMPLEX ANALYSIS",
+    "semester": "Second Semester",
+    "max_marks": 75
+  },
+  "questions": [
+    {
+      "part": "A",
+      "question_no": 1,
+      "question_text": "Evaluation of $\\int_{0}^{\\pi}\\int_{0}^{\\pi} d\\theta d\\phi$ is",
+      "marks": 1,
+      "bl": 1,
+      "co": 1,
+      "po": 1
+    },
+    {
+      "part": "A",
+      "question_no": 2,
+      "question_text": "The area of an ellipse is",
+      "marks": 1,
+      "bl": 1,
+      "co": 1,
+      "po": 1
+    },
+    {
+      "part": "A",
+      "question_no": 3,
+      "question_text": "If R is the region bounded by x=0, y=0, x+y=1 then $\\iint_{R} dxdy$ is equal to",
+      "marks": 1,
+      "bl": 2,
+      "co": 1,
+      "po": 1
+    },
+    {
+      "part": "A",
+      "question_no": 4,
+      "question_text": "Area of the double integral in polar coordinates is equal to",
+      "marks": 1,
+      "bl": 2,
+      "co": 1,
+      "po": 2
+    },
+    {
+      "part": "A",
+      "question_no": 5,
+      "question_text": "If $\\vec{r}$ is the position vector of the point (x,y,z) with respect to the origin then $\\nabla \\cdot \\vec{r}$",
+      "marks": 1,
+      "bl": 2,
+      "co": 2,
+      "po": 2
+    },
+    {
+      "part": "B",
+      "question_no": 21,
+      "or_group": "21.a",
+      "question_text": "Change the order of integration and evaluation $\\int_{0}^{4a}\\int_{x^2/4a}^{2\\sqrt{ax}} dy dx$",
+      "marks": 8,
+      "bl": 3,
+      "co": 1,
+      "po": 3
+    },
+    {
+      "part": "B",
+      "question_no": 22,
+      "or_group": "22.a",
+      "question_text": "Find a, b, c so that the vector $\\vec{F} = (x+2y+az)\\hat{i} + (bx-3y-z)\\hat{j} + (4x+cy+2z)\\hat{k}$ is irrotational.",
+      "marks": 8,
+      "bl": 3,
+      "co": 2,
+      "po": 3
+    },
+    {
+      "part": "C",
+      "question_no": 27,
+      "question_text": "Evaluate $\\int_{0}^{2\\pi} \\frac{d\\theta}{13+5\\sin\\theta}$ using contour integration.",
+      "marks": 15,
+      "bl": 4,
+      "co": 5,
+      "po": 3
+    },
+    {
+      "part": "C",
+      "question_no": 28,
+      "question_text": "Verify divergence theorem for $\\vec{F} = (x^2-yz)\\hat{i} + (y^2-zx)\\hat{j} + (z^2-xy)\\hat{k}$ taken over rectangular parallelepiped $0 \\le x \\le a; 0 \\le y \\le b; 0 \\le z \\le c$.",
+      "marks": 15,
+      "bl": 4,
+      "co": 2,
+      "po": 3
+    }
+  ]
+}

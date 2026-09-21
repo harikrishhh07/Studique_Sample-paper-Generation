@@ -1,0 +1,26 @@
+[
+  {
+    "showPopUp": true,
+    "description": "10% off at Ark Bistro",
+    "bannerAriaLabel": "Get your Ark Bistro coupon",
+    "popupCtaAriaLabel": "Get your Ark Bistro coupon",
+    "bannerImageAlt": "Ark Bistro promo banner",
+    "popupImageAlt": "Ark Bistro coupon",
+    "url": "https://maps.app.goo.gl/tT8JHZGyFpv1fUPLA",
+    "imageSrc": "/images/banners/arkbpromo.png",
+    "isClickable": true,
+    "action": "coupon"
+  },
+  {
+    "showPopUp": true,
+    "description": "1st Anniversary",
+    "bannerAriaLabel": "1 year of Studique",
+    "popupCtaAriaLabel": "1st Anniversary",
+    "bannerImageAlt": "1 year of Studique",
+    "popupImageAlt": "1 year of Studique",
+    "url": "https://play.google.com/store/apps/details?id=com.studique.mobile",
+    "imageSrc": "/images/banners/first_anniversary.jpeg",
+    "isClickable": true,
+    "action": ""
+  }
+]

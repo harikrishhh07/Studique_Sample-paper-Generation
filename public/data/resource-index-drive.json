@@ -1,0 +1,5123 @@
+{
+ "success": true,
+ "updatedAt": "2026-08-24T11:08:54.232477+00:00",
+ "source": "google-drive",
+ "subjects": [
+  {
+   "name": "Advanced Calculus and Complex Analysis",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1yB4vRF4qjKsyvb24tzt0lYYvA96CEUqC",
+     "url": "https://drive.google.com/uc?export=download&id=1yB4vRF4qjKsyvb24tzt0lYYvA96CEUqC"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1OBnc8BsJYTNGutwGYpC1ov7QqtFeWQ-J",
+     "url": "https://drive.google.com/uc?export=download&id=1OBnc8BsJYTNGutwGYpC1ov7QqtFeWQ-J"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1tvG7b2Gok3GtXa_9Loez8E7ftnecRwRB",
+     "url": "https://drive.google.com/uc?export=download&id=1tvG7b2Gok3GtXa_9Loez8E7ftnecRwRB"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1xqlEXAxxUViavTzrBZxr6cTUq59H3S_9",
+     "url": "https://drive.google.com/uc?export=download&id=1xqlEXAxxUViavTzrBZxr6cTUq59H3S_9"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1P-Fs1rVmV0zPCJW94LsN165facJjYAdb",
+     "url": "https://drive.google.com/uc?export=download&id=1P-Fs1rVmV0zPCJW94LsN165facJjYAdb"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 July",
+     "fileId": "17NQ7qslUROnZ1kc5V4zxcXCoFM_aIfXj",
+     "url": "https://drive.google.com/uc?export=download&id=17NQ7qslUROnZ1kc5V4zxcXCoFM_aIfXj"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1Uf9bb6Xlc-xqiEH62lFX806nCLJZ47on",
+     "url": "https://drive.google.com/uc?export=download&id=1Uf9bb6Xlc-xqiEH62lFX806nCLJZ47on"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1in1Bi8cnJTV1-lSJL5VOs_6Q54PPzh6O",
+     "url": "https://drive.google.com/uc?export=download&id=1in1Bi8cnJTV1-lSJL5VOs_6Q54PPzh6O"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "15dChQszBljbElYDkjsFnLU9zNcI1xiNN",
+     "url": "https://drive.google.com/uc?export=download&id=15dChQszBljbElYDkjsFnLU9zNcI1xiNN"
+    }
+   ]
+  },
+  {
+   "name": "Advanced Programming Practice (APP)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "13yzWsu9wfHkh4axZ0Qsy8jAoPMcRJ1Hq",
+     "url": "https://drive.google.com/uc?export=download&id=13yzWsu9wfHkh4axZ0Qsy8jAoPMcRJ1Hq"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "10O6CEoe8-HxZ4G-nTkDEf5jDCTjxeMqD",
+     "url": "https://drive.google.com/uc?export=download&id=10O6CEoe8-HxZ4G-nTkDEf5jDCTjxeMqD"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1vMtiYD5IEmkDOp1uqqtVJZA-HNdvJkTI",
+     "url": "https://drive.google.com/uc?export=download&id=1vMtiYD5IEmkDOp1uqqtVJZA-HNdvJkTI"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1TSEotDf-PmnGfTw6jWUBNnVyphP79n9t",
+     "url": "https://drive.google.com/uc?export=download&id=1TSEotDf-PmnGfTw6jWUBNnVyphP79n9t"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1V7QLn9ghaEPhc4uCkJ07n-xxYGwoEiqd",
+     "url": "https://drive.google.com/uc?export=download&id=1V7QLn9ghaEPhc4uCkJ07n-xxYGwoEiqd"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1VSqzCeHpKRe2JB01-h-MfEa7Er7CsIWx",
+     "url": "https://drive.google.com/uc?export=download&id=1VSqzCeHpKRe2JB01-h-MfEa7Er7CsIWx"
+    }
+   ]
+  },
+  {
+   "name": "Artificial Intelligence (AI)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "164hjZu4T-QFL_b8C65Blg3MfHEXPr7-c",
+     "url": "https://drive.google.com/uc?export=download&id=164hjZu4T-QFL_b8C65Blg3MfHEXPr7-c"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1UZNyEmKu3hBR9_CV8aNmV175OnUbgnl3",
+     "url": "https://drive.google.com/uc?export=download&id=1UZNyEmKu3hBR9_CV8aNmV175OnUbgnl3"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1DtwjsEoZhM40zrD27EldGDTEADOvo6ZZ",
+     "url": "https://drive.google.com/uc?export=download&id=1DtwjsEoZhM40zrD27EldGDTEADOvo6ZZ"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1XWFVW6B1Ps0wYavzh7Plgn7H0RCDXkAo",
+     "url": "https://drive.google.com/uc?export=download&id=1XWFVW6B1Ps0wYavzh7Plgn7H0RCDXkAo"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1uQEIv_FWqCrOfUmYFMhOR0ZtzW_V0XP_",
+     "url": "https://drive.google.com/uc?export=download&id=1uQEIv_FWqCrOfUmYFMhOR0ZtzW_V0XP_"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Dec",
+     "fileId": "1dehL5TmPn5XemH-rFY_ZOSynkt8IYYrq",
+     "url": "https://drive.google.com/uc?export=download&id=1dehL5TmPn5XemH-rFY_ZOSynkt8IYYrq"
+    },
+    {
+     "name": "2023 July",
+     "fileId": "1yCsFsXcBIRITy6mLCJMw7Tmjj9t_OVJX",
+     "url": "https://drive.google.com/uc?export=download&id=1yCsFsXcBIRITy6mLCJMw7Tmjj9t_OVJX"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1vKuH31rhBm7VIPSUMLTJS_n9aJTrbIeM",
+     "url": "https://drive.google.com/uc?export=download&id=1vKuH31rhBm7VIPSUMLTJS_n9aJTrbIeM"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1cEWkM0_xlljlfJLZlzVpVMWf5RtlJmnL",
+     "url": "https://drive.google.com/uc?export=download&id=1cEWkM0_xlljlfJLZlzVpVMWf5RtlJmnL"
+    },
+    {
+     "name": "2025 Dec",
+     "fileId": "12YXZn1jhcAZ13ljmyPwozlZDcQmaK89a",
+     "url": "https://drive.google.com/uc?export=download&id=12YXZn1jhcAZ13ljmyPwozlZDcQmaK89a"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1cUcovEHJw87bAWBs5KTYuUFY9ml7PUvd",
+     "url": "https://drive.google.com/uc?export=download&id=1cUcovEHJw87bAWBs5KTYuUFY9ml7PUvd"
+    }
+   ],
+   "syllabus": []
+  },
+  {
+   "name": "Artificial Neural Networks (ANN)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "10Q_TElJedLbMnCJ2gjvVz7Gdy7O6KIzC",
+     "url": "https://drive.google.com/uc?export=download&id=10Q_TElJedLbMnCJ2gjvVz7Gdy7O6KIzC"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "17OIeFdbUo_5puFXVj142LCGwYY1sEf89",
+     "url": "https://drive.google.com/uc?export=download&id=17OIeFdbUo_5puFXVj142LCGwYY1sEf89"
+    },
+    {
+     "name": "Unit 3.1",
+     "fileId": "1ef65tjBwrfjppbx8GLQzbpH9qEleFnEZ",
+     "url": "https://drive.google.com/uc?export=download&id=1ef65tjBwrfjppbx8GLQzbpH9qEleFnEZ"
+    },
+    {
+     "name": "Unit 3.2",
+     "fileId": "1dpoqw6rQLiOWRpOuU8191TlYOYZXpf8r",
+     "url": "https://drive.google.com/uc?export=download&id=1dpoqw6rQLiOWRpOuU8191TlYOYZXpf8r"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1IELHGNz8wC7taqjhpegOL-ek53a1_8fy",
+     "url": "https://drive.google.com/uc?export=download&id=1IELHGNz8wC7taqjhpegOL-ek53a1_8fy"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1j3Gt5XrgRrOGogR2KxhHT9SqgXGYgTYA",
+     "url": "https://drive.google.com/uc?export=download&id=1j3Gt5XrgRrOGogR2KxhHT9SqgXGYgTYA"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 Nov",
+     "fileId": "1jLDqFM3CBs4ENirmVsvhfPLCzwD1FTkx",
+     "url": "https://drive.google.com/uc?export=download&id=1jLDqFM3CBs4ENirmVsvhfPLCzwD1FTkx"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1YeLuN-vNMX-8dY3T6LjMpqweLGtGYapQ",
+     "url": "https://drive.google.com/uc?export=download&id=1YeLuN-vNMX-8dY3T6LjMpqweLGtGYapQ"
+    },
+    {
+     "name": "2025 June",
+     "fileId": "1o4TzjOs4qwIFFwEzBfXn2yvgfLwXNTj9",
+     "url": "https://drive.google.com/uc?export=download&id=1o4TzjOs4qwIFFwEzBfXn2yvgfLwXNTj9"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1nVRska9rTPsKAQYiPe8CKuemVmjVtWzA",
+     "url": "https://drive.google.com/uc?export=download&id=1nVRska9rTPsKAQYiPe8CKuemVmjVtWzA"
+    }
+   ]
+  },
+  {
+   "name": "Basic Civil and Mechanical",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Lab Record",
+     "fileId": "1a6fmB1_lyXboJy6vYY0yHZBcJlna7Epm",
+     "url": "https://drive.google.com/uc?export=download&id=1a6fmB1_lyXboJy6vYY0yHZBcJlna7Epm"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "12j_zeFW-y8TApgHzsIUyndSbSVH8bo6K",
+     "url": "https://drive.google.com/uc?export=download&id=12j_zeFW-y8TApgHzsIUyndSbSVH8bo6K"
+    }
+   ]
+  },
+  {
+   "name": "Biochemistry",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1LFatmBflsfqLPt2uwvvmg6q98spNSYM4",
+     "url": "https://drive.google.com/uc?export=download&id=1LFatmBflsfqLPt2uwvvmg6q98spNSYM4"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1Kwn4ClDK030gDgw3yIlyAgJQCB5VQsD5",
+     "url": "https://drive.google.com/uc?export=download&id=1Kwn4ClDK030gDgw3yIlyAgJQCB5VQsD5"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1GUENkuHPpsqodhPc_PfsqL9vc9mT6ekv",
+     "url": "https://drive.google.com/uc?export=download&id=1GUENkuHPpsqodhPc_PfsqL9vc9mT6ekv"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1FwccIormscipthALlfrZNnDMNGTgdby7",
+     "url": "https://drive.google.com/uc?export=download&id=1FwccIormscipthALlfrZNnDMNGTgdby7"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1zsutjiTKTWEAWIVl51cFgJZ9HOgNmvbg",
+     "url": "https://drive.google.com/uc?export=download&id=1zsutjiTKTWEAWIVl51cFgJZ9HOgNmvbg"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Dec",
+     "fileId": "1OO4oYst1yKGOmWVPKldn8uRwxJcxwoId",
+     "url": "https://drive.google.com/uc?export=download&id=1OO4oYst1yKGOmWVPKldn8uRwxJcxwoId"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1q1k-16wTPw40wicR6U-LR_0zG1JLn5_-",
+     "url": "https://drive.google.com/uc?export=download&id=1q1k-16wTPw40wicR6U-LR_0zG1JLn5_-"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "11VNmILfB6Bz_k6i-guz--J-E7KRCQur0",
+     "url": "https://drive.google.com/uc?export=download&id=11VNmILfB6Bz_k6i-guz--J-E7KRCQur0"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1Vii9QbpN_ForocoIc2uLo13nCZzaSsHZ",
+     "url": "https://drive.google.com/uc?export=download&id=1Vii9QbpN_ForocoIc2uLo13nCZzaSsHZ"
+    }
+   ]
+  },
+  {
+   "name": "Biology",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1yiAyjXc0w9wQg9o_whiAPNyEa-4ZZs8y",
+     "url": "https://drive.google.com/uc?export=download&id=1yiAyjXc0w9wQg9o_whiAPNyEa-4ZZs8y"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1jhilL5F-hsFK3tgLNfvo46VTjBnGj7BR",
+     "url": "https://drive.google.com/uc?export=download&id=1jhilL5F-hsFK3tgLNfvo46VTjBnGj7BR"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1MOud9rO5x46nXC6uojbtf6VTIwWpCkgZ",
+     "url": "https://drive.google.com/uc?export=download&id=1MOud9rO5x46nXC6uojbtf6VTIwWpCkgZ"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "15MZOm3Ot0669FsAt6RFk_1AHzLNxOTuE",
+     "url": "https://drive.google.com/uc?export=download&id=15MZOm3Ot0669FsAt6RFk_1AHzLNxOTuE"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1msbXXicil1vrQ_mepqPnNqS9jR108Cri",
+     "url": "https://drive.google.com/uc?export=download&id=1msbXXicil1vrQ_mepqPnNqS9jR108Cri"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1Dt5aIMYZ_xhYGYThVKXMWcvpCzU4JD-p",
+     "url": "https://drive.google.com/uc?export=download&id=1Dt5aIMYZ_xhYGYThVKXMWcvpCzU4JD-p"
+    }
+   ]
+  },
+  {
+   "name": "Biomedical Sensors",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 5",
+     "fileId": "1zau08MIHPTyiYEGSxm0Ybw5BnuLkiPcq",
+     "url": "https://drive.google.com/uc?export=download&id=1zau08MIHPTyiYEGSxm0Ybw5BnuLkiPcq"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 May",
+     "fileId": "160Tikxh23KmZslQUVsOcqK4YhmQjgt_T",
+     "url": "https://drive.google.com/uc?export=download&id=160Tikxh23KmZslQUVsOcqK4YhmQjgt_T"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1UoVgm5eZTk9ey311M-hhWTcGnq5D6iJZ",
+     "url": "https://drive.google.com/uc?export=download&id=1UoVgm5eZTk9ey311M-hhWTcGnq5D6iJZ"
+    }
+   ]
+  },
+  {
+   "name": "Biostatistics",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1TNvGAILB9ZZU2q5Ae3UpBC_Y9ikkM5Vr",
+     "url": "https://drive.google.com/uc?export=download&id=1TNvGAILB9ZZU2q5Ae3UpBC_Y9ikkM5Vr"
+    },
+    {
+     "name": "Unit 2.1",
+     "fileId": "17DjUrZYy6Dy4_PoZ5TSdWoe56ILhyiGE",
+     "url": "https://drive.google.com/uc?export=download&id=17DjUrZYy6Dy4_PoZ5TSdWoe56ILhyiGE"
+    },
+    {
+     "name": "Unit 2.2",
+     "fileId": "11MiveS_524XA9VQZzOaVuGDMSGP3mZEP",
+     "url": "https://drive.google.com/uc?export=download&id=11MiveS_524XA9VQZzOaVuGDMSGP3mZEP"
+    },
+    {
+     "name": "Unit 2.3",
+     "fileId": "1NsndmpuWOB3d_ZliQhQyQraCdgbilGbQ",
+     "url": "https://drive.google.com/uc?export=download&id=1NsndmpuWOB3d_ZliQhQyQraCdgbilGbQ"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1ARyn6rcCOHx6HVxphQ-ulB17w6hq-jyJ",
+     "url": "https://drive.google.com/uc?export=download&id=1ARyn6rcCOHx6HVxphQ-ulB17w6hq-jyJ"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1pR9HKxoVw6oq8ytXIUMEr6wh_nhlxinu",
+     "url": "https://drive.google.com/uc?export=download&id=1pR9HKxoVw6oq8ytXIUMEr6wh_nhlxinu"
+    }
+   ]
+  },
+  {
+   "name": "Business Intelligence and Analytics (BIA)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "190w-z8fToKaA8f6xmjDkhrx51df5jLme",
+     "url": "https://drive.google.com/uc?export=download&id=190w-z8fToKaA8f6xmjDkhrx51df5jLme"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1HjZ4mtKLOYfLhCGVD_YrrxhQvI6HnzOl",
+     "url": "https://drive.google.com/uc?export=download&id=1HjZ4mtKLOYfLhCGVD_YrrxhQvI6HnzOl"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1sbI9PlYTS4UPLA1TvL-H43ED2c56IQfP",
+     "url": "https://drive.google.com/uc?export=download&id=1sbI9PlYTS4UPLA1TvL-H43ED2c56IQfP"
+    },
+    {
+     "name": "Unit 4.1",
+     "fileId": "1fDXJoF6mEnXrkhfZViSExxPzO15iCooy",
+     "url": "https://drive.google.com/uc?export=download&id=1fDXJoF6mEnXrkhfZViSExxPzO15iCooy"
+    },
+    {
+     "name": "Unit 4.2",
+     "fileId": "1xfHL6uBlV3SrR3uQrj7H6GtizUQlMzBl",
+     "url": "https://drive.google.com/uc?export=download&id=1xfHL6uBlV3SrR3uQrj7H6GtizUQlMzBl"
+    },
+    {
+     "name": "Unit 4||Problems",
+     "fileId": "1kPyY5WwjWyELtns3rJVjKj2Z24Ednrfr",
+     "url": "https://drive.google.com/uc?export=download&id=1kPyY5WwjWyELtns3rJVjKj2Z24Ednrfr"
+    },
+    {
+     "name": "Unit 5.1",
+     "fileId": "1sVfK6sVguT22PVfA64VrK_Pd6amChJoA",
+     "url": "https://drive.google.com/uc?export=download&id=1sVfK6sVguT22PVfA64VrK_Pd6amChJoA"
+    },
+    {
+     "name": "Unit 5.2",
+     "fileId": "1kVBzUQzKuLzjIeTL0WTLb_3pydVH81zw",
+     "url": "https://drive.google.com/uc?export=download&id=1kVBzUQzKuLzjIeTL0WTLb_3pydVH81zw"
+    },
+    {
+     "name": "Unit 5.3",
+     "fileId": "1kwu1Zkaou5YtuXh2hb4ndFtYp644fgoK",
+     "url": "https://drive.google.com/uc?export=download&id=1kwu1Zkaou5YtuXh2hb4ndFtYp644fgoK"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1XN38x8MCs3H7H_z_jMXzljVd01_5KMsz",
+     "url": "https://drive.google.com/uc?export=download&id=1XN38x8MCs3H7H_z_jMXzljVd01_5KMsz"
+    }
+   ]
+  },
+  {
+   "name": "Calculus and Linear Algebra",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1B_zSoaRWy80Yu3clikl3nPYv9nGqCDOF",
+     "url": "https://drive.google.com/uc?export=download&id=1B_zSoaRWy80Yu3clikl3nPYv9nGqCDOF"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1HeYOgY7_ab2HFh6CqOI3g6ZNVaGv3ukX",
+     "url": "https://drive.google.com/uc?export=download&id=1HeYOgY7_ab2HFh6CqOI3g6ZNVaGv3ukX"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1NhBxam3TNfArbQKV8Dd2FXKqVC_KwwBI",
+     "url": "https://drive.google.com/uc?export=download&id=1NhBxam3TNfArbQKV8Dd2FXKqVC_KwwBI"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1L9qC4u7b51dPujCtruG0dRAE7Ekn4V8U",
+     "url": "https://drive.google.com/uc?export=download&id=1L9qC4u7b51dPujCtruG0dRAE7Ekn4V8U"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1KGB6evB42TwXKYM_c6X7R9kPpfGezt_S",
+     "url": "https://drive.google.com/uc?export=download&id=1KGB6evB42TwXKYM_c6X7R9kPpfGezt_S"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Dec",
+     "fileId": "1fy4wxf6g1GoRbl9V2J-JUeK_sJGTjAXh",
+     "url": "https://drive.google.com/uc?export=download&id=1fy4wxf6g1GoRbl9V2J-JUeK_sJGTjAXh"
+    },
+    {
+     "name": "2023 Jan",
+     "fileId": "1QfDVo4WYbU48nzdkOA_IWWY4k8W3tzwV",
+     "url": "https://drive.google.com/uc?export=download&id=1QfDVo4WYbU48nzdkOA_IWWY4k8W3tzwV"
+    },
+    {
+     "name": "2023 July",
+     "fileId": "1tXIcT3x_0duUuqENzKeg5RkUki2xTtRQ",
+     "url": "https://drive.google.com/uc?export=download&id=1tXIcT3x_0duUuqENzKeg5RkUki2xTtRQ"
+    },
+    {
+     "name": "2023 June",
+     "fileId": "1TCdwxKBCYfxvdY_9gBmLKmEqHI8Gf-9k",
+     "url": "https://drive.google.com/uc?export=download&id=1TCdwxKBCYfxvdY_9gBmLKmEqHI8Gf-9k"
+    },
+    {
+     "name": "2023 Nov",
+     "fileId": "1dnIM5Z-IuFQnG3QKP6Ur-aSeZ6uS4v3f",
+     "url": "https://drive.google.com/uc?export=download&id=1dnIM5Z-IuFQnG3QKP6Ur-aSeZ6uS4v3f"
+    },
+    {
+     "name": "2024 Dec",
+     "fileId": "1jsHpGC-sjG8FWH0cQYlPY_Ih-GZwCQzQ",
+     "url": "https://drive.google.com/uc?export=download&id=1jsHpGC-sjG8FWH0cQYlPY_Ih-GZwCQzQ"
+    },
+    {
+     "name": "2024 Jan",
+     "fileId": "1hiIis6LHhfrKfJzWT_iGkDRCOznCQaSG",
+     "url": "https://drive.google.com/uc?export=download&id=1hiIis6LHhfrKfJzWT_iGkDRCOznCQaSG"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "1UsPpoCFGAG7s3QD_Ds3oBP6m4Pu0Ux1q",
+     "url": "https://drive.google.com/uc?export=download&id=1UsPpoCFGAG7s3QD_Ds3oBP6m4Pu0Ux1q"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1dmh0xGSArewQ_FUt3Y2hxuPqIssDPH45",
+     "url": "https://drive.google.com/uc?export=download&id=1dmh0xGSArewQ_FUt3Y2hxuPqIssDPH45"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1YNgbBvFGW-9ql0AuwUtHH8ae7ufkPc6F",
+     "url": "https://drive.google.com/uc?export=download&id=1YNgbBvFGW-9ql0AuwUtHH8ae7ufkPc6F"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1ynnlEzjhyz9-7PEU6NE0De_Yw3rX1D3P",
+     "url": "https://drive.google.com/uc?export=download&id=1ynnlEzjhyz9-7PEU6NE0De_Yw3rX1D3P"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1LTxWhG7rB29RwkrylkOH1vEa-PcfkhBk",
+     "url": "https://drive.google.com/uc?export=download&id=1LTxWhG7rB29RwkrylkOH1vEa-PcfkhBk"
+    }
+   ]
+  },
+  {
+   "name": "Cell Biology",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1oh53WlHEctPgAngfW-pgOQ5Sbd8iWi5Z",
+     "url": "https://drive.google.com/uc?export=download&id=1oh53WlHEctPgAngfW-pgOQ5Sbd8iWi5Z"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1tEfR7Hl_abIACjQwQBuXHGh6H9zGSBSt",
+     "url": "https://drive.google.com/uc?export=download&id=1tEfR7Hl_abIACjQwQBuXHGh6H9zGSBSt"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1-AGNh0OQPW8evYgnAUB6YPZfMNjq34c7",
+     "url": "https://drive.google.com/uc?export=download&id=1-AGNh0OQPW8evYgnAUB6YPZfMNjq34c7"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1mDSNyJFicOrGSgQ1xqsAGnb8Dv8nQYHn",
+     "url": "https://drive.google.com/uc?export=download&id=1mDSNyJFicOrGSgQ1xqsAGnb8Dv8nQYHn"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1kuf4XIYOaYOGHfWcalSPtOgxGn8edkDx",
+     "url": "https://drive.google.com/uc?export=download&id=1kuf4XIYOaYOGHfWcalSPtOgxGn8edkDx"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 June",
+     "fileId": "1GXpSSRSybZKmih5qdyXI5XRQXyi7vRsc",
+     "url": "https://drive.google.com/uc?export=download&id=1GXpSSRSybZKmih5qdyXI5XRQXyi7vRsc"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1FknzBztqWc8fE4UFt2KicclT36HdJicj",
+     "url": "https://drive.google.com/uc?export=download&id=1FknzBztqWc8fE4UFt2KicclT36HdJicj"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1EcE09TQuGqIp5xRE8bW9UvDJiej80GJ4",
+     "url": "https://drive.google.com/uc?export=download&id=1EcE09TQuGqIp5xRE8bW9UvDJiej80GJ4"
+    }
+   ]
+  },
+  {
+   "name": "Chemistry",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Lab Record",
+     "fileId": "1Go7B42dWyYxVXMs3fHLKRm2Yfgk0MkiX",
+     "url": "https://drive.google.com/uc?export=download&id=1Go7B42dWyYxVXMs3fHLKRm2Yfgk0MkiX"
+    },
+    {
+     "name": "Unit 1",
+     "fileId": "1HzDlZoZcNL4VSZNhCpLrNnfDG0kPhhP3",
+     "url": "https://drive.google.com/uc?export=download&id=1HzDlZoZcNL4VSZNhCpLrNnfDG0kPhhP3"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "14SONhXWmpaSloQEhkLoo1VkdmKI7J1F8",
+     "url": "https://drive.google.com/uc?export=download&id=14SONhXWmpaSloQEhkLoo1VkdmKI7J1F8"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1eN9e1k-SzAr31vwXZpoKufFDTG8Op4R4",
+     "url": "https://drive.google.com/uc?export=download&id=1eN9e1k-SzAr31vwXZpoKufFDTG8Op4R4"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "15NT-ENqJbUrYGhpqeLH7okceeRPT5_zL",
+     "url": "https://drive.google.com/uc?export=download&id=15NT-ENqJbUrYGhpqeLH7okceeRPT5_zL"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1GlM4Wrs1Wh5eK4AqEz4uHog7uky8GVLg",
+     "url": "https://drive.google.com/uc?export=download&id=1GlM4Wrs1Wh5eK4AqEz4uHog7uky8GVLg"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Jan",
+     "fileId": "1l7StxUsTFFTEaUAJoBX9xJau0yWhEsbP",
+     "url": "https://drive.google.com/uc?export=download&id=1l7StxUsTFFTEaUAJoBX9xJau0yWhEsbP"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1n4U_clJo9HLYHmbAQlrlBdmEPhUkyOxT",
+     "url": "https://drive.google.com/uc?export=download&id=1n4U_clJo9HLYHmbAQlrlBdmEPhUkyOxT"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "16SSKA6HBqNi2Ag58C8V22yKpU8d1sZWQ",
+     "url": "https://drive.google.com/uc?export=download&id=16SSKA6HBqNi2Ag58C8V22yKpU8d1sZWQ"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1Gqsk8LtcN0MwcZFJE1aBpRKNTVlPHJDL",
+     "url": "https://drive.google.com/uc?export=download&id=1Gqsk8LtcN0MwcZFJE1aBpRKNTVlPHJDL"
+    }
+   ]
+  },
+  {
+   "name": "Chinese",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Textbook",
+     "fileId": "1StK-9X0DhUgbKmGj2rO6_Po7eYXLjNlc",
+     "url": "https://drive.google.com/uc?export=download&id=1StK-9X0DhUgbKmGj2rO6_Po7eYXLjNlc"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Jan",
+     "fileId": "1p5vujGmQhv7rl2uXB-iFGKbKQ25KrAh9",
+     "url": "https://drive.google.com/uc?export=download&id=1p5vujGmQhv7rl2uXB-iFGKbKQ25KrAh9"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1KndYcbS0A4M2s2cXJfhEtuYZ9ATfUlL5",
+     "url": "https://drive.google.com/uc?export=download&id=1KndYcbS0A4M2s2cXJfhEtuYZ9ATfUlL5"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1hQyGDUaQv775DpvPTtyiUgyUGHbNe7Pg",
+     "url": "https://drive.google.com/uc?export=download&id=1hQyGDUaQv775DpvPTtyiUgyUGHbNe7Pg"
+    }
+   ]
+  },
+  {
+   "name": "Communicative English",
+   "semester": "",
+   "ppts": [],
+   "pyqs": [
+    {
+     "name": "2023 Jan",
+     "fileId": "1A68xO_SpZraxvJPjJO7779QAA5WD6FxU",
+     "url": "https://drive.google.com/uc?export=download&id=1A68xO_SpZraxvJPjJO7779QAA5WD6FxU"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1SPPwwUXyHwhhmBc3EO66ws7k5FJoQDYJ",
+     "url": "https://drive.google.com/uc?export=download&id=1SPPwwUXyHwhhmBc3EO66ws7k5FJoQDYJ"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1ImSg_me0Zml4eeiJ1Q8LELwJ9vFeQvpn",
+     "url": "https://drive.google.com/uc?export=download&id=1ImSg_me0Zml4eeiJ1Q8LELwJ9vFeQvpn"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "13dvdYaCLhssYgQGEyfKL5m-lIlqFmRuk",
+     "url": "https://drive.google.com/uc?export=download&id=13dvdYaCLhssYgQGEyfKL5m-lIlqFmRuk"
+    }
+   ]
+  },
+  {
+   "name": "Compiler Design (CD)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1x594O3qTH9e4ZgG7rdrSdeXzhpiMCDf9",
+     "url": "https://drive.google.com/uc?export=download&id=1x594O3qTH9e4ZgG7rdrSdeXzhpiMCDf9"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1lv5euuIF_MFhpkSDPUzlUYdzXho-aGeE",
+     "url": "https://drive.google.com/uc?export=download&id=1lv5euuIF_MFhpkSDPUzlUYdzXho-aGeE"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1EEcW1bRaYreA2Ut2zpWnLEdkE3-Qr0TS",
+     "url": "https://drive.google.com/uc?export=download&id=1EEcW1bRaYreA2Ut2zpWnLEdkE3-Qr0TS"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1vDKSrYUWEVVSP-cG4A4digXn-lclZe3f",
+     "url": "https://drive.google.com/uc?export=download&id=1vDKSrYUWEVVSP-cG4A4digXn-lclZe3f"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "10_yaAGNgBPs8XaxypBCAG2ACZouP9BJc",
+     "url": "https://drive.google.com/uc?export=download&id=10_yaAGNgBPs8XaxypBCAG2ACZouP9BJc"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Dec",
+     "fileId": "1O6A0I9hBt2NX_-sWf7infNTgOOxFIL12",
+     "url": "https://drive.google.com/uc?export=download&id=1O6A0I9hBt2NX_-sWf7infNTgOOxFIL12"
+    },
+    {
+     "name": "2023 June",
+     "fileId": "1PfM7bTnjC9VEq1xG4GDoE_SunFqvowBi",
+     "url": "https://drive.google.com/uc?export=download&id=1PfM7bTnjC9VEq1xG4GDoE_SunFqvowBi"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1o1MD-J1FHiNNQgixHaLiOJqtKpVRAfp7",
+     "url": "https://drive.google.com/uc?export=download&id=1o1MD-J1FHiNNQgixHaLiOJqtKpVRAfp7"
+    },
+    {
+     "name": "2023 Nov",
+     "fileId": "1csVETELHxdHVWkoBkVLuboLrXrcUg_aH",
+     "url": "https://drive.google.com/uc?export=download&id=1csVETELHxdHVWkoBkVLuboLrXrcUg_aH"
+    },
+    {
+     "name": "2024 Jan",
+     "fileId": "16HsQENMwLst38TavZby4oIHlwWJeaMHb",
+     "url": "https://drive.google.com/uc?export=download&id=16HsQENMwLst38TavZby4oIHlwWJeaMHb"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1vSo21Jk0W3QystZ3v9j44y1BR2FClUUi",
+     "url": "https://drive.google.com/uc?export=download&id=1vSo21Jk0W3QystZ3v9j44y1BR2FClUUi"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "13rdNSI5fBCRc3RwgVhu-fMFZraeFEIeQ",
+     "url": "https://drive.google.com/uc?export=download&id=13rdNSI5fBCRc3RwgVhu-fMFZraeFEIeQ"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1A9kQ4qzkBzcWXN5WgxolqczMmgD14jhs",
+     "url": "https://drive.google.com/uc?export=download&id=1A9kQ4qzkBzcWXN5WgxolqczMmgD14jhs"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1tOqmG6O45h4WUPV-Y5RYPdTMeOymzuls",
+     "url": "https://drive.google.com/uc?export=download&id=1tOqmG6O45h4WUPV-Y5RYPdTMeOymzuls"
+    }
+   ]
+  },
+  {
+   "name": "Computational Molecular Biology (CMB)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "10CbwmW-nrTFfGNN7YwTuJATc4cJR75U-",
+     "url": "https://drive.google.com/uc?export=download&id=10CbwmW-nrTFfGNN7YwTuJATc4cJR75U-"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1V97J-RzEeGivU3_rfv6ymvIX83B_cVl3",
+     "url": "https://drive.google.com/uc?export=download&id=1V97J-RzEeGivU3_rfv6ymvIX83B_cVl3"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "13Yck6ukNnFz1lrXhSo30htIy5VqQzwtc",
+     "url": "https://drive.google.com/uc?export=download&id=13Yck6ukNnFz1lrXhSo30htIy5VqQzwtc"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1VpDmw2KKnhL12Q_c2p6Y5FMMauUFRqOR",
+     "url": "https://drive.google.com/uc?export=download&id=1VpDmw2KKnhL12Q_c2p6Y5FMMauUFRqOR"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "10NexIATzSnshfM953vuUXbWQmcVyqF69",
+     "url": "https://drive.google.com/uc?export=download&id=10NexIATzSnshfM953vuUXbWQmcVyqF69"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": []
+  },
+  {
+   "name": "Computer Networks (CN)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1pCImSqQqJCQraUxTCObE0fHoHU1SbuS6",
+     "url": "https://drive.google.com/uc?export=download&id=1pCImSqQqJCQraUxTCObE0fHoHU1SbuS6"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1P-AxxwFb9TCGQZrT2YqgtXa9T5x15xj4",
+     "url": "https://drive.google.com/uc?export=download&id=1P-AxxwFb9TCGQZrT2YqgtXa9T5x15xj4"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1qSxbUibfy0GY-t7m5XBJuQr5wdc69R8v",
+     "url": "https://drive.google.com/uc?export=download&id=1qSxbUibfy0GY-t7m5XBJuQr5wdc69R8v"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1PIXMW9OeNfGexZIIlEU6f1nkVCuBgmhW",
+     "url": "https://drive.google.com/uc?export=download&id=1PIXMW9OeNfGexZIIlEU6f1nkVCuBgmhW"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1KD_zcfkhYaGRZt8DWUFwLKmToEGUFDR4",
+     "url": "https://drive.google.com/uc?export=download&id=1KD_zcfkhYaGRZt8DWUFwLKmToEGUFDR4"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 Jan",
+     "fileId": "16nHil6OKlnGMx-eWA8HZpfswdfrWWxUn",
+     "url": "https://drive.google.com/uc?export=download&id=16nHil6OKlnGMx-eWA8HZpfswdfrWWxUn"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "1kcZqTuQAqA-A7BLi8rFIeoSx9IulVKB8",
+     "url": "https://drive.google.com/uc?export=download&id=1kcZqTuQAqA-A7BLi8rFIeoSx9IulVKB8"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1Qv4TZVlHXTv_pSLAzQZYBh-0-_gNNrJk",
+     "url": "https://drive.google.com/uc?export=download&id=1Qv4TZVlHXTv_pSLAzQZYBh-0-_gNNrJk"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1VqfaTS2Nqe89Uy8EGlCnTbzb1PjClZP9",
+     "url": "https://drive.google.com/uc?export=download&id=1VqfaTS2Nqe89Uy8EGlCnTbzb1PjClZP9"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1yE89MkWRCO_KQcA9HomT4pqtcQvRihDV",
+     "url": "https://drive.google.com/uc?export=download&id=1yE89MkWRCO_KQcA9HomT4pqtcQvRihDV"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1aCWn0WE3dn5isURJkIBal9W4ZVEFYobp",
+     "url": "https://drive.google.com/uc?export=download&id=1aCWn0WE3dn5isURJkIBal9W4ZVEFYobp"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1jTBVb30cKryYBqkxGtkwcOndYWoJFgO2",
+     "url": "https://drive.google.com/uc?export=download&id=1jTBVb30cKryYBqkxGtkwcOndYWoJFgO2"
+    }
+   ]
+  },
+  {
+   "name": "Computer Organization and Architecture (COA)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1jQ0D8kcDk8EcrwYItww6uTLVWLSMg8zo",
+     "url": "https://drive.google.com/uc?export=download&id=1jQ0D8kcDk8EcrwYItww6uTLVWLSMg8zo"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1KA9v6EVAtg6RSqqaoZRMYGGXwWRqfLjt",
+     "url": "https://drive.google.com/uc?export=download&id=1KA9v6EVAtg6RSqqaoZRMYGGXwWRqfLjt"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1G7uYj-YUAyXL2x2wYT7sdlQrMvzCLpHC",
+     "url": "https://drive.google.com/uc?export=download&id=1G7uYj-YUAyXL2x2wYT7sdlQrMvzCLpHC"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1ayQweXqajAzzxBhGt4FvN0al0ZKDrBca",
+     "url": "https://drive.google.com/uc?export=download&id=1ayQweXqajAzzxBhGt4FvN0al0ZKDrBca"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "187PbN2nRkaUgLnKIBXVPaL2LtEjoV_kE",
+     "url": "https://drive.google.com/uc?export=download&id=187PbN2nRkaUgLnKIBXVPaL2LtEjoV_kE"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 May",
+     "fileId": "1yUHTy2rXTXcCu6yTegL3k38s-zV8n4uS",
+     "url": "https://drive.google.com/uc?export=download&id=1yUHTy2rXTXcCu6yTegL3k38s-zV8n4uS"
+    },
+    {
+     "name": "2023 Nov",
+     "fileId": "1z8C_B_1t9IsGd2_PLS7P_1zc877GOyZr",
+     "url": "https://drive.google.com/uc?export=download&id=1z8C_B_1t9IsGd2_PLS7P_1zc877GOyZr"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "1pPdlJeVcz5wef4ykJAWrD-QhvseGRcg8",
+     "url": "https://drive.google.com/uc?export=download&id=1pPdlJeVcz5wef4ykJAWrD-QhvseGRcg8"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1mS7ZYOsu8IEqQVkFbutXoMX7dVc1AhuT",
+     "url": "https://drive.google.com/uc?export=download&id=1mS7ZYOsu8IEqQVkFbutXoMX7dVc1AhuT"
+    },
+    {
+     "name": "QB Unit 1",
+     "fileId": "1UDyHlMAAVZ4oX2urr7a9SRIhc-eeJQw1",
+     "url": "https://drive.google.com/uc?export=download&id=1UDyHlMAAVZ4oX2urr7a9SRIhc-eeJQw1"
+    },
+    {
+     "name": "QB Unit 2",
+     "fileId": "1J-01i2tdUwsL41sQpjSM5wmC6xRKE_Jm",
+     "url": "https://drive.google.com/uc?export=download&id=1J-01i2tdUwsL41sQpjSM5wmC6xRKE_Jm"
+    },
+    {
+     "name": "QB Unit 3",
+     "fileId": "1m5wFPUQKcElBSu_SrOcCduCF8VwcQobw",
+     "url": "https://drive.google.com/uc?export=download&id=1m5wFPUQKcElBSu_SrOcCduCF8VwcQobw"
+    },
+    {
+     "name": "QB Unit 4",
+     "fileId": "1EN2XFlehTCuwnL8FIokbNFmbmID2t_Eq",
+     "url": "https://drive.google.com/uc?export=download&id=1EN2XFlehTCuwnL8FIokbNFmbmID2t_Eq"
+    },
+    {
+     "name": "QB Unit 5",
+     "fileId": "1qgkCi5d7bTrQXrBCUMOV7WyqsvR1mvzn",
+     "url": "https://drive.google.com/uc?export=download&id=1qgkCi5d7bTrQXrBCUMOV7WyqsvR1mvzn"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1L1cd8dRnflL6uw3Oauy_Sf4QSwr_0xTW",
+     "url": "https://drive.google.com/uc?export=download&id=1L1cd8dRnflL6uw3Oauy_Sf4QSwr_0xTW"
+    }
+   ]
+  },
+  {
+   "name": "Data Mining and Analysis (DMA)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1A4ZCtVMQKqe4oDszp6gB-1a0b7g5F4jR",
+     "url": "https://drive.google.com/uc?export=download&id=1A4ZCtVMQKqe4oDszp6gB-1a0b7g5F4jR"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1NUSng7NPEpT01ZXrZPL30BITL_0M9HNJ",
+     "url": "https://drive.google.com/uc?export=download&id=1NUSng7NPEpT01ZXrZPL30BITL_0M9HNJ"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1SO1wAE9sVUxqUS9rjMXlLy2rT7Qcpt1C",
+     "url": "https://drive.google.com/uc?export=download&id=1SO1wAE9sVUxqUS9rjMXlLy2rT7Qcpt1C"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1YTlpDErziJDQuHttxy5wIsQHKfFXEI0S",
+     "url": "https://drive.google.com/uc?export=download&id=1YTlpDErziJDQuHttxy5wIsQHKfFXEI0S"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1uClpS6556Vo-2_5c9FyRoz-MSE4VFx4N",
+     "url": "https://drive.google.com/uc?export=download&id=1uClpS6556Vo-2_5c9FyRoz-MSE4VFx4N"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2025 July",
+     "fileId": "1LGguy23qLwajkdwADeFLYqRAQoyV_Nwo",
+     "url": "https://drive.google.com/uc?export=download&id=1LGguy23qLwajkdwADeFLYqRAQoyV_Nwo"
+    },
+    {
+     "name": "2025 Nov",
+     "fileId": "1b1v0a_Nz4u4ZMZBCfe80026Cuk_6PMNd",
+     "url": "https://drive.google.com/uc?export=download&id=1b1v0a_Nz4u4ZMZBCfe80026Cuk_6PMNd"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1owKvAA7up3xjdK3lW28t_K_syFmaXl-d",
+     "url": "https://drive.google.com/uc?export=download&id=1owKvAA7up3xjdK3lW28t_K_syFmaXl-d"
+    }
+   ]
+  },
+  {
+   "name": "Data Science (DS)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1Hdrl_sQgMTcMVNQeSLQBSdPr0w9kT6BA",
+     "url": "https://drive.google.com/uc?export=download&id=1Hdrl_sQgMTcMVNQeSLQBSdPr0w9kT6BA"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "14kUMOLjd-WyI_LjQ7OOKQhNQ_VASLc4J",
+     "url": "https://drive.google.com/uc?export=download&id=14kUMOLjd-WyI_LjQ7OOKQhNQ_VASLc4J"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1bshzlkHrat5zCvjKC982bYcLiFEVAbJx",
+     "url": "https://drive.google.com/uc?export=download&id=1bshzlkHrat5zCvjKC982bYcLiFEVAbJx"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 July",
+     "fileId": "1Vtc5_0cCPC81Sq8QakNjnGe-ukZGglXx",
+     "url": "https://drive.google.com/uc?export=download&id=1Vtc5_0cCPC81Sq8QakNjnGe-ukZGglXx"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "11_shZD3AcNDPjlKP08UhaSdd7E9Ckvuc",
+     "url": "https://drive.google.com/uc?export=download&id=11_shZD3AcNDPjlKP08UhaSdd7E9Ckvuc"
+    },
+    {
+     "name": "2025 Dec",
+     "fileId": "1PwB-RfN3cNsspaLFGl_AYTD1JMeZep9I",
+     "url": "https://drive.google.com/uc?export=download&id=1PwB-RfN3cNsspaLFGl_AYTD1JMeZep9I"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1JHo4uiUCko-U9Irq6aemkhejOj2cq6r7",
+     "url": "https://drive.google.com/uc?export=download&id=1JHo4uiUCko-U9Irq6aemkhejOj2cq6r7"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1nxO7iZhxxRToan6URr2usEagZgJ693ks",
+     "url": "https://drive.google.com/uc?export=download&id=1nxO7iZhxxRToan6URr2usEagZgJ693ks"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1ezOJ44vVEPw75Y4wQEPJ5uDxSZxM7he6",
+     "url": "https://drive.google.com/uc?export=download&id=1ezOJ44vVEPw75Y4wQEPJ5uDxSZxM7he6"
+    }
+   ]
+  },
+  {
+   "name": "Data Structures and Algorithms (DSA)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1Scz0dzNgzwEORYwFKVYTTiuubpb27gJd",
+     "url": "https://drive.google.com/uc?export=download&id=1Scz0dzNgzwEORYwFKVYTTiuubpb27gJd"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1l2DPtXzGn_HCKttd2upJZIWvL5NA77sq",
+     "url": "https://drive.google.com/uc?export=download&id=1l2DPtXzGn_HCKttd2upJZIWvL5NA77sq"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1IJv22Betaw49B319nQY1hlfJZ0dp7CqH",
+     "url": "https://drive.google.com/uc?export=download&id=1IJv22Betaw49B319nQY1hlfJZ0dp7CqH"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1B7uxBF3fHfYpH_hsBvl8BmXBGc8qeE2E",
+     "url": "https://drive.google.com/uc?export=download&id=1B7uxBF3fHfYpH_hsBvl8BmXBGc8qeE2E"
+    },
+    {
+     "name": "Unit 5||Dijkstras Algorithm",
+     "fileId": "1Ilv73ELIyOPDioYG9EZbip8HkqCPDyKf",
+     "url": "https://drive.google.com/uc?export=download&id=1Ilv73ELIyOPDioYG9EZbip8HkqCPDyKf"
+    },
+    {
+     "name": "Unit 5||Graph Introduction",
+     "fileId": "1YGNrPC0Dk4lg00yI-ka4_NY3hf9ORbK5",
+     "url": "https://drive.google.com/uc?export=download&id=1YGNrPC0Dk4lg00yI-ka4_NY3hf9ORbK5"
+    },
+    {
+     "name": "Unit 5||Kruskals Algorithm",
+     "fileId": "16bV5kqsOArJVZ8S_2t-mWYkLu70WnLn1",
+     "url": "https://drive.google.com/uc?export=download&id=16bV5kqsOArJVZ8S_2t-mWYkLu70WnLn1"
+    },
+    {
+     "name": "Unit 5||Prims Algorithm",
+     "fileId": "1BIZ39Cyp6I9bYnND9-LJKYR_ltrG_NK5",
+     "url": "https://drive.google.com/uc?export=download&id=1BIZ39Cyp6I9bYnND9-LJKYR_ltrG_NK5"
+    },
+    {
+     "name": "Unit 5||Topological sorting",
+     "fileId": "11zC2ES8ccwNOBkOEJooUiHTGmGA18UA8",
+     "url": "https://drive.google.com/uc?export=download&id=11zC2ES8ccwNOBkOEJooUiHTGmGA18UA8"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Dec",
+     "fileId": "1eLhERZ8gF4mHXEFjZarL6ojA_Oqzs7dT",
+     "url": "https://drive.google.com/uc?export=download&id=1eLhERZ8gF4mHXEFjZarL6ojA_Oqzs7dT"
+    },
+    {
+     "name": "2023 July",
+     "fileId": "13ZooVZDGQCrktfHmZdPYwWYBOKo_Es1b",
+     "url": "https://drive.google.com/uc?export=download&id=13ZooVZDGQCrktfHmZdPYwWYBOKo_Es1b"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1o_nrDX7K-DQUHQImihrsJR__jf8tn6Iy",
+     "url": "https://drive.google.com/uc?export=download&id=1o_nrDX7K-DQUHQImihrsJR__jf8tn6Iy"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1Eq-yAjernhdjVgYIo6Nmm0qlPItL3bL3",
+     "url": "https://drive.google.com/uc?export=download&id=1Eq-yAjernhdjVgYIo6Nmm0qlPItL3bL3"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1KT0AgSZcXRi4PTPd_NA87zTMRV5IqZTS",
+     "url": "https://drive.google.com/uc?export=download&id=1KT0AgSZcXRi4PTPd_NA87zTMRV5IqZTS"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1AnC6mdewR5I3m-pfXc5l0vugw-GdwI9G",
+     "url": "https://drive.google.com/uc?export=download&id=1AnC6mdewR5I3m-pfXc5l0vugw-GdwI9G"
+    },
+    {
+     "name": "2025 June",
+     "fileId": "1XaNtr2IsJHCB3CmRKfL-bkg1_vMAlCSc",
+     "url": "https://drive.google.com/uc?export=download&id=1XaNtr2IsJHCB3CmRKfL-bkg1_vMAlCSc"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1m_1T7-DSdpueX9fnjNW_6CsrzEQ_N9vP",
+     "url": "https://drive.google.com/uc?export=download&id=1m_1T7-DSdpueX9fnjNW_6CsrzEQ_N9vP"
+    }
+   ]
+  },
+  {
+   "name": "Data Warehouse (DW)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Apriori Algorithm.pptx",
+     "fileId": "1-iEO1KXH5MXbRWjpZE9ffw5sRcUsJaGZ",
+     "url": "https://drive.google.com/uc?export=download&id=1-iEO1KXH5MXbRWjpZE9ffw5sRcUsJaGZ"
+    },
+    {
+     "name": "Unit 1",
+     "fileId": "1U-AX5P9bYHC6UpNy-EllCReJLBNtjFuc",
+     "url": "https://drive.google.com/uc?export=download&id=1U-AX5P9bYHC6UpNy-EllCReJLBNtjFuc"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1ljNGRDSCXVg1eFwSc6GlG0PoJre-pRkX",
+     "url": "https://drive.google.com/uc?export=download&id=1ljNGRDSCXVg1eFwSc6GlG0PoJre-pRkX"
+    },
+    {
+     "name": "Unit 3.1",
+     "fileId": "12EDMBUaM9fp3ylX2QJQzFgjh_CnzZ0eT",
+     "url": "https://drive.google.com/uc?export=download&id=12EDMBUaM9fp3ylX2QJQzFgjh_CnzZ0eT"
+    },
+    {
+     "name": "Unit 3.2",
+     "fileId": "1PXKpD1DsddPLOZQTF7NiS7MxxFCcgghD",
+     "url": "https://drive.google.com/uc?export=download&id=1PXKpD1DsddPLOZQTF7NiS7MxxFCcgghD"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "17iSXJMrzVULMgy_LRZ-C4Jzbaw_bG92-",
+     "url": "https://drive.google.com/uc?export=download&id=17iSXJMrzVULMgy_LRZ-C4Jzbaw_bG92-"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "15D3UTqgMZoT9ZmXaooTmBm1DweyIVV9f",
+     "url": "https://drive.google.com/uc?export=download&id=15D3UTqgMZoT9ZmXaooTmBm1DweyIVV9f"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": []
+  },
+  {
+   "name": "Database Management Systems (DBMS)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1dJJYHSYm3Xc4QucG0NfLiulUnp1PzooS",
+     "url": "https://drive.google.com/uc?export=download&id=1dJJYHSYm3Xc4QucG0NfLiulUnp1PzooS"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "16WId_pA8G6CIV_TxIU12YQ-ENyxKg-bX",
+     "url": "https://drive.google.com/uc?export=download&id=16WId_pA8G6CIV_TxIU12YQ-ENyxKg-bX"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1v4ZZafd3q1U7KHvCmRcy31Yru-KMndYs",
+     "url": "https://drive.google.com/uc?export=download&id=1v4ZZafd3q1U7KHvCmRcy31Yru-KMndYs"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1GogfaY0HUEn1DUuQC0Ej2iFYUfwyCZ8C",
+     "url": "https://drive.google.com/uc?export=download&id=1GogfaY0HUEn1DUuQC0Ej2iFYUfwyCZ8C"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1qivjD-28ZVWd9AKIlOVENLHExon46ONy",
+     "url": "https://drive.google.com/uc?export=download&id=1qivjD-28ZVWd9AKIlOVENLHExon46ONy"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2022 June",
+     "fileId": "1Msjk0wvAicbuQakU6M-LiM_-U6wBaV1n",
+     "url": "https://drive.google.com/uc?export=download&id=1Msjk0wvAicbuQakU6M-LiM_-U6wBaV1n"
+    },
+    {
+     "name": "2022 Nov",
+     "fileId": "19SQZ4s5ZTtxGMa-7oD30Ts0teDdWSO17",
+     "url": "https://drive.google.com/uc?export=download&id=19SQZ4s5ZTtxGMa-7oD30Ts0teDdWSO17"
+    },
+    {
+     "name": "2023 Dec",
+     "fileId": "1w1N2644kuwnDsuF8pySbq84J5ZlScVwP",
+     "url": "https://drive.google.com/uc?export=download&id=1w1N2644kuwnDsuF8pySbq84J5ZlScVwP"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1R5enEz-WXw605jrEgdw0-tiIMULEkzCp",
+     "url": "https://drive.google.com/uc?export=download&id=1R5enEz-WXw605jrEgdw0-tiIMULEkzCp"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1bVUiOjsZVu2KPVDR0GdBWWMtvUl_eARb",
+     "url": "https://drive.google.com/uc?export=download&id=1bVUiOjsZVu2KPVDR0GdBWWMtvUl_eARb"
+    }
+   ]
+  },
+  {
+   "name": "Database Security and Privacy",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1xVPdrxcs2RVqQbnBwDFYxu_3FYY_FX3H",
+     "url": "https://drive.google.com/uc?export=download&id=1xVPdrxcs2RVqQbnBwDFYxu_3FYY_FX3H"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1GeqhopYuImowJSlqVr6ooI336fKFQS9u",
+     "url": "https://drive.google.com/uc?export=download&id=1GeqhopYuImowJSlqVr6ooI336fKFQS9u"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1TVxj8oPchfgiWsV0Du2Y8KQcLPqvvv77",
+     "url": "https://drive.google.com/uc?export=download&id=1TVxj8oPchfgiWsV0Du2Y8KQcLPqvvv77"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1wId8IqfgCZ-uim78RL3A4qJPNLODcR45",
+     "url": "https://drive.google.com/uc?export=download&id=1wId8IqfgCZ-uim78RL3A4qJPNLODcR45"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1i_7QQ-aWYkRRJ8sF0LlTShbUDB3ZgzCA",
+     "url": "https://drive.google.com/uc?export=download&id=1i_7QQ-aWYkRRJ8sF0LlTShbUDB3ZgzCA"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 Nov",
+     "fileId": "1CgwOj5YGEmMbe1mFbW77Yc51lod_SjFQ",
+     "url": "https://drive.google.com/uc?export=download&id=1CgwOj5YGEmMbe1mFbW77Yc51lod_SjFQ"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1tzPn1jIatBxTYKa2U9bkeOkKmhLXFsvY",
+     "url": "https://drive.google.com/uc?export=download&id=1tzPn1jIatBxTYKa2U9bkeOkKmhLXFsvY"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1wHhF55HmKJViRJ3207Urpd3qcUfKLhM5",
+     "url": "https://drive.google.com/uc?export=download&id=1wHhF55HmKJViRJ3207Urpd3qcUfKLhM5"
+    }
+   ]
+  },
+  {
+   "name": "Design and Analysis of Algorithms (DAA)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1oF0Yz4KJs3uEl6583AQlaOvsO7h_07MN",
+     "url": "https://drive.google.com/uc?export=download&id=1oF0Yz4KJs3uEl6583AQlaOvsO7h_07MN"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1XxjLSqygUSMBP7YvC64yLyOr9UcLJjxj",
+     "url": "https://drive.google.com/uc?export=download&id=1XxjLSqygUSMBP7YvC64yLyOr9UcLJjxj"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1yoLgc1Lpqoeub2Lr1R5_TeVvqC57zsX5",
+     "url": "https://drive.google.com/uc?export=download&id=1yoLgc1Lpqoeub2Lr1R5_TeVvqC57zsX5"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "11VrbkNPqiXDUBiK7lKiugVRIJsjaXQvt",
+     "url": "https://drive.google.com/uc?export=download&id=11VrbkNPqiXDUBiK7lKiugVRIJsjaXQvt"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1TpXyTkg-fZ11Gn8i_cn1BBAmB8iGoMmQ",
+     "url": "https://drive.google.com/uc?export=download&id=1TpXyTkg-fZ11Gn8i_cn1BBAmB8iGoMmQ"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 July",
+     "fileId": "1QmnAuT1NODdQ6opFuxrvZB30kEuZ6QDl",
+     "url": "https://drive.google.com/uc?export=download&id=1QmnAuT1NODdQ6opFuxrvZB30kEuZ6QDl"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1u4qqxnDMMAjFuNKMWHuyPtj9Zb8FpWuf",
+     "url": "https://drive.google.com/uc?export=download&id=1u4qqxnDMMAjFuNKMWHuyPtj9Zb8FpWuf"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "1FJt7sUlaXdGOPtwZ9xfmNdeoIPrhElUY",
+     "url": "https://drive.google.com/uc?export=download&id=1FJt7sUlaXdGOPtwZ9xfmNdeoIPrhElUY"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1KgbeKVmrd3KFzt00n9jioKM7vtKdSnMp",
+     "url": "https://drive.google.com/uc?export=download&id=1KgbeKVmrd3KFzt00n9jioKM7vtKdSnMp"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1wVADP0NvoI_LFHtjZ4BffHqsSd8OldiA",
+     "url": "https://drive.google.com/uc?export=download&id=1wVADP0NvoI_LFHtjZ4BffHqsSd8OldiA"
+    },
+    {
+     "name": "2025 Dec",
+     "fileId": "1K270nz_cHKAbYKQ8RrR_oMKDLkYldFd0",
+     "url": "https://drive.google.com/uc?export=download&id=1K270nz_cHKAbYKQ8RrR_oMKDLkYldFd0"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1hxdANgHZ5KP6uJL3_MAZ57ADKkhyUG5Y",
+     "url": "https://drive.google.com/uc?export=download&id=1hxdANgHZ5KP6uJL3_MAZ57ADKkhyUG5Y"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1iN7pdOBtyL_ubYQtIjEq84Q7MKhiIUNZ",
+     "url": "https://drive.google.com/uc?export=download&id=1iN7pdOBtyL_ubYQtIjEq84Q7MKhiIUNZ"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1HQl1O3OUk1Ydq0cSMqpi03oDMsEFmYfU",
+     "url": "https://drive.google.com/uc?export=download&id=1HQl1O3OUk1Ydq0cSMqpi03oDMsEFmYfU"
+    }
+   ]
+  },
+  {
+   "name": "Digital Image Processing (DIP)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1f2xAPKnEhviO6yjslWQ_HbqhLytqfoXP",
+     "url": "https://drive.google.com/uc?export=download&id=1f2xAPKnEhviO6yjslWQ_HbqhLytqfoXP"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1NbSHd7xhy-7p8gXPO4lNS9LMQttvo_jA",
+     "url": "https://drive.google.com/uc?export=download&id=1NbSHd7xhy-7p8gXPO4lNS9LMQttvo_jA"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1QgU-iJ-sOFcFdx4W4nhFA__yE1FqakE0",
+     "url": "https://drive.google.com/uc?export=download&id=1QgU-iJ-sOFcFdx4W4nhFA__yE1FqakE0"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1M69QXHnhRKGotyoXq_gZRyw05m_v7KIT",
+     "url": "https://drive.google.com/uc?export=download&id=1M69QXHnhRKGotyoXq_gZRyw05m_v7KIT"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1F0BlLa3xxuTXE8RJ8QchYKZ5A6RREVaB",
+     "url": "https://drive.google.com/uc?export=download&id=1F0BlLa3xxuTXE8RJ8QchYKZ5A6RREVaB"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Dec",
+     "fileId": "1qZU4JTSuMg8EFB_u3Bk2XLuyf4ydGUNK",
+     "url": "https://drive.google.com/uc?export=download&id=1qZU4JTSuMg8EFB_u3Bk2XLuyf4ydGUNK"
+    },
+    {
+     "name": "2023 June",
+     "fileId": "1Gld1M0QPm4R-xkKk8cfJ0Cr8rIUmJwjH",
+     "url": "https://drive.google.com/uc?export=download&id=1Gld1M0QPm4R-xkKk8cfJ0Cr8rIUmJwjH"
+    },
+    {
+     "name": "2024 Dec",
+     "fileId": "1HcW7Tjwi-hnmrETvMIfl6MwFlmGuDvF-",
+     "url": "https://drive.google.com/uc?export=download&id=1HcW7Tjwi-hnmrETvMIfl6MwFlmGuDvF-"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "1jp71G0qiXNvdEcR2RMaPC7wer1mcSTzG",
+     "url": "https://drive.google.com/uc?export=download&id=1jp71G0qiXNvdEcR2RMaPC7wer1mcSTzG"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1rcOJ1qae-cB-zCjM0cXDdhZ-h540K9Ta",
+     "url": "https://drive.google.com/uc?export=download&id=1rcOJ1qae-cB-zCjM0cXDdhZ-h540K9Ta"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1lMk-w0w2BHi28t9aWFzv7t_o33UtBXBN",
+     "url": "https://drive.google.com/uc?export=download&id=1lMk-w0w2BHi28t9aWFzv7t_o33UtBXBN"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1OCWHk-vUJlkq1NR4i7j3QG1Y_UrU82Jm",
+     "url": "https://drive.google.com/uc?export=download&id=1OCWHk-vUJlkq1NR4i7j3QG1Y_UrU82Jm"
+    }
+   ]
+  },
+  {
+   "name": "Digital Logic Design (DLD)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1ktyFKpE49_dPRfFm6pGe5DXwMYGDzgj0",
+     "url": "https://drive.google.com/uc?export=download&id=1ktyFKpE49_dPRfFm6pGe5DXwMYGDzgj0"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "16waGt6s8N3YZcgoAkrY0LaSIdkZG-4de",
+     "url": "https://drive.google.com/uc?export=download&id=16waGt6s8N3YZcgoAkrY0LaSIdkZG-4de"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1WbsvnMjrdAG21-rCufB5vcoAmZTezO6b",
+     "url": "https://drive.google.com/uc?export=download&id=1WbsvnMjrdAG21-rCufB5vcoAmZTezO6b"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1WtXQ_CRANN0Nq08vTKdThwdkJyfLWY-X",
+     "url": "https://drive.google.com/uc?export=download&id=1WtXQ_CRANN0Nq08vTKdThwdkJyfLWY-X"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1sYLU3d1Y-ihAhC_KlWXAEnHodd1YIbJB",
+     "url": "https://drive.google.com/uc?export=download&id=1sYLU3d1Y-ihAhC_KlWXAEnHodd1YIbJB"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Dec",
+     "fileId": "1W-3nAM8RplUUO7Y-5aV-OFgIhcMRpRIP",
+     "url": "https://drive.google.com/uc?export=download&id=1W-3nAM8RplUUO7Y-5aV-OFgIhcMRpRIP"
+    },
+    {
+     "name": "2023 June",
+     "fileId": "1SbFwXiPAiG0Fqh0eLrS-Qok33PWdUq12",
+     "url": "https://drive.google.com/uc?export=download&id=1SbFwXiPAiG0Fqh0eLrS-Qok33PWdUq12"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "1J8yNS5nrXzdLNP1WcmnfH9jmIcTBehP8",
+     "url": "https://drive.google.com/uc?export=download&id=1J8yNS5nrXzdLNP1WcmnfH9jmIcTBehP8"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1T09Ud0Ceb8Pa6tz2vZgJia7rMeayx1sI",
+     "url": "https://drive.google.com/uc?export=download&id=1T09Ud0Ceb8Pa6tz2vZgJia7rMeayx1sI"
+    }
+   ]
+  },
+  {
+   "name": "Digital Signal Processing (DSP)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "13RBImd0tKT7e0yzxyv5E9hbMaOJ1bmnb",
+     "url": "https://drive.google.com/uc?export=download&id=13RBImd0tKT7e0yzxyv5E9hbMaOJ1bmnb"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1WF-Q-_sQCalcKDANjU0UqhA4HEpGULBd",
+     "url": "https://drive.google.com/uc?export=download&id=1WF-Q-_sQCalcKDANjU0UqhA4HEpGULBd"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1AM3I_EuRjLjPaSTEvsXMEgnZ-A0QSMM6",
+     "url": "https://drive.google.com/uc?export=download&id=1AM3I_EuRjLjPaSTEvsXMEgnZ-A0QSMM6"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1oZ3EPmbD_i4eV3t0lEWu7-7KihamhiXj",
+     "url": "https://drive.google.com/uc?export=download&id=1oZ3EPmbD_i4eV3t0lEWu7-7KihamhiXj"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1_gB2ZWLo1AQP7nx7CpbB78HGSNnpuoNE",
+     "url": "https://drive.google.com/uc?export=download&id=1_gB2ZWLo1AQP7nx7CpbB78HGSNnpuoNE"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 Nov",
+     "fileId": "1LnWPC0aQiv1eDEh5zjNgZRJPkCo6gZNU",
+     "url": "https://drive.google.com/uc?export=download&id=1LnWPC0aQiv1eDEh5zjNgZRJPkCo6gZNU"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "15M5NCUS_7s5t9hTYV5w_jvqFzpYzOAw5",
+     "url": "https://drive.google.com/uc?export=download&id=15M5NCUS_7s5t9hTYV5w_jvqFzpYzOAw5"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "11EVQC-xW11xZLpVDvBWhzotEo9gPIhBJ",
+     "url": "https://drive.google.com/uc?export=download&id=11EVQC-xW11xZLpVDvBWhzotEo9gPIhBJ"
+    },
+    {
+     "name": "2025 Nov",
+     "fileId": "1DeR81FgV2Sv3oi2hqz-HF8CoH5j5fuNF",
+     "url": "https://drive.google.com/uc?export=download&id=1DeR81FgV2Sv3oi2hqz-HF8CoH5j5fuNF"
+    }
+   ],
+   "syllabus": []
+  },
+  {
+   "name": "Digital System Design (DSD)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1PgGiXCV0i1hyId9G-VVtLX7wg2Hj4b8L",
+     "url": "https://drive.google.com/uc?export=download&id=1PgGiXCV0i1hyId9G-VVtLX7wg2Hj4b8L"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1r-Rvw2_IsQBmJIJ7rIkrIpnM8wFQuxTx",
+     "url": "https://drive.google.com/uc?export=download&id=1r-Rvw2_IsQBmJIJ7rIkrIpnM8wFQuxTx"
+    },
+    {
+     "name": "Unit 3.1",
+     "fileId": "1vWGnOddgua51cB0GDPKd8F1mw1R-rraN",
+     "url": "https://drive.google.com/uc?export=download&id=1vWGnOddgua51cB0GDPKd8F1mw1R-rraN"
+    },
+    {
+     "name": "Unit 3.2",
+     "fileId": "1HORciGWqUeiAOWTySNU1ilukl8ashUc1",
+     "url": "https://drive.google.com/uc?export=download&id=1HORciGWqUeiAOWTySNU1ilukl8ashUc1"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1DBET6X8WKXAdMJYUE0rc8-DOa9xZAQ9Q",
+     "url": "https://drive.google.com/uc?export=download&id=1DBET6X8WKXAdMJYUE0rc8-DOa9xZAQ9Q"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1XDa2a-1hwUV0XoFagL27-GFYBhUFbfEH",
+     "url": "https://drive.google.com/uc?export=download&id=1XDa2a-1hwUV0XoFagL27-GFYBhUFbfEH"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 May",
+     "fileId": "1TKsEDari5b1Q9h0kIE1nSUi8cFydVCq1",
+     "url": "https://drive.google.com/uc?export=download&id=1TKsEDari5b1Q9h0kIE1nSUi8cFydVCq1"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1NEM3ZU3s_aUneL15_Nz1sDI5Ag7SsS0F",
+     "url": "https://drive.google.com/uc?export=download&id=1NEM3ZU3s_aUneL15_Nz1sDI5Ag7SsS0F"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1zseO5vprhj1792LKmHjBeuIZAG6J5ZqA",
+     "url": "https://drive.google.com/uc?export=download&id=1zseO5vprhj1792LKmHjBeuIZAG6J5ZqA"
+    }
+   ]
+  },
+  {
+   "name": "Disaster Management",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1.1",
+     "fileId": "1WXE9CONiiAhoYDrC-TRn99XGTDDbpXdb",
+     "url": "https://drive.google.com/uc?export=download&id=1WXE9CONiiAhoYDrC-TRn99XGTDDbpXdb"
+    },
+    {
+     "name": "Unit 1.2",
+     "fileId": "1uGfPQoaKAqK8s_3zEqCJ1hYXEQaq1Yse",
+     "url": "https://drive.google.com/uc?export=download&id=1uGfPQoaKAqK8s_3zEqCJ1hYXEQaq1Yse"
+    },
+    {
+     "name": "Unit 2.1",
+     "fileId": "1MaJ6YqSk869cZRGkM2F9DIPYKydRuBBZ",
+     "url": "https://drive.google.com/uc?export=download&id=1MaJ6YqSk869cZRGkM2F9DIPYKydRuBBZ"
+    },
+    {
+     "name": "Unit 2.2",
+     "fileId": "1-X8694wSzMU3Isv6cWy6rNIqq6hJsgZ5",
+     "url": "https://drive.google.com/uc?export=download&id=1-X8694wSzMU3Isv6cWy6rNIqq6hJsgZ5"
+    },
+    {
+     "name": "Unit 2.3",
+     "fileId": "1oCwXFl0J7cUDrfcgJkYoM0hwdfQH3Hfo",
+     "url": "https://drive.google.com/uc?export=download&id=1oCwXFl0J7cUDrfcgJkYoM0hwdfQH3Hfo"
+    },
+    {
+     "name": "Unit 2.4",
+     "fileId": "1-_IlOgYhGRSTQ0M93XcmgwRy_rHrwcel",
+     "url": "https://drive.google.com/uc?export=download&id=1-_IlOgYhGRSTQ0M93XcmgwRy_rHrwcel"
+    },
+    {
+     "name": "Unit 2.5",
+     "fileId": "1hMxEgT0GFRrWMH4ONDpRLagFJ24E0T_e",
+     "url": "https://drive.google.com/uc?export=download&id=1hMxEgT0GFRrWMH4ONDpRLagFJ24E0T_e"
+    },
+    {
+     "name": "Unit 2.6",
+     "fileId": "1mZusojWEOzH-V2YxV7i0J6zwj6m1R8vn",
+     "url": "https://drive.google.com/uc?export=download&id=1mZusojWEOzH-V2YxV7i0J6zwj6m1R8vn"
+    },
+    {
+     "name": "Unit 2.7",
+     "fileId": "1ooznaXhXi7uIaQKHuyLUFRRc0J55uG7o",
+     "url": "https://drive.google.com/uc?export=download&id=1ooznaXhXi7uIaQKHuyLUFRRc0J55uG7o"
+    },
+    {
+     "name": "Unit 3.1",
+     "fileId": "1khNPe_VDdOxtXc3shc42z1BCHprwLTHS",
+     "url": "https://drive.google.com/uc?export=download&id=1khNPe_VDdOxtXc3shc42z1BCHprwLTHS"
+    },
+    {
+     "name": "Unit 3.2",
+     "fileId": "1mbDlD5S87Lr1gEr8fu3bdFkM16PW6rHf",
+     "url": "https://drive.google.com/uc?export=download&id=1mbDlD5S87Lr1gEr8fu3bdFkM16PW6rHf"
+    },
+    {
+     "name": "Unit 3.3",
+     "fileId": "1uNjq4A6qCwHkuzuRBnfq5pAaJ-V2dc70",
+     "url": "https://drive.google.com/uc?export=download&id=1uNjq4A6qCwHkuzuRBnfq5pAaJ-V2dc70"
+    },
+    {
+     "name": "Unit 3.4",
+     "fileId": "1ofeT21OFLImf7jiYCmhCIdnHSSCaWLNs",
+     "url": "https://drive.google.com/uc?export=download&id=1ofeT21OFLImf7jiYCmhCIdnHSSCaWLNs"
+    },
+    {
+     "name": "Unit 3.5",
+     "fileId": "1jYRaQslpqZsZo4pLrfg_8fOmT4OtJiCK",
+     "url": "https://drive.google.com/uc?export=download&id=1jYRaQslpqZsZo4pLrfg_8fOmT4OtJiCK"
+    },
+    {
+     "name": "Unit 3.6",
+     "fileId": "1AgXgLQZaFkvxIQGnkXB7pewyLd7xVi7N",
+     "url": "https://drive.google.com/uc?export=download&id=1AgXgLQZaFkvxIQGnkXB7pewyLd7xVi7N"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1_poFrV9LQZGfDKc5N2a75zb0erVnidqF",
+     "url": "https://drive.google.com/uc?export=download&id=1_poFrV9LQZGfDKc5N2a75zb0erVnidqF"
+    },
+    {
+     "name": "Unit 4.2",
+     "fileId": "1LeBqlD2non1K3854WE5OEohpwWBL5Vx0",
+     "url": "https://drive.google.com/uc?export=download&id=1LeBqlD2non1K3854WE5OEohpwWBL5Vx0"
+    },
+    {
+     "name": "Unit 5.1",
+     "fileId": "1ls86FdsRigKVYgWUQkFH11VY2bm_JB9i",
+     "url": "https://drive.google.com/uc?export=download&id=1ls86FdsRigKVYgWUQkFH11VY2bm_JB9i"
+    },
+    {
+     "name": "Unit 5.2",
+     "fileId": "1qpo-LK31mKGQXUsOVYAfYZsaRsHndhfC",
+     "url": "https://drive.google.com/uc?export=download&id=1qpo-LK31mKGQXUsOVYAfYZsaRsHndhfC"
+    },
+    {
+     "name": "Unit 5.3",
+     "fileId": "1P9tJyhqVurHdNSNbZn_GJElaNF-gTPr1",
+     "url": "https://drive.google.com/uc?export=download&id=1P9tJyhqVurHdNSNbZn_GJElaNF-gTPr1"
+    },
+    {
+     "name": "Unit 5.4",
+     "fileId": "1uzScfU6URhy1EjvqOppNeqBeEjV-VDq7",
+     "url": "https://drive.google.com/uc?export=download&id=1uzScfU6URhy1EjvqOppNeqBeEjV-VDq7"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 July",
+     "fileId": "1yUWLKfcgikoAB4ng3yLyqQ7Ofc9kMKT6",
+     "url": "https://drive.google.com/uc?export=download&id=1yUWLKfcgikoAB4ng3yLyqQ7Ofc9kMKT6"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1yHLyYCQKEXbzq10WpvXUnDXkJt5bxM0W",
+     "url": "https://drive.google.com/uc?export=download&id=1yHLyYCQKEXbzq10WpvXUnDXkJt5bxM0W"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1F-MZDQvEtbJj8SpZ0D8LjdUmqfDV1UlM",
+     "url": "https://drive.google.com/uc?export=download&id=1F-MZDQvEtbJj8SpZ0D8LjdUmqfDV1UlM"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1KuWgJ2OsqgWQkG5GefncKREOKTZlOm9V",
+     "url": "https://drive.google.com/uc?export=download&id=1KuWgJ2OsqgWQkG5GefncKREOKTZlOm9V"
+    }
+   ]
+  },
+  {
+   "name": "Discrete Mathematics (DM)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1RV8ivZFZPiml3A64NzNbanx_xb3RYDui",
+     "url": "https://drive.google.com/uc?export=download&id=1RV8ivZFZPiml3A64NzNbanx_xb3RYDui"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1uZkNWciy6ukHiYKzx1tWV6laVemrT4DI",
+     "url": "https://drive.google.com/uc?export=download&id=1uZkNWciy6ukHiYKzx1tWV6laVemrT4DI"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1OKm_EWVzkAnIvfshJWm6538X7ztDlrbP",
+     "url": "https://drive.google.com/uc?export=download&id=1OKm_EWVzkAnIvfshJWm6538X7ztDlrbP"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1HFnACrQwLFQHGP03jIIZ9ZL6MDvQtwON",
+     "url": "https://drive.google.com/uc?export=download&id=1HFnACrQwLFQHGP03jIIZ9ZL6MDvQtwON"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1zr7DvTGHS44ZIGhIs6GS_fJg0FPw9yET",
+     "url": "https://drive.google.com/uc?export=download&id=1zr7DvTGHS44ZIGhIs6GS_fJg0FPw9yET"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 Jan",
+     "fileId": "1QBv91Z7Iu5FwjZYZo24xX7TzldCZVlK_",
+     "url": "https://drive.google.com/uc?export=download&id=1QBv91Z7Iu5FwjZYZo24xX7TzldCZVlK_"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "1Nih3czhwHXigMnTWtcfrcW9sVmzjSgms",
+     "url": "https://drive.google.com/uc?export=download&id=1Nih3czhwHXigMnTWtcfrcW9sVmzjSgms"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "14zVIm5IH8wnsLsDknrIF7jxo7JdylFvb",
+     "url": "https://drive.google.com/uc?export=download&id=14zVIm5IH8wnsLsDknrIF7jxo7JdylFvb"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1P7Jvy0tmghYvbPr2f6_wGKTWmqL2ZRO3",
+     "url": "https://drive.google.com/uc?export=download&id=1P7Jvy0tmghYvbPr2f6_wGKTWmqL2ZRO3"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1dh_Ahe053T9CQ2FVcRpHb04VoMDHZlYo",
+     "url": "https://drive.google.com/uc?export=download&id=1dh_Ahe053T9CQ2FVcRpHb04VoMDHZlYo"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1lyHhqOM7xpWmK3PH-Uaq5COCGlYR6rdS",
+     "url": "https://drive.google.com/uc?export=download&id=1lyHhqOM7xpWmK3PH-Uaq5COCGlYR6rdS"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1JIXgVQ9V1JQ3KQmn9ZrsI8V6XZNB2BUS",
+     "url": "https://drive.google.com/uc?export=download&id=1JIXgVQ9V1JQ3KQmn9ZrsI8V6XZNB2BUS"
+    }
+   ]
+  },
+  {
+   "name": "Electrical Machines II",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1u7wuhs2qzR0VqduLDbKGJp1yxbCuhmf_",
+     "url": "https://drive.google.com/uc?export=download&id=1u7wuhs2qzR0VqduLDbKGJp1yxbCuhmf_"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "198eeIWzdeWJxx65r7cJB2X3tc7Fr8UEZ",
+     "url": "https://drive.google.com/uc?export=download&id=198eeIWzdeWJxx65r7cJB2X3tc7Fr8UEZ"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1mODux9MJ81jdqAmDe_DFq4l3_k18xKH5",
+     "url": "https://drive.google.com/uc?export=download&id=1mODux9MJ81jdqAmDe_DFq4l3_k18xKH5"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "19g02NMJHyvBksXidG5rL_JJyCs-WU_we",
+     "url": "https://drive.google.com/uc?export=download&id=19g02NMJHyvBksXidG5rL_JJyCs-WU_we"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "14lSf4yaywq-N1zTSrxxXK6hNwb-J8wpf",
+     "url": "https://drive.google.com/uc?export=download&id=14lSf4yaywq-N1zTSrxxXK6hNwb-J8wpf"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 May",
+     "fileId": "1MlE14vlBKUFDNTLKcl78vfMQSbYlxWX7",
+     "url": "https://drive.google.com/uc?export=download&id=1MlE14vlBKUFDNTLKcl78vfMQSbYlxWX7"
+    },
+    {
+     "name": "2025 Jan",
+     "fileId": "1Gu6t15hCdFT_-d8OWQ-6Gva3Oo-LtWb3",
+     "url": "https://drive.google.com/uc?export=download&id=1Gu6t15hCdFT_-d8OWQ-6Gva3Oo-LtWb3"
+    }
+   ],
+   "syllabus": []
+  },
+  {
+   "name": "Electrical and Electronics Engineering (EEE)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Manual",
+     "fileId": "1MpJVi_hCRwrpU1hNEVB2dCjPjohf4YMm",
+     "url": "https://drive.google.com/uc?export=download&id=1MpJVi_hCRwrpU1hNEVB2dCjPjohf4YMm"
+    },
+    {
+     "name": "Unit 1",
+     "fileId": "1ybuy86-HLkj6gIas-A4-i9dcnT2B0t7e",
+     "url": "https://drive.google.com/uc?export=download&id=1ybuy86-HLkj6gIas-A4-i9dcnT2B0t7e"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1BkcuDc_t775XYE-FC-qLKVOau0wRf56x",
+     "url": "https://drive.google.com/uc?export=download&id=1BkcuDc_t775XYE-FC-qLKVOau0wRf56x"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1FSUKbZUvgIIno6ZokpkWwTIaXesKe6Ih",
+     "url": "https://drive.google.com/uc?export=download&id=1FSUKbZUvgIIno6ZokpkWwTIaXesKe6Ih"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1Ue_F6qU-W85mVCOFGzAfyb4q8_K14bfc",
+     "url": "https://drive.google.com/uc?export=download&id=1Ue_F6qU-W85mVCOFGzAfyb4q8_K14bfc"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1jjZlEOQE_YmY6VAWjOXccbwGmweG2En1",
+     "url": "https://drive.google.com/uc?export=download&id=1jjZlEOQE_YmY6VAWjOXccbwGmweG2En1"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2022 July",
+     "fileId": "1OghkCFwP-weqoLpFJ32XxOxfR1yRQHU0",
+     "url": "https://drive.google.com/uc?export=download&id=1OghkCFwP-weqoLpFJ32XxOxfR1yRQHU0"
+    },
+    {
+     "name": "2023 Jan",
+     "fileId": "1BAWmG9Kx_slHZbxB-vTgGuFiomjqUYW6",
+     "url": "https://drive.google.com/uc?export=download&id=1BAWmG9Kx_slHZbxB-vTgGuFiomjqUYW6"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1OaxKXqKDu7DFNfo9lu0G2AimDKw_-nsv",
+     "url": "https://drive.google.com/uc?export=download&id=1OaxKXqKDu7DFNfo9lu0G2AimDKw_-nsv"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1zrQS3GCpP1mwoyTffyyhNa1FvzBigI7J",
+     "url": "https://drive.google.com/uc?export=download&id=1zrQS3GCpP1mwoyTffyyhNa1FvzBigI7J"
+    }
+   ]
+  },
+  {
+   "name": "Electromagnetic Theory, Quantum Mechanics, Waves and Optics",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1_lRO0uahNGiURBgTOY5Bjv-j5_auYIP2",
+     "url": "https://drive.google.com/uc?export=download&id=1_lRO0uahNGiURBgTOY5Bjv-j5_auYIP2"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1korZa220vDHfP5g7oDwpqp2mfv2uIMvW",
+     "url": "https://drive.google.com/uc?export=download&id=1korZa220vDHfP5g7oDwpqp2mfv2uIMvW"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1n0uBBmeRKYjdY9Gtu7kbNdSjeSIqQUGa",
+     "url": "https://drive.google.com/uc?export=download&id=1n0uBBmeRKYjdY9Gtu7kbNdSjeSIqQUGa"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1_dYkzm7sWVop76RuAfOrLMMV-Vd47A-I",
+     "url": "https://drive.google.com/uc?export=download&id=1_dYkzm7sWVop76RuAfOrLMMV-Vd47A-I"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "15GyFp1EoagPPiUXQx8vmVHqOQCGu75IL",
+     "url": "https://drive.google.com/uc?export=download&id=15GyFp1EoagPPiUXQx8vmVHqOQCGu75IL"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Dec",
+     "fileId": "14dS6mIxkssh9FUDufCRiVoVD1fG0EkRi",
+     "url": "https://drive.google.com/uc?export=download&id=14dS6mIxkssh9FUDufCRiVoVD1fG0EkRi"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1rEU6U3bCLBzYpmY4q8-mMaaPtphAqL1c",
+     "url": "https://drive.google.com/uc?export=download&id=1rEU6U3bCLBzYpmY4q8-mMaaPtphAqL1c"
+    },
+    {
+     "name": "2024 Dec",
+     "fileId": "1kaAPSHC-Z119_T_Gy_W6rljnt7mw6Csw",
+     "url": "https://drive.google.com/uc?export=download&id=1kaAPSHC-Z119_T_Gy_W6rljnt7mw6Csw"
+    },
+    {
+     "name": "2024 Jan",
+     "fileId": "1a5sX2mbTWSEEXXZKxy7neAqxB2Z20p83",
+     "url": "https://drive.google.com/uc?export=download&id=1a5sX2mbTWSEEXXZKxy7neAqxB2Z20p83"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "1uwsXNhasawIwJ0G8yA2zJf5asVrMvnI7",
+     "url": "https://drive.google.com/uc?export=download&id=1uwsXNhasawIwJ0G8yA2zJf5asVrMvnI7"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "18scyqWCQ1PvEowRX32bYP7D348ILpl0u",
+     "url": "https://drive.google.com/uc?export=download&id=18scyqWCQ1PvEowRX32bYP7D348ILpl0u"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1wRreNh0a0aml0KSVAChrmsDTA6S32H3k",
+     "url": "https://drive.google.com/uc?export=download&id=1wRreNh0a0aml0KSVAChrmsDTA6S32H3k"
+    }
+   ],
+   "syllabus": []
+  },
+  {
+   "name": "Electronic Circuits and Systems",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1.1",
+     "fileId": "14_Bh-fFWeNthOfHrChpsKvB9IA_LJ0vg",
+     "url": "https://drive.google.com/uc?export=download&id=14_Bh-fFWeNthOfHrChpsKvB9IA_LJ0vg"
+    },
+    {
+     "name": "Unit 1.2",
+     "fileId": "1nFTpAltyKnVlpEg6DQg_3V35EK5yMzuQ",
+     "url": "https://drive.google.com/uc?export=download&id=1nFTpAltyKnVlpEg6DQg_3V35EK5yMzuQ"
+    },
+    {
+     "name": "Unit 1.3",
+     "fileId": "1pCfPY7xZ9yJzkWavN4ta5XguLIOVlz0Q",
+     "url": "https://drive.google.com/uc?export=download&id=1pCfPY7xZ9yJzkWavN4ta5XguLIOVlz0Q"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1q6n3AgLWXefBg9Vy7FcDAdwpUiVxYU4l",
+     "url": "https://drive.google.com/uc?export=download&id=1q6n3AgLWXefBg9Vy7FcDAdwpUiVxYU4l"
+    },
+    {
+     "name": "Unit 3.1",
+     "fileId": "1vYd3_KhAbDSDiMrvM5DEGggj8-Bn8ipp",
+     "url": "https://drive.google.com/uc?export=download&id=1vYd3_KhAbDSDiMrvM5DEGggj8-Bn8ipp"
+    },
+    {
+     "name": "Unit 3.2",
+     "fileId": "1jo97DiwtjPugnYrhpbf5z6ySQQuGcEdD",
+     "url": "https://drive.google.com/uc?export=download&id=1jo97DiwtjPugnYrhpbf5z6ySQQuGcEdD"
+    },
+    {
+     "name": "Unit 4.1",
+     "fileId": "1lIKXRel5D8tGeHvbz6zGVszTnDQ-kcOQ",
+     "url": "https://drive.google.com/uc?export=download&id=1lIKXRel5D8tGeHvbz6zGVszTnDQ-kcOQ"
+    },
+    {
+     "name": "Unit 4.2",
+     "fileId": "1TTtXDnpKkoWnSMzGhOD-sN2v3abQT311",
+     "url": "https://drive.google.com/uc?export=download&id=1TTtXDnpKkoWnSMzGhOD-sN2v3abQT311"
+    },
+    {
+     "name": "Unit 4.3",
+     "fileId": "1heMfx8vBlNltHDCHstU4ESKx7gzG8ePO",
+     "url": "https://drive.google.com/uc?export=download&id=1heMfx8vBlNltHDCHstU4ESKx7gzG8ePO"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1_aAkZDU2d5ROUyGCZbRQREGfooZxkZaB",
+     "url": "https://drive.google.com/uc?export=download&id=1_aAkZDU2d5ROUyGCZbRQREGfooZxkZaB"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1f2fRs8KYJiY3G749es2O4CaBtl9jDGte",
+     "url": "https://drive.google.com/uc?export=download&id=1f2fRs8KYJiY3G749es2O4CaBtl9jDGte"
+    }
+   ]
+  },
+  {
+   "name": "Electronics and PCB Design",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "14qBIv0hVLiVOBL3i0nmw418GxIeTEBt6",
+     "url": "https://drive.google.com/uc?export=download&id=14qBIv0hVLiVOBL3i0nmw418GxIeTEBt6"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1TfJq0I8WwBnRs6s78eal05LFtOUI6JTU",
+     "url": "https://drive.google.com/uc?export=download&id=1TfJq0I8WwBnRs6s78eal05LFtOUI6JTU"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "15YtC-bnqKrwoHEmKPMe7hUN-NjqzXFiz",
+     "url": "https://drive.google.com/uc?export=download&id=15YtC-bnqKrwoHEmKPMe7hUN-NjqzXFiz"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1pxxLEgj3e11LQGNZKBzqdZtctHylSa_2",
+     "url": "https://drive.google.com/uc?export=download&id=1pxxLEgj3e11LQGNZKBzqdZtctHylSa_2"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1lvCI5yJOknYI2xO8ViUetOxrXLwRHZej",
+     "url": "https://drive.google.com/uc?export=download&id=1lvCI5yJOknYI2xO8ViUetOxrXLwRHZej"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Dec",
+     "fileId": "17wBUFZ2qkOaoVEkOMGwFcncEr_Jp3evR",
+     "url": "https://drive.google.com/uc?export=download&id=17wBUFZ2qkOaoVEkOMGwFcncEr_Jp3evR"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1i8eQKgJ_gUqx7Xn7iIaN77IpMzP1P5GH",
+     "url": "https://drive.google.com/uc?export=download&id=1i8eQKgJ_gUqx7Xn7iIaN77IpMzP1P5GH"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1S9aLdrK2rwyoUIH-aGYm-F0rgtCbCxdZ",
+     "url": "https://drive.google.com/uc?export=download&id=1S9aLdrK2rwyoUIH-aGYm-F0rgtCbCxdZ"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1vT77QzXMoSz8C5LgAdVzOpw2jRF085rk",
+     "url": "https://drive.google.com/uc?export=download&id=1vT77QzXMoSz8C5LgAdVzOpw2jRF085rk"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1-CpljpfPJl3ttTFxswsN4QGmP-EQ0vD0",
+     "url": "https://drive.google.com/uc?export=download&id=1-CpljpfPJl3ttTFxswsN4QGmP-EQ0vD0"
+    }
+   ]
+  },
+  {
+   "name": "Embedded System Design Using Arduino",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1Duw0srVvkerAJFTs2Kt1w0xOn4DoI3K6",
+     "url": "https://drive.google.com/uc?export=download&id=1Duw0srVvkerAJFTs2Kt1w0xOn4DoI3K6"
+    },
+    {
+     "name": "Unit 2.1",
+     "fileId": "1BHayF10xh5ueNpCPINTUVWXazCBRiLa8",
+     "url": "https://drive.google.com/uc?export=download&id=1BHayF10xh5ueNpCPINTUVWXazCBRiLa8"
+    },
+    {
+     "name": "Unit 2.2",
+     "fileId": "1JmUX7H9qG1xOiRfG-K2LCcXe0iRdarXD",
+     "url": "https://drive.google.com/uc?export=download&id=1JmUX7H9qG1xOiRfG-K2LCcXe0iRdarXD"
+    },
+    {
+     "name": "Unit 3.1",
+     "fileId": "1AaoU5V3aKGKk6xsfBOwG5NQVr4cfXcM1",
+     "url": "https://drive.google.com/uc?export=download&id=1AaoU5V3aKGKk6xsfBOwG5NQVr4cfXcM1"
+    },
+    {
+     "name": "Unit 3.2",
+     "fileId": "1Pd21eIs4dYbvHKkCIvwC4nngnhtI7eRa",
+     "url": "https://drive.google.com/uc?export=download&id=1Pd21eIs4dYbvHKkCIvwC4nngnhtI7eRa"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1BvmXm3qnGGiw_wHEnkhhv38FcvrSOFa9",
+     "url": "https://drive.google.com/uc?export=download&id=1BvmXm3qnGGiw_wHEnkhhv38FcvrSOFa9"
+    },
+    {
+     "name": "Unit 5.1",
+     "fileId": "188mrxC0araWhcWnpGEa4SGMCPE3PRcQi",
+     "url": "https://drive.google.com/uc?export=download&id=188mrxC0araWhcWnpGEa4SGMCPE3PRcQi"
+    },
+    {
+     "name": "Unit 5.2",
+     "fileId": "1AoWelvgzpT6k68_EIxpbtmg4_1wSG_dA",
+     "url": "https://drive.google.com/uc?export=download&id=1AoWelvgzpT6k68_EIxpbtmg4_1wSG_dA"
+    },
+    {
+     "name": "Unit 5.3",
+     "fileId": "108OvrPVgSUfTx7IBDE9EFcn4Vo_C8EQ5",
+     "url": "https://drive.google.com/uc?export=download&id=108OvrPVgSUfTx7IBDE9EFcn4Vo_C8EQ5"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 Nov",
+     "fileId": "1YXfpJUVHuOqWwy6kTuMC5HIgsqpEPZxV",
+     "url": "https://drive.google.com/uc?export=download&id=1YXfpJUVHuOqWwy6kTuMC5HIgsqpEPZxV"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "15JInnECDEUeYGn63D_dkrpEVFh3SvgSC",
+     "url": "https://drive.google.com/uc?export=download&id=15JInnECDEUeYGn63D_dkrpEVFh3SvgSC"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "17rvkjyRRIu6y8Vo6V69YCcZCVpCLUW9U",
+     "url": "https://drive.google.com/uc?export=download&id=17rvkjyRRIu6y8Vo6V69YCcZCVpCLUW9U"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1LtI63AeHF63hR5Y92tlnWvh_t9Dd3Tjp",
+     "url": "https://drive.google.com/uc?export=download&id=1LtI63AeHF63hR5Y92tlnWvh_t9Dd3Tjp"
+    }
+   ]
+  },
+  {
+   "name": "Engineering Graphics and Design (EGD)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Lab Record",
+     "fileId": "1gIU1QcvrAxskP-EyLazjB7PlafG2PuMQ",
+     "url": "https://drive.google.com/uc?export=download&id=1gIU1QcvrAxskP-EyLazjB7PlafG2PuMQ"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "13MpgZPw5PM408QrHOpCmBDwMhAibsA7J",
+     "url": "https://drive.google.com/uc?export=download&id=13MpgZPw5PM408QrHOpCmBDwMhAibsA7J"
+    }
+   ]
+  },
+  {
+   "name": "Engineering Mechanics (EM)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1hhXcrj9twLMcvzfuAzVylgsAT5I_LLL2",
+     "url": "https://drive.google.com/uc?export=download&id=1hhXcrj9twLMcvzfuAzVylgsAT5I_LLL2"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1Y39QzeZ9y-D6A6r98aEQBG3NRctwI_xN",
+     "url": "https://drive.google.com/uc?export=download&id=1Y39QzeZ9y-D6A6r98aEQBG3NRctwI_xN"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1M2wmUuv6r99pbBS4OORlRxXnWMR_s6or",
+     "url": "https://drive.google.com/uc?export=download&id=1M2wmUuv6r99pbBS4OORlRxXnWMR_s6or"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1ly3IjjToUyljh389ZLqZwTQ6awPz3qDt",
+     "url": "https://drive.google.com/uc?export=download&id=1ly3IjjToUyljh389ZLqZwTQ6awPz3qDt"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "17Xs7lZT-UBzyd2BcKjTLsjw4KQ9vfUrT",
+     "url": "https://drive.google.com/uc?export=download&id=17Xs7lZT-UBzyd2BcKjTLsjw4KQ9vfUrT"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2022 May",
+     "fileId": "1la063XsdijIkJW5hbhhsaawIfEAfF-z1",
+     "url": "https://drive.google.com/uc?export=download&id=1la063XsdijIkJW5hbhhsaawIfEAfF-z1"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "11Cxur2g_Jqi4mDAq4mcrG3MXAalYU0GB",
+     "url": "https://drive.google.com/uc?export=download&id=11Cxur2g_Jqi4mDAq4mcrG3MXAalYU0GB"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "12ptzuAadu2mVS2GB6EZruXZIabrs1DQw",
+     "url": "https://drive.google.com/uc?export=download&id=12ptzuAadu2mVS2GB6EZruXZIabrs1DQw"
+    }
+   ]
+  },
+  {
+   "name": "Environmental Hydrology for Data Science",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1gI2YC5mNJyQDujC4vl7is8dXTeFg0zqv",
+     "url": "https://drive.google.com/uc?export=download&id=1gI2YC5mNJyQDujC4vl7is8dXTeFg0zqv"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1fEGthWkl5yS6gmpV8_-qz7-vD6wRCGhr",
+     "url": "https://drive.google.com/uc?export=download&id=1fEGthWkl5yS6gmpV8_-qz7-vD6wRCGhr"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1JV7F6JWM_YHz_KEH85t37TfMEy8Ya5tR",
+     "url": "https://drive.google.com/uc?export=download&id=1JV7F6JWM_YHz_KEH85t37TfMEy8Ya5tR"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1ImMJ5fi_g8s_JwZvVWjWE7Lhdg3VfNdk",
+     "url": "https://drive.google.com/uc?export=download&id=1ImMJ5fi_g8s_JwZvVWjWE7Lhdg3VfNdk"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1UpCX_VP24bgG2yxuQSCc7hTuTwZLRdTH",
+     "url": "https://drive.google.com/uc?export=download&id=1UpCX_VP24bgG2yxuQSCc7hTuTwZLRdTH"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2025 Nov",
+     "fileId": "1C0caMjqy9JwQD39vTnipKMUlsVPSfB-O",
+     "url": "https://drive.google.com/uc?export=download&id=1C0caMjqy9JwQD39vTnipKMUlsVPSfB-O"
+    }
+   ],
+   "syllabus": []
+  },
+  {
+   "name": "Environmental Impact Assessment (EIA)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1IrUKjBcBoRHNsf8_vnCBsU2SW8ilPTsW",
+     "url": "https://drive.google.com/uc?export=download&id=1IrUKjBcBoRHNsf8_vnCBsU2SW8ilPTsW"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1XIvsAj3TBFP5EgiAUt0ozeGn5tvhiUAG",
+     "url": "https://drive.google.com/uc?export=download&id=1XIvsAj3TBFP5EgiAUt0ozeGn5tvhiUAG"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "19llMMtBFSiUT05UHdlD1qDqUnYFyyY6O",
+     "url": "https://drive.google.com/uc?export=download&id=19llMMtBFSiUT05UHdlD1qDqUnYFyyY6O"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1beTKRwH_CV-vC8g7j9zV__T3ZFCE6EeY",
+     "url": "https://drive.google.com/uc?export=download&id=1beTKRwH_CV-vC8g7j9zV__T3ZFCE6EeY"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "192KLP7UKjlmaJiEGJCtfvxeOU0XtmIu9",
+     "url": "https://drive.google.com/uc?export=download&id=192KLP7UKjlmaJiEGJCtfvxeOU0XtmIu9"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": []
+  },
+  {
+   "name": "Forensics and Incident Response",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1.1",
+     "fileId": "1NV17Ctb7ZWUoZOckhBO8tUJ8V0WMjSD1",
+     "url": "https://drive.google.com/uc?export=download&id=1NV17Ctb7ZWUoZOckhBO8tUJ8V0WMjSD1"
+    },
+    {
+     "name": "Unit 1.2",
+     "fileId": "1Q2Km-0Hnuiivs7q3CSteHddgLZPKXnCu",
+     "url": "https://drive.google.com/uc?export=download&id=1Q2Km-0Hnuiivs7q3CSteHddgLZPKXnCu"
+    },
+    {
+     "name": "Unit 2.1",
+     "fileId": "1KHO8CSxLQdINPv5hEF5Nd1lBur8J_htK",
+     "url": "https://drive.google.com/uc?export=download&id=1KHO8CSxLQdINPv5hEF5Nd1lBur8J_htK"
+    },
+    {
+     "name": "Unit 2.2",
+     "fileId": "1NzjSb2YS6MWJXkCgE0OLflHpDrMN4uss",
+     "url": "https://drive.google.com/uc?export=download&id=1NzjSb2YS6MWJXkCgE0OLflHpDrMN4uss"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "12f6GgzbNW9kpUfslA9mSddkJucRzzcII",
+     "url": "https://drive.google.com/uc?export=download&id=12f6GgzbNW9kpUfslA9mSddkJucRzzcII"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1Fnwh-JsUSqB5Jxc_qM8Nd9H8fnb1-_Wk",
+     "url": "https://drive.google.com/uc?export=download&id=1Fnwh-JsUSqB5Jxc_qM8Nd9H8fnb1-_Wk"
+    },
+    {
+     "name": "Unit 5.1",
+     "fileId": "1FYNXKB7KWal9Eugw3T4SUM7WK3LkRnZx",
+     "url": "https://drive.google.com/uc?export=download&id=1FYNXKB7KWal9Eugw3T4SUM7WK3LkRnZx"
+    },
+    {
+     "name": "Unit 5.2",
+     "fileId": "1hZTYtToYk8FWf4WRzD1QarL9-EXlZEv3",
+     "url": "https://drive.google.com/uc?export=download&id=1hZTYtToYk8FWf4WRzD1QarL9-EXlZEv3"
+    },
+    {
+     "name": "Unit 5.3",
+     "fileId": "1tYlP5wTTVnTFB4lvNBO-VuDIrHhLCSo9",
+     "url": "https://drive.google.com/uc?export=download&id=1tYlP5wTTVnTFB4lvNBO-VuDIrHhLCSo9"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": []
+  },
+  {
+   "name": "Formal Languages and Automata (FLA)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1RS90PHZzoASdqdUu87QqHCw9JpaBvN9j",
+     "url": "https://drive.google.com/uc?export=download&id=1RS90PHZzoASdqdUu87QqHCw9JpaBvN9j"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1cwNR6BgGN4IhdyaGjk1Zr-Bm-O0UyAtV",
+     "url": "https://drive.google.com/uc?export=download&id=1cwNR6BgGN4IhdyaGjk1Zr-Bm-O0UyAtV"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1frMCoWdmNjUlZOihHD2Fnm9KxdBp2Ey9",
+     "url": "https://drive.google.com/uc?export=download&id=1frMCoWdmNjUlZOihHD2Fnm9KxdBp2Ey9"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1ROSv5Rt61aD2gezzONpBaEGKfVht4OKh",
+     "url": "https://drive.google.com/uc?export=download&id=1ROSv5Rt61aD2gezzONpBaEGKfVht4OKh"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1Wn9SeJkKbazxqgQRphAmhFML1wrzGOwy",
+     "url": "https://drive.google.com/uc?export=download&id=1Wn9SeJkKbazxqgQRphAmhFML1wrzGOwy"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Nov",
+     "fileId": "1dJEFqSKj1NNGNlmxn1h1f1BLqoix6ddr",
+     "url": "https://drive.google.com/uc?export=download&id=1dJEFqSKj1NNGNlmxn1h1f1BLqoix6ddr"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "1YagyEZ6QKSx5Z5ZAgPKeZbMkEGjNHjUW",
+     "url": "https://drive.google.com/uc?export=download&id=1YagyEZ6QKSx5Z5ZAgPKeZbMkEGjNHjUW"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1vg0_Hwd7SLxS_XDxnigGBYfmdJKYq27G",
+     "url": "https://drive.google.com/uc?export=download&id=1vg0_Hwd7SLxS_XDxnigGBYfmdJKYq27G"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1-Lt1T7UhrKlnOK0AB24AWx9JjI73FrPY",
+     "url": "https://drive.google.com/uc?export=download&id=1-Lt1T7UhrKlnOK0AB24AWx9JjI73FrPY"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1HVUpY_Up0J_dTLKOA0OQr78qq3gE18SA",
+     "url": "https://drive.google.com/uc?export=download&id=1HVUpY_Up0J_dTLKOA0OQr78qq3gE18SA"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "12iTiGj8aN6CBniAAwx06CBCPY_Vv_Gw0",
+     "url": "https://drive.google.com/uc?export=download&id=12iTiGj8aN6CBniAAwx06CBCPY_Vv_Gw0"
+    }
+   ]
+  },
+  {
+   "name": "French",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Textbook",
+     "fileId": "11l2jFuuVWneMFA61IVZs1draIqo6_P5H",
+     "url": "https://drive.google.com/uc?export=download&id=11l2jFuuVWneMFA61IVZs1draIqo6_P5H"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Jan",
+     "fileId": "1IXlOAGkkq3CLS1EIUUfbOcP7Y8ThVAxV",
+     "url": "https://drive.google.com/uc?export=download&id=1IXlOAGkkq3CLS1EIUUfbOcP7Y8ThVAxV"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1zGYsobz1VHV_jKkTGd6RsN1EkUz8_i38",
+     "url": "https://drive.google.com/uc?export=download&id=1zGYsobz1VHV_jKkTGd6RsN1EkUz8_i38"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "14lY1uSXrii1zyD_HiXFTranoonx-KLBU",
+     "url": "https://drive.google.com/uc?export=download&id=14lY1uSXrii1zyD_HiXFTranoonx-KLBU"
+    }
+   ]
+  },
+  {
+   "name": "Full Stack Web Development (FSWD)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "JDBC",
+     "fileId": "1RGoqrXM0LSKbH5kJrXqgVotWFLOf7CTk",
+     "url": "https://drive.google.com/uc?export=download&id=1RGoqrXM0LSKbH5kJrXqgVotWFLOf7CTk"
+    },
+    {
+     "name": "Unit 1",
+     "fileId": "142Cl1sORLQjgFoNb18SqQMnvLSIUR3Yp",
+     "url": "https://drive.google.com/uc?export=download&id=142Cl1sORLQjgFoNb18SqQMnvLSIUR3Yp"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1MHki7WTUsPI3r0wJ40Pndo04sKqeI6Iq",
+     "url": "https://drive.google.com/uc?export=download&id=1MHki7WTUsPI3r0wJ40Pndo04sKqeI6Iq"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1SZocGuITpFYs-pMYjg_rXsD9jek3KSpW",
+     "url": "https://drive.google.com/uc?export=download&id=1SZocGuITpFYs-pMYjg_rXsD9jek3KSpW"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1CS5_3eqyuMwGlk38SKMPJqhj7K_YXq5H",
+     "url": "https://drive.google.com/uc?export=download&id=1CS5_3eqyuMwGlk38SKMPJqhj7K_YXq5H"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1tAUhODisIQ1sc4fbWbqjDJJYIAa5mF0J",
+     "url": "https://drive.google.com/uc?export=download&id=1tAUhODisIQ1sc4fbWbqjDJJYIAa5mF0J"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 Nov",
+     "fileId": "19gD9bl9aE0PHUu2CiqbfY8ZnpNJhm3Z_",
+     "url": "https://drive.google.com/uc?export=download&id=19gD9bl9aE0PHUu2CiqbfY8ZnpNJhm3Z_"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "19VYGhI4jiRYhK7EJHA7nh6QVNcr_XBon",
+     "url": "https://drive.google.com/uc?export=download&id=19VYGhI4jiRYhK7EJHA7nh6QVNcr_XBon"
+    }
+   ]
+  },
+  {
+   "name": "Genomics and Manipulation",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1.1",
+     "fileId": "1d3WuBJWeEi5EmmiQGcv6ZTnzqA8ieMpH",
+     "url": "https://drive.google.com/uc?export=download&id=1d3WuBJWeEi5EmmiQGcv6ZTnzqA8ieMpH"
+    },
+    {
+     "name": "Unit 1.2",
+     "fileId": "1n9Rk_E4Z92l_IF4zZowvINrPsYZDofYP",
+     "url": "https://drive.google.com/uc?export=download&id=1n9Rk_E4Z92l_IF4zZowvINrPsYZDofYP"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1tFrxGEWGXI-McSHn0NcxxAGAgFW7t7f3",
+     "url": "https://drive.google.com/uc?export=download&id=1tFrxGEWGXI-McSHn0NcxxAGAgFW7t7f3"
+    },
+    {
+     "name": "Unit 3.1",
+     "fileId": "1U6IT4tUBZogfYiExr6RARldBeSw4IVVY",
+     "url": "https://drive.google.com/uc?export=download&id=1U6IT4tUBZogfYiExr6RARldBeSw4IVVY"
+    },
+    {
+     "name": "Unit 3.2",
+     "fileId": "1ZOQMEr5bWt9khUDVBvkY8_BxkzDx0IrD",
+     "url": "https://drive.google.com/uc?export=download&id=1ZOQMEr5bWt9khUDVBvkY8_BxkzDx0IrD"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1Mb-vKFV4PnCUWUdhMEYYAqpSs55OUwC-",
+     "url": "https://drive.google.com/uc?export=download&id=1Mb-vKFV4PnCUWUdhMEYYAqpSs55OUwC-"
+    },
+    {
+     "name": "Unit 5.1",
+     "fileId": "11bZdTbGot9ieZzH47kE5JOB4Onuvb_jy",
+     "url": "https://drive.google.com/uc?export=download&id=11bZdTbGot9ieZzH47kE5JOB4Onuvb_jy"
+    },
+    {
+     "name": "Unit 5.2",
+     "fileId": "1WTmHTGMphw_kcVxKPCUy41WNxTxBp4Iw",
+     "url": "https://drive.google.com/uc?export=download&id=1WTmHTGMphw_kcVxKPCUy41WNxTxBp4Iw"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": []
+  },
+  {
+   "name": "German",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Textbook",
+     "fileId": "1A4MBr6cyv0kVC0KhOYtepiExBw-rgjsU",
+     "url": "https://drive.google.com/uc?export=download&id=1A4MBr6cyv0kVC0KhOYtepiExBw-rgjsU"
+    },
+    {
+     "name": "Unit 1",
+     "fileId": "1pcKF0uFpMtuakjp8QOdBDhU7M4eja9Ph",
+     "url": "https://drive.google.com/uc?export=download&id=1pcKF0uFpMtuakjp8QOdBDhU7M4eja9Ph"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1yDP2quKzOTrZrT3KVSxNsjV8WKwLWRNz",
+     "url": "https://drive.google.com/uc?export=download&id=1yDP2quKzOTrZrT3KVSxNsjV8WKwLWRNz"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1IWdJjWtjBu1jR_Af1oPB4ykjlyE2g67f",
+     "url": "https://drive.google.com/uc?export=download&id=1IWdJjWtjBu1jR_Af1oPB4ykjlyE2g67f"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1LFMfXGkP5TAm6m2157_lwSo8my5BzmCM",
+     "url": "https://drive.google.com/uc?export=download&id=1LFMfXGkP5TAm6m2157_lwSo8my5BzmCM"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1FGWjCG4ttLna2POf0ZDE08QeHALa2UBB",
+     "url": "https://drive.google.com/uc?export=download&id=1FGWjCG4ttLna2POf0ZDE08QeHALa2UBB"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Dec",
+     "fileId": "1b-AcQq-Tr1INVZ68H9_QR1mDq-nOHGjG",
+     "url": "https://drive.google.com/uc?export=download&id=1b-AcQq-Tr1INVZ68H9_QR1mDq-nOHGjG"
+    },
+    {
+     "name": "2023 Jan",
+     "fileId": "1P9_VOS2bHHWf87aPlX3Y0RJyf73teJxo",
+     "url": "https://drive.google.com/uc?export=download&id=1P9_VOS2bHHWf87aPlX3Y0RJyf73teJxo"
+    },
+    {
+     "name": "2023 July",
+     "fileId": "1egxEtgugDopOuKSdS_Ej1Jsr98OhScwO",
+     "url": "https://drive.google.com/uc?export=download&id=1egxEtgugDopOuKSdS_Ej1Jsr98OhScwO"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1j6ZuPa-A8dxv9wDxBLvNQGFRM0T9DCsa",
+     "url": "https://drive.google.com/uc?export=download&id=1j6ZuPa-A8dxv9wDxBLvNQGFRM0T9DCsa"
+    },
+    {
+     "name": "2024 Jan",
+     "fileId": "14URY7kOOcb5XhaHZ3O3yipVQyvUxZOV1",
+     "url": "https://drive.google.com/uc?export=download&id=14URY7kOOcb5XhaHZ3O3yipVQyvUxZOV1"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1TmU6TRNnC7oNMDAcIJEovWsidKnkKlIf",
+     "url": "https://drive.google.com/uc?export=download&id=1TmU6TRNnC7oNMDAcIJEovWsidKnkKlIf"
+    }
+   ]
+  },
+  {
+   "name": "Global Warming and Climate Change (GWCC)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1e8zptWAeCzPuFlpQm1lfdDGHZHH4btPc",
+     "url": "https://drive.google.com/uc?export=download&id=1e8zptWAeCzPuFlpQm1lfdDGHZHH4btPc"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1tOveA88QxpLV2eU8D0AKos3t43WAF0Mp",
+     "url": "https://drive.google.com/uc?export=download&id=1tOveA88QxpLV2eU8D0AKos3t43WAF0Mp"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1J_rnHpF_leugI9NZRmMLpA8MYgga9jht",
+     "url": "https://drive.google.com/uc?export=download&id=1J_rnHpF_leugI9NZRmMLpA8MYgga9jht"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "128r07AttWdyKP-97CxGtJupz3bEHQ5qK",
+     "url": "https://drive.google.com/uc?export=download&id=128r07AttWdyKP-97CxGtJupz3bEHQ5qK"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1Xx9-ZRvLnYb6WzzK_IHm2JPTOFpAXKRk",
+     "url": "https://drive.google.com/uc?export=download&id=1Xx9-ZRvLnYb6WzzK_IHm2JPTOFpAXKRk"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Dec",
+     "fileId": "1FKoxIMSYSFVor490BGBzKX_Mwm1uYMiu",
+     "url": "https://drive.google.com/uc?export=download&id=1FKoxIMSYSFVor490BGBzKX_Mwm1uYMiu"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "14ky7kSaKWms3Cw0YIRl-XqEL6Qp5rvVu",
+     "url": "https://drive.google.com/uc?export=download&id=14ky7kSaKWms3Cw0YIRl-XqEL6Qp5rvVu"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "147NBLmnZZtMjXNa8VyNI0_CoUIkrVE9u",
+     "url": "https://drive.google.com/uc?export=download&id=147NBLmnZZtMjXNa8VyNI0_CoUIkrVE9u"
+    }
+   ]
+  },
+  {
+   "name": "Immunology",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "11sQkgmQesQi_Ct6m_kih-OUmVPQbEjPZ",
+     "url": "https://drive.google.com/uc?export=download&id=11sQkgmQesQi_Ct6m_kih-OUmVPQbEjPZ"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1PjxU_s-jBHGgGf7lDAkJT037umTExXXI",
+     "url": "https://drive.google.com/uc?export=download&id=1PjxU_s-jBHGgGf7lDAkJT037umTExXXI"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1h4VPhH7khrPD_SK1MWY3854hxh3wkBtT",
+     "url": "https://drive.google.com/uc?export=download&id=1h4VPhH7khrPD_SK1MWY3854hxh3wkBtT"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1eUl4mkj4-UGC8c2L8UTuGiav2QxoTSLv",
+     "url": "https://drive.google.com/uc?export=download&id=1eUl4mkj4-UGC8c2L8UTuGiav2QxoTSLv"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1e_eFfZkpgVnN3mC01Aa4kXpwePEkHuUz",
+     "url": "https://drive.google.com/uc?export=download&id=1e_eFfZkpgVnN3mC01Aa4kXpwePEkHuUz"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": []
+  },
+  {
+   "name": "Industrial Waste Management",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1Fsbd8-56XaUiseuv2eDTncHcSMGiBUT-",
+     "url": "https://drive.google.com/uc?export=download&id=1Fsbd8-56XaUiseuv2eDTncHcSMGiBUT-"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1KM90Be5fhHhd7dLh8DPQMv70PKMw-FGG",
+     "url": "https://drive.google.com/uc?export=download&id=1KM90Be5fhHhd7dLh8DPQMv70PKMw-FGG"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1dFWOE85XL3qhFdlp10Qyy6H8AH7tdAD8",
+     "url": "https://drive.google.com/uc?export=download&id=1dFWOE85XL3qhFdlp10Qyy6H8AH7tdAD8"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1Vc_Kv4XFJt-BlmI9azIWwdqZVUdiOYmt",
+     "url": "https://drive.google.com/uc?export=download&id=1Vc_Kv4XFJt-BlmI9azIWwdqZVUdiOYmt"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1XLQ_77_BrcRaNxnJeY3oIHJbjm5TJSib",
+     "url": "https://drive.google.com/uc?export=download&id=1XLQ_77_BrcRaNxnJeY3oIHJbjm5TJSib"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": []
+  },
+  {
+   "name": "Information Security (IS)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1M7Zs7zQLAVd6l63tnYaXhAPxNKXXDT-e",
+     "url": "https://drive.google.com/uc?export=download&id=1M7Zs7zQLAVd6l63tnYaXhAPxNKXXDT-e"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1HXK8AApjZdNOcdCef1NFwC5S5pkv0qOU",
+     "url": "https://drive.google.com/uc?export=download&id=1HXK8AApjZdNOcdCef1NFwC5S5pkv0qOU"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1I597L2Y6vtL8RGMjB18aSOFyAOujLaqf",
+     "url": "https://drive.google.com/uc?export=download&id=1I597L2Y6vtL8RGMjB18aSOFyAOujLaqf"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1_Yjy7e3LDWnOZJacSMxuPs9_55TADSnd",
+     "url": "https://drive.google.com/uc?export=download&id=1_Yjy7e3LDWnOZJacSMxuPs9_55TADSnd"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1yxflLAS4CEVyv0rDLvoo3iAQA_NHgnXW",
+     "url": "https://drive.google.com/uc?export=download&id=1yxflLAS4CEVyv0rDLvoo3iAQA_NHgnXW"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 May",
+     "fileId": "1W7gXVE8oS-y27UI0vsYT-maQAsuRfUK6",
+     "url": "https://drive.google.com/uc?export=download&id=1W7gXVE8oS-y27UI0vsYT-maQAsuRfUK6"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1_xteC7JyY0fGsqWWjCS9qwIRHaSzWoLz",
+     "url": "https://drive.google.com/uc?export=download&id=1_xteC7JyY0fGsqWWjCS9qwIRHaSzWoLz"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1jMIBkAoyp8H7op-TRX1sF_mG01G6Rbnn",
+     "url": "https://drive.google.com/uc?export=download&id=1jMIBkAoyp8H7op-TRX1sF_mG01G6Rbnn"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1G0EQofINwmG3pUfS7byn1A8k4BZL7iVy",
+     "url": "https://drive.google.com/uc?export=download&id=1G0EQofINwmG3pUfS7byn1A8k4BZL7iVy"
+    }
+   ]
+  },
+  {
+   "name": "Information Storage and Management (ISM)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1PsYOKoo3x-0OVFUWCvgCnK3vJNOfJUgl",
+     "url": "https://drive.google.com/uc?export=download&id=1PsYOKoo3x-0OVFUWCvgCnK3vJNOfJUgl"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1gKWgGiVHas4yn9ddbtOgAjqnZbzUVqMx",
+     "url": "https://drive.google.com/uc?export=download&id=1gKWgGiVHas4yn9ddbtOgAjqnZbzUVqMx"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1GnIY7QL-m25Wx3ovjKh7Uc1jUZd_zFc7",
+     "url": "https://drive.google.com/uc?export=download&id=1GnIY7QL-m25Wx3ovjKh7Uc1jUZd_zFc7"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1s7gfkrGYJpCA1Zlv2fS4ur52pSmHIRFZ",
+     "url": "https://drive.google.com/uc?export=download&id=1s7gfkrGYJpCA1Zlv2fS4ur52pSmHIRFZ"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "12mCGSrnC9-mGvcdwGv19A9OJW4kDVOkc",
+     "url": "https://drive.google.com/uc?export=download&id=12mCGSrnC9-mGvcdwGv19A9OJW4kDVOkc"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 July",
+     "fileId": "1VsYBarWfvgeDNsNaKAR3Pfgv92fUKdkn",
+     "url": "https://drive.google.com/uc?export=download&id=1VsYBarWfvgeDNsNaKAR3Pfgv92fUKdkn"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "13MroLELISJf4ZsLVWc7KvGCHKLq7XIUP",
+     "url": "https://drive.google.com/uc?export=download&id=13MroLELISJf4ZsLVWc7KvGCHKLq7XIUP"
+    }
+   ]
+  },
+  {
+   "name": "Integrated Waste Management",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1xIzmixKQ_iO8KFY_kozpOhqvaQrJUdVH",
+     "url": "https://drive.google.com/uc?export=download&id=1xIzmixKQ_iO8KFY_kozpOhqvaQrJUdVH"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1o8NZWnN3PKKBXjRqeAvdzgA-IcowqPdV",
+     "url": "https://drive.google.com/uc?export=download&id=1o8NZWnN3PKKBXjRqeAvdzgA-IcowqPdV"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1dUfMoBmYiP7Fm0zEThLtZj-rbInuW4bs",
+     "url": "https://drive.google.com/uc?export=download&id=1dUfMoBmYiP7Fm0zEThLtZj-rbInuW4bs"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1WaimTUQSyLkUs1S_fA0ge0NXOuTe15k4",
+     "url": "https://drive.google.com/uc?export=download&id=1WaimTUQSyLkUs1S_fA0ge0NXOuTe15k4"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1Vegutig1Wu2WpAiSpiU_08w_m993U_Sj",
+     "url": "https://drive.google.com/uc?export=download&id=1Vegutig1Wu2WpAiSpiU_08w_m993U_Sj"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2025 July",
+     "fileId": "1lHTQuOr5Uht-b4le70m8p_BzrLEKwkzb",
+     "url": "https://drive.google.com/uc?export=download&id=1lHTQuOr5Uht-b4le70m8p_BzrLEKwkzb"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1Nxny5nttQCWK-kycAJ1Gj24dfe4quc1O",
+     "url": "https://drive.google.com/uc?export=download&id=1Nxny5nttQCWK-kycAJ1Gj24dfe4quc1O"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "19QYs4ti690bCFHjFqEu_9TvW65uFPuY7",
+     "url": "https://drive.google.com/uc?export=download&id=19QYs4ti690bCFHjFqEu_9TvW65uFPuY7"
+    }
+   ]
+  },
+  {
+   "name": "Internet of Things (IoT)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1JaxZUVxDPO6Gn55DRDCqafKCXePIaSJv",
+     "url": "https://drive.google.com/uc?export=download&id=1JaxZUVxDPO6Gn55DRDCqafKCXePIaSJv"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1i4SoKD5YQiJ3Fc3K5brdfD2LGbGfj_Pc",
+     "url": "https://drive.google.com/uc?export=download&id=1i4SoKD5YQiJ3Fc3K5brdfD2LGbGfj_Pc"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1MwbWL1LtKw9zGDNXfOyq2xeBh9E2BtcD",
+     "url": "https://drive.google.com/uc?export=download&id=1MwbWL1LtKw9zGDNXfOyq2xeBh9E2BtcD"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1S117N5SiGeOh8KXFtpejrZjFuq_LHASG",
+     "url": "https://drive.google.com/uc?export=download&id=1S117N5SiGeOh8KXFtpejrZjFuq_LHASG"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "12ETcla1Pqkv6R9aRXyBjzdTT5Rm6Ndsl",
+     "url": "https://drive.google.com/uc?export=download&id=12ETcla1Pqkv6R9aRXyBjzdTT5Rm6Ndsl"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 July",
+     "fileId": "1cG4fAYUxUs3EMm8Nvmt3u9l9D8oJb2me",
+     "url": "https://drive.google.com/uc?export=download&id=1cG4fAYUxUs3EMm8Nvmt3u9l9D8oJb2me"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "1ok2CjLk3x2FZrCgHBBjWfXkwmKF30sCv",
+     "url": "https://drive.google.com/uc?export=download&id=1ok2CjLk3x2FZrCgHBBjWfXkwmKF30sCv"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1MtaaKXlN33n1yWcA6RZa9C7XIbL0_27y",
+     "url": "https://drive.google.com/uc?export=download&id=1MtaaKXlN33n1yWcA6RZa9C7XIbL0_27y"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "18Lo0TANIhCYu0j8lCjJRObyDVZrnDJyD",
+     "url": "https://drive.google.com/uc?export=download&id=18Lo0TANIhCYu0j8lCjJRObyDVZrnDJyD"
+    },
+    {
+     "name": "2025 Dec",
+     "fileId": "1JSlKSVOSd6ZfrUsxuHDpuJHhRM-Xq1ty",
+     "url": "https://drive.google.com/uc?export=download&id=1JSlKSVOSd6ZfrUsxuHDpuJHhRM-Xq1ty"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1-HVFJkQJoo5MxgTR0kYixoB3eUyqJh6P",
+     "url": "https://drive.google.com/uc?export=download&id=1-HVFJkQJoo5MxgTR0kYixoB3eUyqJh6P"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1Y42GJtD3MSb5HBwRyVVBCD9PbGs2I_fp",
+     "url": "https://drive.google.com/uc?export=download&id=1Y42GJtD3MSb5HBwRyVVBCD9PbGs2I_fp"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1yt22UAdRHa2yyghZ6_6TpCnL_RjeFE7Y",
+     "url": "https://drive.google.com/uc?export=download&id=1yt22UAdRHa2yyghZ6_6TpCnL_RjeFE7Y"
+    }
+   ]
+  },
+  {
+   "name": "Introduction to Computational Biology",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1zTbbqsadqDQHDq0c7cXdO5uRlvBoVEnq",
+     "url": "https://drive.google.com/uc?export=download&id=1zTbbqsadqDQHDq0c7cXdO5uRlvBoVEnq"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1FnrjxxsGDdXzkt0KCyt29GuSKf6vu1Vi",
+     "url": "https://drive.google.com/uc?export=download&id=1FnrjxxsGDdXzkt0KCyt29GuSKf6vu1Vi"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1PQG4Tkapto6T5fpy2_cFC8X0p9oe5Bqf",
+     "url": "https://drive.google.com/uc?export=download&id=1PQG4Tkapto6T5fpy2_cFC8X0p9oe5Bqf"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "11IyDcyD8xJsbPFF88z5f3iGQX4U73vCx",
+     "url": "https://drive.google.com/uc?export=download&id=11IyDcyD8xJsbPFF88z5f3iGQX4U73vCx"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1TQB8K-Vv9CqoA6LYXfh1EyLeBgIUs5Lo",
+     "url": "https://drive.google.com/uc?export=download&id=1TQB8K-Vv9CqoA6LYXfh1EyLeBgIUs5Lo"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Jan",
+     "fileId": "13DMSZ0N0Q6INr2ruti9Epn2s3t8XOkDm",
+     "url": "https://drive.google.com/uc?export=download&id=13DMSZ0N0Q6INr2ruti9Epn2s3t8XOkDm"
+    },
+    {
+     "name": "2023 June",
+     "fileId": "1GlPYZWTexsu_-FWyOyCnb9jckC75mQa1",
+     "url": "https://drive.google.com/uc?export=download&id=1GlPYZWTexsu_-FWyOyCnb9jckC75mQa1"
+    },
+    {
+     "name": "2024 Jan",
+     "fileId": "1pcYX376q_S4hJYNeh0XSgaVAT_5HpgV0",
+     "url": "https://drive.google.com/uc?export=download&id=1pcYX376q_S4hJYNeh0XSgaVAT_5HpgV0"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1fJoi2W4vx9LNr3DGB1kidWIJIxkrkZ0N",
+     "url": "https://drive.google.com/uc?export=download&id=1fJoi2W4vx9LNr3DGB1kidWIJIxkrkZ0N"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1iIK_oXpI-M5WKGRo1x6Aigcq-DKVYZ_8",
+     "url": "https://drive.google.com/uc?export=download&id=1iIK_oXpI-M5WKGRo1x6Aigcq-DKVYZ_8"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "12zkzWFkfT07zzoqa1XcEjh1Ctpk5pQ59",
+     "url": "https://drive.google.com/uc?export=download&id=12zkzWFkfT07zzoqa1XcEjh1Ctpk5pQ59"
+    }
+   ]
+  },
+  {
+   "name": "Introduction to IoT",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1HCj6SLhIR-W9OpHhTpt8ReTjvjHzAaff",
+     "url": "https://drive.google.com/uc?export=download&id=1HCj6SLhIR-W9OpHhTpt8ReTjvjHzAaff"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1MLxpoul2ey4GbKQ0D-8T-CL7tq1X_rq3",
+     "url": "https://drive.google.com/uc?export=download&id=1MLxpoul2ey4GbKQ0D-8T-CL7tq1X_rq3"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "10UBdaH_AxEZGJhP4ZVkPEdJNKzJUhIwS",
+     "url": "https://drive.google.com/uc?export=download&id=10UBdaH_AxEZGJhP4ZVkPEdJNKzJUhIwS"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1NzVZNKRVZhlKB_ndAx-PpXOX0z4aiCE5",
+     "url": "https://drive.google.com/uc?export=download&id=1NzVZNKRVZhlKB_ndAx-PpXOX0z4aiCE5"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2025 July",
+     "fileId": "17yUIFswTIt6qnCk0wWa912k5OXsl5CQ3",
+     "url": "https://drive.google.com/uc?export=download&id=17yUIFswTIt6qnCk0wWa912k5OXsl5CQ3"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1fU0lwUXiV55jCtChm0o45YeUazEmbkId",
+     "url": "https://drive.google.com/uc?export=download&id=1fU0lwUXiV55jCtChm0o45YeUazEmbkId"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1b4HcRHp71oaalSFChpkxyfSUoTuKfPB2",
+     "url": "https://drive.google.com/uc?export=download&id=1b4HcRHp71oaalSFChpkxyfSUoTuKfPB2"
+    }
+   ]
+  },
+  {
+   "name": "Japanese",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Textbook",
+     "fileId": "1HB_kwDJ6I5XP_icxQOYpRqIiMoxl5Y4p",
+     "url": "https://drive.google.com/uc?export=download&id=1HB_kwDJ6I5XP_icxQOYpRqIiMoxl5Y4p"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Jan",
+     "fileId": "1qSLRHrA47-gODNM5nKhPD62FNG_NJALD",
+     "url": "https://drive.google.com/uc?export=download&id=1qSLRHrA47-gODNM5nKhPD62FNG_NJALD"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1ug-CrwqNm13vVPCyh3l8ZipUR7HIPV4G",
+     "url": "https://drive.google.com/uc?export=download&id=1ug-CrwqNm13vVPCyh3l8ZipUR7HIPV4G"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "117TrkUUnZW8wS7bDDxjnF1M-jpJObzLx",
+     "url": "https://drive.google.com/uc?export=download&id=117TrkUUnZW8wS7bDDxjnF1M-jpJObzLx"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1QYrQnPjSC7v25fpyeR634ELFXin_au0r",
+     "url": "https://drive.google.com/uc?export=download&id=1QYrQnPjSC7v25fpyeR634ELFXin_au0r"
+    }
+   ]
+  },
+  {
+   "name": "Korean",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Textbook",
+     "fileId": "11XxhCEukuqsqlnr9y5RRLI6Piphe9Y0u",
+     "url": "https://drive.google.com/uc?export=download&id=11XxhCEukuqsqlnr9y5RRLI6Piphe9Y0u"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2022 Jan",
+     "fileId": "1RvyEMqFYxVviKR80h1CNGlLsG-PVPKBi",
+     "url": "https://drive.google.com/uc?export=download&id=1RvyEMqFYxVviKR80h1CNGlLsG-PVPKBi"
+    },
+    {
+     "name": "2023 Dec",
+     "fileId": "1LnZsX89a80C58d9XGzo6sgTuzCF1cJiT",
+     "url": "https://drive.google.com/uc?export=download&id=1LnZsX89a80C58d9XGzo6sgTuzCF1cJiT"
+    },
+    {
+     "name": "2023 Jan",
+     "fileId": "1qaIKLUzqinb1WnU3AiZC3nQNYhn_54hB",
+     "url": "https://drive.google.com/uc?export=download&id=1qaIKLUzqinb1WnU3AiZC3nQNYhn_54hB"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1oRqkm0Rq3_ZnDCFcXsvt1H3tGnM0ic7M",
+     "url": "https://drive.google.com/uc?export=download&id=1oRqkm0Rq3_ZnDCFcXsvt1H3tGnM0ic7M"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1Sl2TVcR8mciaqM1-3FmGM2sTj-jPhZl6",
+     "url": "https://drive.google.com/uc?export=download&id=1Sl2TVcR8mciaqM1-3FmGM2sTj-jPhZl6"
+    }
+   ]
+  },
+  {
+   "name": "Machine Learning (ML)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1wGBNVRNKfkN2w9uiGX2DWjWUBv9xAtBW",
+     "url": "https://drive.google.com/uc?export=download&id=1wGBNVRNKfkN2w9uiGX2DWjWUBv9xAtBW"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1hsDM--1w9BVwu6Ul7Y9GrKcTtvuapDna",
+     "url": "https://drive.google.com/uc?export=download&id=1hsDM--1w9BVwu6Ul7Y9GrKcTtvuapDna"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1wvrCFO2IOrltAb_2NJbAAjmqjYAB7mXP",
+     "url": "https://drive.google.com/uc?export=download&id=1wvrCFO2IOrltAb_2NJbAAjmqjYAB7mXP"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1Rn-y79Grvud_dQfyxDmK1Uj5XY2Qa4L-",
+     "url": "https://drive.google.com/uc?export=download&id=1Rn-y79Grvud_dQfyxDmK1Uj5XY2Qa4L-"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1jW_NzVyqanTQ_TL-8mFITXy4NmXfxhS-",
+     "url": "https://drive.google.com/uc?export=download&id=1jW_NzVyqanTQ_TL-8mFITXy4NmXfxhS-"
+    },
+    {
+     "name": "Video Lecture Links -  Machine Learning-Dr.R.Anto Arockia Rosaline.xlsx - SRM ",
+     "fileId": "1GmZkbLHQoNqoEjwwcrcQJnb9eHZ25iOI",
+     "url": "https://drive.google.com/uc?export=download&id=1GmZkbLHQoNqoEjwwcrcQJnb9eHZ25iOI"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "10ztO3SNXY2sqqomdFF_gx7RofmpQWx0s",
+     "url": "https://drive.google.com/uc?export=download&id=10ztO3SNXY2sqqomdFF_gx7RofmpQWx0s"
+    }
+   ]
+  },
+  {
+   "name": "Machine Learning for Data Analytics",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "18b1M0MGF0BJ2jApqXC2Fv6s5FMYTiuKQ",
+     "url": "https://drive.google.com/uc?export=download&id=18b1M0MGF0BJ2jApqXC2Fv6s5FMYTiuKQ"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1Hn_NxuXQX1elxwHGJq7xliH2YH6ItP7C",
+     "url": "https://drive.google.com/uc?export=download&id=1Hn_NxuXQX1elxwHGJq7xliH2YH6ItP7C"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1FsSN59PpFLZhkIBMDFxtkxENhT2Q4Moi",
+     "url": "https://drive.google.com/uc?export=download&id=1FsSN59PpFLZhkIBMDFxtkxENhT2Q4Moi"
+    }
+   ]
+  },
+  {
+   "name": "Malware Analysis",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1IC0lflvmM9RCi7N7zhIn4OTjkXVdvoEV",
+     "url": "https://drive.google.com/uc?export=download&id=1IC0lflvmM9RCi7N7zhIn4OTjkXVdvoEV"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1TYyPJlhkNMu_pEOmxiUCp-p3jgHpJk4N",
+     "url": "https://drive.google.com/uc?export=download&id=1TYyPJlhkNMu_pEOmxiUCp-p3jgHpJk4N"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1zpSt32vRG7sy08IFm4_S52B4GN5h19KI",
+     "url": "https://drive.google.com/uc?export=download&id=1zpSt32vRG7sy08IFm4_S52B4GN5h19KI"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1F3icO72TGdZa1GPaZcdDAwN_HrYpbzpB",
+     "url": "https://drive.google.com/uc?export=download&id=1F3icO72TGdZa1GPaZcdDAwN_HrYpbzpB"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1MZG-FhqQdn2fY0jhOwS7trsmqmv_z7F8",
+     "url": "https://drive.google.com/uc?export=download&id=1MZG-FhqQdn2fY0jhOwS7trsmqmv_z7F8"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 May",
+     "fileId": "1pib2WZP1tuyYpvE_wj7TyXi_2rCBsIbI",
+     "url": "https://drive.google.com/uc?export=download&id=1pib2WZP1tuyYpvE_wj7TyXi_2rCBsIbI"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1g_iGbd7WexCiKTrQyLOoV058Ed3qcdSv",
+     "url": "https://drive.google.com/uc?export=download&id=1g_iGbd7WexCiKTrQyLOoV058Ed3qcdSv"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1Okn7pkxM-UmyJdGnUBhH5FJL7AztgMge",
+     "url": "https://drive.google.com/uc?export=download&id=1Okn7pkxM-UmyJdGnUBhH5FJL7AztgMge"
+    },
+    {
+     "name": "2025 Nov",
+     "fileId": "1I2rTm0vsRaKgZMmQ5-Wy_8fSwFhAEXyW",
+     "url": "https://drive.google.com/uc?export=download&id=1I2rTm0vsRaKgZMmQ5-Wy_8fSwFhAEXyW"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1VK2F2lLe7mKK5rxESutsbXrSo09s9XpC",
+     "url": "https://drive.google.com/uc?export=download&id=1VK2F2lLe7mKK5rxESutsbXrSo09s9XpC"
+    }
+   ]
+  },
+  {
+   "name": "Mastering Cloud Data Services and Analytics with AWS, Azure, and GCP",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1o8n5wkxM5ArU_WGBvN9A4-ilcQtdKsLk",
+     "url": "https://drive.google.com/uc?export=download&id=1o8n5wkxM5ArU_WGBvN9A4-ilcQtdKsLk"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1uvwVWIv1I2Kjq7uTR8kzJyFCnCSVc9Fv",
+     "url": "https://drive.google.com/uc?export=download&id=1uvwVWIv1I2Kjq7uTR8kzJyFCnCSVc9Fv"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1oZ-XO_b7SCznFZdiLNBvbZwk8mBumCuv",
+     "url": "https://drive.google.com/uc?export=download&id=1oZ-XO_b7SCznFZdiLNBvbZwk8mBumCuv"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1y6167nnyO3i2sWv9EVipX_QHtIYcw_ZM",
+     "url": "https://drive.google.com/uc?export=download&id=1y6167nnyO3i2sWv9EVipX_QHtIYcw_ZM"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1IXTIemY_K_qpWaALpXI_Tc3YqJRROrRe",
+     "url": "https://drive.google.com/uc?export=download&id=1IXTIemY_K_qpWaALpXI_Tc3YqJRROrRe"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1XWGr-HECIroIqnIPcbgGopE22OP-z0nE",
+     "url": "https://drive.google.com/uc?export=download&id=1XWGr-HECIroIqnIPcbgGopE22OP-z0nE"
+    }
+   ]
+  },
+  {
+   "name": "Metabolic Disorders",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1.1",
+     "fileId": "1vwboQG-iON2iVfoKVa7C3yC9BywJBw11",
+     "url": "https://drive.google.com/uc?export=download&id=1vwboQG-iON2iVfoKVa7C3yC9BywJBw11"
+    },
+    {
+     "name": "Unit 1.2",
+     "fileId": "1gURufvDyOqFxKqHntT1PzBHV9CSDEIIm",
+     "url": "https://drive.google.com/uc?export=download&id=1gURufvDyOqFxKqHntT1PzBHV9CSDEIIm"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1xmEhq5s6gtl_CgH786HpfhvBaON8aypg",
+     "url": "https://drive.google.com/uc?export=download&id=1xmEhq5s6gtl_CgH786HpfhvBaON8aypg"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1uwJwL2UdDoy_3Ov6Ucpz5csEGJqEiAXx",
+     "url": "https://drive.google.com/uc?export=download&id=1uwJwL2UdDoy_3Ov6Ucpz5csEGJqEiAXx"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1BHpfIkH6udjDY3eI77qozwehu5buhGUw",
+     "url": "https://drive.google.com/uc?export=download&id=1BHpfIkH6udjDY3eI77qozwehu5buhGUw"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "15kAunvDr4XVGqQyhSPRb76n7nrtWyZZB",
+     "url": "https://drive.google.com/uc?export=download&id=15kAunvDr4XVGqQyhSPRb76n7nrtWyZZB"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 Nov",
+     "fileId": "1nXWNg7hjStoIxJrrWNI_Iid18AalLciT",
+     "url": "https://drive.google.com/uc?export=download&id=1nXWNg7hjStoIxJrrWNI_Iid18AalLciT"
+    }
+   ],
+   "syllabus": []
+  },
+  {
+   "name": "Microbiology",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1zlqistJ5GDJPNZJMYwkHJwTt8peUewwC",
+     "url": "https://drive.google.com/uc?export=download&id=1zlqistJ5GDJPNZJMYwkHJwTt8peUewwC"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1DwYNg96lC5liZODy1uPyeLgbualJbVlY",
+     "url": "https://drive.google.com/uc?export=download&id=1DwYNg96lC5liZODy1uPyeLgbualJbVlY"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1FVtSLXhlLtvEjA-uWbFles__sblueOi-",
+     "url": "https://drive.google.com/uc?export=download&id=1FVtSLXhlLtvEjA-uWbFles__sblueOi-"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "15Kbmxy5f9umkKvnliXMEhDAP22Y3VNZg",
+     "url": "https://drive.google.com/uc?export=download&id=15Kbmxy5f9umkKvnliXMEhDAP22Y3VNZg"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1gkQcz3inmohuWQkIwrpfvi54dK_oV1c9",
+     "url": "https://drive.google.com/uc?export=download&id=1gkQcz3inmohuWQkIwrpfvi54dK_oV1c9"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Jan",
+     "fileId": "1yhWF8Mdu5Yc_pnPadUXD1TIO9jZ-oJ9a",
+     "url": "https://drive.google.com/uc?export=download&id=1yhWF8Mdu5Yc_pnPadUXD1TIO9jZ-oJ9a"
+    },
+    {
+     "name": "2023 June",
+     "fileId": "1V6N18xZwNm5s_1YpVcK3JjbXWVF3jOYa",
+     "url": "https://drive.google.com/uc?export=download&id=1V6N18xZwNm5s_1YpVcK3JjbXWVF3jOYa"
+    },
+    {
+     "name": "2024 Dec",
+     "fileId": "15xusfgAfraZpiPaCHk24yq5nu3lzQlGk",
+     "url": "https://drive.google.com/uc?export=download&id=15xusfgAfraZpiPaCHk24yq5nu3lzQlGk"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1hHCWWfqmhNaffivhYTE4kBBe6xVstQos",
+     "url": "https://drive.google.com/uc?export=download&id=1hHCWWfqmhNaffivhYTE4kBBe6xVstQos"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1RAZS01qQRaqzoww1gfp2jauGGxnuXi1P",
+     "url": "https://drive.google.com/uc?export=download&id=1RAZS01qQRaqzoww1gfp2jauGGxnuXi1P"
+    }
+   ]
+  },
+  {
+   "name": "Nanocomputing",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1AFnhY3W29Mdjlj-iXVHqbpyS6zIvXbjc",
+     "url": "https://drive.google.com/uc?export=download&id=1AFnhY3W29Mdjlj-iXVHqbpyS6zIvXbjc"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1-xpLITj7z9Pjsy4Gd_g1S1AJBLG2outQ",
+     "url": "https://drive.google.com/uc?export=download&id=1-xpLITj7z9Pjsy4Gd_g1S1AJBLG2outQ"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "13Qnhh2OnBBWsv6tCJiE46M4jUcGAhyU_",
+     "url": "https://drive.google.com/uc?export=download&id=13Qnhh2OnBBWsv6tCJiE46M4jUcGAhyU_"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1rC3beXncI85FBvYCbbjGjyraY75pNrUh",
+     "url": "https://drive.google.com/uc?export=download&id=1rC3beXncI85FBvYCbbjGjyraY75pNrUh"
+    }
+   ]
+  },
+  {
+   "name": "Numerical Methods and Analysis",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1WwhkY8gLsvXkoI7zWg89norqmqFHzB10",
+     "url": "https://drive.google.com/uc?export=download&id=1WwhkY8gLsvXkoI7zWg89norqmqFHzB10"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1n4xjxr3APuUBfWjJt_mqLtoWIJdJwhKz",
+     "url": "https://drive.google.com/uc?export=download&id=1n4xjxr3APuUBfWjJt_mqLtoWIJdJwhKz"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1sb8rMZF8jtdnEDONZDZIGSiLGxvkWDLl",
+     "url": "https://drive.google.com/uc?export=download&id=1sb8rMZF8jtdnEDONZDZIGSiLGxvkWDLl"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1f7lwhnEcNN7W3DCk1_6HyWqlFtFMMn8v",
+     "url": "https://drive.google.com/uc?export=download&id=1f7lwhnEcNN7W3DCk1_6HyWqlFtFMMn8v"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "17GjoQ0XMi_BUxLjwJkbpHigw0y0Nuor7",
+     "url": "https://drive.google.com/uc?export=download&id=17GjoQ0XMi_BUxLjwJkbpHigw0y0Nuor7"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 July",
+     "fileId": "1hbDVo29fluo8m9ZFDucSe7g5FoXXmzx0",
+     "url": "https://drive.google.com/uc?export=download&id=1hbDVo29fluo8m9ZFDucSe7g5FoXXmzx0"
+    },
+    {
+     "name": "2023 Nov",
+     "fileId": "1BCPvrT3la1IwUmaTGnu5e2rx9-XxVLH8",
+     "url": "https://drive.google.com/uc?export=download&id=1BCPvrT3la1IwUmaTGnu5e2rx9-XxVLH8"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1gf4xblnd3E8cOIVRvx99TYQKsrHuqOJp",
+     "url": "https://drive.google.com/uc?export=download&id=1gf4xblnd3E8cOIVRvx99TYQKsrHuqOJp"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "125g-W3woxW0VZKupr3ASmT-Mg8fDKX54",
+     "url": "https://drive.google.com/uc?export=download&id=125g-W3woxW0VZKupr3ASmT-Mg8fDKX54"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "14HXJolhS-frFSC1AFLDmuo8TUujtxPdq",
+     "url": "https://drive.google.com/uc?export=download&id=14HXJolhS-frFSC1AFLDmuo8TUujtxPdq"
+    }
+   ]
+  },
+  {
+   "name": "Object-Oriented Design and Programming (OODP)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1Pm0G0RcMCOc7WkABFnoIC-BDjw7YqL-W",
+     "url": "https://drive.google.com/uc?export=download&id=1Pm0G0RcMCOc7WkABFnoIC-BDjw7YqL-W"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1hBR-Jw4w6QPCiLpaZcKhOxNhc9dsbARF",
+     "url": "https://drive.google.com/uc?export=download&id=1hBR-Jw4w6QPCiLpaZcKhOxNhc9dsbARF"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1PWzG0Cp9dBIlaoNmL-LyLPIdYx892EZt",
+     "url": "https://drive.google.com/uc?export=download&id=1PWzG0Cp9dBIlaoNmL-LyLPIdYx892EZt"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1SXVDmNskWRp86WzTbw216K0uNKbW3cOW",
+     "url": "https://drive.google.com/uc?export=download&id=1SXVDmNskWRp86WzTbw216K0uNKbW3cOW"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1hwajxVA5GpT5lie45gNipKetYtARbj5N",
+     "url": "https://drive.google.com/uc?export=download&id=1hwajxVA5GpT5lie45gNipKetYtARbj5N"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2022 Dec",
+     "fileId": "1ajkyrOywZq6PzEmOVH1zDXpnZBY62mce",
+     "url": "https://drive.google.com/uc?export=download&id=1ajkyrOywZq6PzEmOVH1zDXpnZBY62mce"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1Mm2Et9j752MlYVx6c9QF_XsusQFrMUd0",
+     "url": "https://drive.google.com/uc?export=download&id=1Mm2Et9j752MlYVx6c9QF_XsusQFrMUd0"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1xt_idZONlcKOHVMGIBMxRH_9rkb0Mt0a",
+     "url": "https://drive.google.com/uc?export=download&id=1xt_idZONlcKOHVMGIBMxRH_9rkb0Mt0a"
+    }
+   ]
+  },
+  {
+   "name": "Operating Systems (OS)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1iMfHNEzwWKP3dMbQDOspIp9YABWzyZn1",
+     "url": "https://drive.google.com/uc?export=download&id=1iMfHNEzwWKP3dMbQDOspIp9YABWzyZn1"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1kI9TbL8ypnbjRHIudJ0Mpv6kdIrljQ9l",
+     "url": "https://drive.google.com/uc?export=download&id=1kI9TbL8ypnbjRHIudJ0Mpv6kdIrljQ9l"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1uL5MbRcbCm1u3zfFSzf3qw_ZR38CISUf",
+     "url": "https://drive.google.com/uc?export=download&id=1uL5MbRcbCm1u3zfFSzf3qw_ZR38CISUf"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1-4zDaM4GpgPu3CgvafHvwRULgdYb15N2",
+     "url": "https://drive.google.com/uc?export=download&id=1-4zDaM4GpgPu3CgvafHvwRULgdYb15N2"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1FiYKBHewBRnajdt_hh3asHCvgjk-Yf26",
+     "url": "https://drive.google.com/uc?export=download&id=1FiYKBHewBRnajdt_hh3asHCvgjk-Yf26"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 June",
+     "fileId": "1jIm8jMATGaU49EN5tLuOdYHJqTI2_B9T",
+     "url": "https://drive.google.com/uc?export=download&id=1jIm8jMATGaU49EN5tLuOdYHJqTI2_B9T"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1OjTAjNYHdPsISBcJCyFvD_HkOjz9mhr1",
+     "url": "https://drive.google.com/uc?export=download&id=1OjTAjNYHdPsISBcJCyFvD_HkOjz9mhr1"
+    },
+    {
+     "name": "2024 Jan",
+     "fileId": "16NoiqmUTxw5bmg5jTFP3WAnLNr1cl-3O",
+     "url": "https://drive.google.com/uc?export=download&id=16NoiqmUTxw5bmg5jTFP3WAnLNr1cl-3O"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "15ie8_j6TcAizrZUVV7Z_8ATjCC2hu11g",
+     "url": "https://drive.google.com/uc?export=download&id=15ie8_j6TcAizrZUVV7Z_8ATjCC2hu11g"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1Ukcwzn16IggNoxW_WiQ1tbIFXU5TtiOR",
+     "url": "https://drive.google.com/uc?export=download&id=1Ukcwzn16IggNoxW_WiQ1tbIFXU5TtiOR"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1nXrFR9JdN246MrZ0teTK1WJlShuxhHo5",
+     "url": "https://drive.google.com/uc?export=download&id=1nXrFR9JdN246MrZ0teTK1WJlShuxhHo5"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1JVHlkPCnz1OLizaMHhtu8QQYncAbAQDx",
+     "url": "https://drive.google.com/uc?export=download&id=1JVHlkPCnz1OLizaMHhtu8QQYncAbAQDx"
+    }
+   ]
+  },
+  {
+   "name": "PCB Manufacturing and Design",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1WBLSs1UlaT5_fUzfv5v9QO_n13sw-0nK",
+     "url": "https://drive.google.com/uc?export=download&id=1WBLSs1UlaT5_fUzfv5v9QO_n13sw-0nK"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1d6am5S6ip3QvMQgD3HAabkNzpss-BeaN",
+     "url": "https://drive.google.com/uc?export=download&id=1d6am5S6ip3QvMQgD3HAabkNzpss-BeaN"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1unecvg9ysLp9NHI2bYAhNNfG2WRJsn64",
+     "url": "https://drive.google.com/uc?export=download&id=1unecvg9ysLp9NHI2bYAhNNfG2WRJsn64"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1QkbLhQTKvROzvaWUNB_cZ4vJZWlNHB8b",
+     "url": "https://drive.google.com/uc?export=download&id=1QkbLhQTKvROzvaWUNB_cZ4vJZWlNHB8b"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1_g-Nboz_6lgwgRfu6JhnXHrB_SLfgjje",
+     "url": "https://drive.google.com/uc?export=download&id=1_g-Nboz_6lgwgRfu6JhnXHrB_SLfgjje"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 Nov",
+     "fileId": "1FcHMOkd-0gv8BSI920KoFQGEcN8RzZxW",
+     "url": "https://drive.google.com/uc?export=download&id=1FcHMOkd-0gv8BSI920KoFQGEcN8RzZxW"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1TZIngG22qn3-zIkSlHfcLhYAUQZ1tPR1",
+     "url": "https://drive.google.com/uc?export=download&id=1TZIngG22qn3-zIkSlHfcLhYAUQZ1tPR1"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1D5L5vho8y-IBU8ogKZBQ0oT_6aNsDsIu",
+     "url": "https://drive.google.com/uc?export=download&id=1D5L5vho8y-IBU8ogKZBQ0oT_6aNsDsIu"
+    },
+    {
+     "name": "2025 Sep",
+     "fileId": "1_4v1Tohyz0Q6ZlfJHR_c-IgyadiZ82r_",
+     "url": "https://drive.google.com/uc?export=download&id=1_4v1Tohyz0Q6ZlfJHR_c-IgyadiZ82r_"
+    }
+   ],
+   "syllabus": []
+  },
+  {
+   "name": "Philosophy of Engineering",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1uS98-nyETFca0Uk2agoBGTVScWYFPvUF",
+     "url": "https://drive.google.com/uc?export=download&id=1uS98-nyETFca0Uk2agoBGTVScWYFPvUF"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1BmrEDTAW2qShYHlVaJRytNSkENZ4Bjam",
+     "url": "https://drive.google.com/uc?export=download&id=1BmrEDTAW2qShYHlVaJRytNSkENZ4Bjam"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "12w_LLPZxjJQS5vFqfFH11agmMhH-DT62",
+     "url": "https://drive.google.com/uc?export=download&id=12w_LLPZxjJQS5vFqfFH11agmMhH-DT62"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "19F_pKy9GSkPacf0kd3IHljrOzqBL0GU8",
+     "url": "https://drive.google.com/uc?export=download&id=19F_pKy9GSkPacf0kd3IHljrOzqBL0GU8"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1dieCsv7kNE5HVcQfTYWQNKKQZaaGo8NI",
+     "url": "https://drive.google.com/uc?export=download&id=1dieCsv7kNE5HVcQfTYWQNKKQZaaGo8NI"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Dec",
+     "fileId": "11FQSiSejs6dULExEgtAUc5-26ahScS7c",
+     "url": "https://drive.google.com/uc?export=download&id=11FQSiSejs6dULExEgtAUc5-26ahScS7c"
+    },
+    {
+     "name": "2023 Jan",
+     "fileId": "1F3TbKcfwcD0eVqHmuvXERY5y8yhhhgAf",
+     "url": "https://drive.google.com/uc?export=download&id=1F3TbKcfwcD0eVqHmuvXERY5y8yhhhgAf"
+    },
+    {
+     "name": "2023 July",
+     "fileId": "1cjBLbpbleiNS_PiEdFz5nTNauBqORKF7",
+     "url": "https://drive.google.com/uc?export=download&id=1cjBLbpbleiNS_PiEdFz5nTNauBqORKF7"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "13Xe6gA-okWrXHSSiv_KTexDztA_7LevB",
+     "url": "https://drive.google.com/uc?export=download&id=13Xe6gA-okWrXHSSiv_KTexDztA_7LevB"
+    },
+    {
+     "name": "2024 Dec",
+     "fileId": "1VoTZOlHVAjv_KNfHiUHxQI_Zg2Z_CgI8",
+     "url": "https://drive.google.com/uc?export=download&id=1VoTZOlHVAjv_KNfHiUHxQI_Zg2Z_CgI8"
+    },
+    {
+     "name": "2024 Jan",
+     "fileId": "13N7LK3-QuUwToKba_PwiSGGhCE1ZLZo6",
+     "url": "https://drive.google.com/uc?export=download&id=13N7LK3-QuUwToKba_PwiSGGhCE1ZLZo6"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "19E0hIHOIukNrBb2emAUSFprq17wdywON",
+     "url": "https://drive.google.com/uc?export=download&id=19E0hIHOIukNrBb2emAUSFprq17wdywON"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1XHjxQrNnuLQhXJk3-SYvveIFqeZ-cNGS",
+     "url": "https://drive.google.com/uc?export=download&id=1XHjxQrNnuLQhXJk3-SYvveIFqeZ-cNGS"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1JRv8O227Hxdp3i_emC80bnGSDJhk8oXK",
+     "url": "https://drive.google.com/uc?export=download&id=1JRv8O227Hxdp3i_emC80bnGSDJhk8oXK"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1iS0YYlJQGJ5Y4t8hjOZBzACORtlo9wgt",
+     "url": "https://drive.google.com/uc?export=download&id=1iS0YYlJQGJ5Y4t8hjOZBzACORtlo9wgt"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1nV5N9_JDh4LsTGX4gmrQ4WZbtfAD3lrB",
+     "url": "https://drive.google.com/uc?export=download&id=1nV5N9_JDh4LsTGX4gmrQ4WZbtfAD3lrB"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "16LyJpuTunU07RaYI7XdQx8a--sJpDaI0",
+     "url": "https://drive.google.com/uc?export=download&id=16LyJpuTunU07RaYI7XdQx8a--sJpDaI0"
+    }
+   ]
+  },
+  {
+   "name": "Physical and Analytical Chemistry",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1PDqHpoTrSFVNDvuWm_ewImBg0wRgsHvM",
+     "url": "https://drive.google.com/uc?export=download&id=1PDqHpoTrSFVNDvuWm_ewImBg0wRgsHvM"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1f70g0NfYk7aBUJ-buE9BCkrJJ0Q27WIt",
+     "url": "https://drive.google.com/uc?export=download&id=1f70g0NfYk7aBUJ-buE9BCkrJJ0Q27WIt"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "10MgF1eulNRkJCEr1i_rXaTIkvh_u3gFW",
+     "url": "https://drive.google.com/uc?export=download&id=10MgF1eulNRkJCEr1i_rXaTIkvh_u3gFW"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1_kNthx77a3xW0ecAhJ-ueHGxs-ingS7H",
+     "url": "https://drive.google.com/uc?export=download&id=1_kNthx77a3xW0ecAhJ-ueHGxs-ingS7H"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1FKmrSs1Dm_7dhjlDsm_hbc2Oz9wYb7Ih",
+     "url": "https://drive.google.com/uc?export=download&id=1FKmrSs1Dm_7dhjlDsm_hbc2Oz9wYb7Ih"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 May",
+     "fileId": "1UhUuh-TdFOvJcRcGtmzFxH1zR3Mv1OU4",
+     "url": "https://drive.google.com/uc?export=download&id=1UhUuh-TdFOvJcRcGtmzFxH1zR3Mv1OU4"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1k4EcebRo-6xxlNRAaAPkPmPP3PYmYI59",
+     "url": "https://drive.google.com/uc?export=download&id=1k4EcebRo-6xxlNRAaAPkPmPP3PYmYI59"
+    }
+   ]
+  },
+  {
+   "name": "Power Electronics (PE)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1L65PygPwyrfD_e0Krugocv5DrgaTkySN",
+     "url": "https://drive.google.com/uc?export=download&id=1L65PygPwyrfD_e0Krugocv5DrgaTkySN"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "157SCth6D0sRW_JaY5_iVMQrAJi4TogN2",
+     "url": "https://drive.google.com/uc?export=download&id=157SCth6D0sRW_JaY5_iVMQrAJi4TogN2"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1gO9bjRMFb85Ms9qIL6txei3MboRD2Vp5",
+     "url": "https://drive.google.com/uc?export=download&id=1gO9bjRMFb85Ms9qIL6txei3MboRD2Vp5"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "10VfrRQHIMiO3jhbteBSsSkoxffIgsl36",
+     "url": "https://drive.google.com/uc?export=download&id=10VfrRQHIMiO3jhbteBSsSkoxffIgsl36"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1ejzWy2reJpr3PUS5PPgQae_z-g80iyke",
+     "url": "https://drive.google.com/uc?export=download&id=1ejzWy2reJpr3PUS5PPgQae_z-g80iyke"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 Nov",
+     "fileId": "1TyFAm9qnrNb9IWMAFabjF4bJdZNiA1Gy",
+     "url": "https://drive.google.com/uc?export=download&id=1TyFAm9qnrNb9IWMAFabjF4bJdZNiA1Gy"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1kbv6nzoyribTwXtFYpUIWqPm6QnAXNDa",
+     "url": "https://drive.google.com/uc?export=download&id=1kbv6nzoyribTwXtFYpUIWqPm6QnAXNDa"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1QFBhV5qE0ftyMnuJGgiA0B5v-Pzx2ZwS",
+     "url": "https://drive.google.com/uc?export=download&id=1QFBhV5qE0ftyMnuJGgiA0B5v-Pzx2ZwS"
+    }
+   ],
+   "syllabus": []
+  },
+  {
+   "name": "Principles of Sustainable Development",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1Bn-aSs-cGxYp6--tJQwCcLXYKWbgLI3C",
+     "url": "https://drive.google.com/uc?export=download&id=1Bn-aSs-cGxYp6--tJQwCcLXYKWbgLI3C"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1Q8JMLGjeRq_vecxigK77ASr0pkePJUQR",
+     "url": "https://drive.google.com/uc?export=download&id=1Q8JMLGjeRq_vecxigK77ASr0pkePJUQR"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1Y4oqdO9DZT91XXdX290fi_jKKwTyebCE",
+     "url": "https://drive.google.com/uc?export=download&id=1Y4oqdO9DZT91XXdX290fi_jKKwTyebCE"
+    }
+   ]
+  },
+  {
+   "name": "Probability and Queueing Theory (PQT)",
+   "semester": "",
+   "ppts": [],
+   "pyqs": [
+    {
+     "name": "2023 Dec",
+     "fileId": "1zouadOwtAex_HWKfu94H4zqSETNgALIZ",
+     "url": "https://drive.google.com/uc?export=download&id=1zouadOwtAex_HWKfu94H4zqSETNgALIZ"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1T7kCJgHuK7o8z0Fgs78nYrkqqWBNegMZ",
+     "url": "https://drive.google.com/uc?export=download&id=1T7kCJgHuK7o8z0Fgs78nYrkqqWBNegMZ"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1Cqn2V6TCucO3Q7ZVDIuTTMT6T7TU63tK",
+     "url": "https://drive.google.com/uc?export=download&id=1Cqn2V6TCucO3Q7ZVDIuTTMT6T7TU63tK"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1ArvJmoih5bECofgkOLBejHeiUU1hNxbO",
+     "url": "https://drive.google.com/uc?export=download&id=1ArvJmoih5bECofgkOLBejHeiUU1hNxbO"
+    },
+    {
+     "name": "2025 Dec",
+     "fileId": "1nm2OTKmtxOxo_eKWdMCWuZw2j-oue37m",
+     "url": "https://drive.google.com/uc?export=download&id=1nm2OTKmtxOxo_eKWdMCWuZw2j-oue37m"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1iLRGWt9iey2K4PtAKL6Qj9_J1yvjA_9Y",
+     "url": "https://drive.google.com/uc?export=download&id=1iLRGWt9iey2K4PtAKL6Qj9_J1yvjA_9Y"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1oIymJz0OSYTwyN1FWA8QExy5aTh9kGHw",
+     "url": "https://drive.google.com/uc?export=download&id=1oIymJz0OSYTwyN1FWA8QExy5aTh9kGHw"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1xLIfjk_SRzm-LBqyjfP9wPBin3OkcMhX",
+     "url": "https://drive.google.com/uc?export=download&id=1xLIfjk_SRzm-LBqyjfP9wPBin3OkcMhX"
+    }
+   ]
+  },
+  {
+   "name": "Probability and Statistics (P&S)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1dEu4Lux4S4w8eOIkTD9tWxFNxt8hVfxJ",
+     "url": "https://drive.google.com/uc?export=download&id=1dEu4Lux4S4w8eOIkTD9tWxFNxt8hVfxJ"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1X4wr35kRQaNDrUHTNEZNSPbzMBqonOhL",
+     "url": "https://drive.google.com/uc?export=download&id=1X4wr35kRQaNDrUHTNEZNSPbzMBqonOhL"
+    },
+    {
+     "name": "Unit 3.1",
+     "fileId": "10MlLfIUYCuQ8pGSgFOE_ywkwG4Q094at",
+     "url": "https://drive.google.com/uc?export=download&id=10MlLfIUYCuQ8pGSgFOE_ywkwG4Q094at"
+    },
+    {
+     "name": "Unit 3.2",
+     "fileId": "1FH6M2ciesM32X7pEJnz_RVHo8l-UyzkP",
+     "url": "https://drive.google.com/uc?export=download&id=1FH6M2ciesM32X7pEJnz_RVHo8l-UyzkP"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1MsuHOJMBeQHao6nbuS2TAmmAYYDqcdhA",
+     "url": "https://drive.google.com/uc?export=download&id=1MsuHOJMBeQHao6nbuS2TAmmAYYDqcdhA"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1L97HIeUFa99MMlLNwLdxS1GDCRh4y0lu",
+     "url": "https://drive.google.com/uc?export=download&id=1L97HIeUFa99MMlLNwLdxS1GDCRh4y0lu"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Dec",
+     "fileId": "1vhGf3yXrXiA0es2eEcA8Dhwq3Vnp4M5M",
+     "url": "https://drive.google.com/uc?export=download&id=1vhGf3yXrXiA0es2eEcA8Dhwq3Vnp4M5M"
+    },
+    {
+     "name": "2023 July",
+     "fileId": "1PzrH2s41hNz-8QnvxB1t1EBdv0FT0B6l",
+     "url": "https://drive.google.com/uc?export=download&id=1PzrH2s41hNz-8QnvxB1t1EBdv0FT0B6l"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1eEMW52S34A6bUsMOvcaq4SnghJplJWOv",
+     "url": "https://drive.google.com/uc?export=download&id=1eEMW52S34A6bUsMOvcaq4SnghJplJWOv"
+    }
+   ],
+   "syllabus": []
+  },
+  {
+   "name": "Programming for Problem Solving (PPS)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "ELAB",
+     "fileId": "1UqNjYaiso15DQ5JIUMvaY140lePcuXkN",
+     "url": "https://drive.google.com/uc?export=download&id=1UqNjYaiso15DQ5JIUMvaY140lePcuXkN"
+    },
+    {
+     "name": "Unit 1",
+     "fileId": "1iDXjg-PXf_U83I0XUOqyOqtXoraVH2fB",
+     "url": "https://drive.google.com/uc?export=download&id=1iDXjg-PXf_U83I0XUOqyOqtXoraVH2fB"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1wMxGYuCKDsXOyQWbXmgF5JMtZwazyKGQ",
+     "url": "https://drive.google.com/uc?export=download&id=1wMxGYuCKDsXOyQWbXmgF5JMtZwazyKGQ"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1uEYihd2l-QQ4RyCkGVZamq4IeTonJA2O",
+     "url": "https://drive.google.com/uc?export=download&id=1uEYihd2l-QQ4RyCkGVZamq4IeTonJA2O"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "12gAlbcMIqNrsS1CTDj2MiPfBA6hujZH2",
+     "url": "https://drive.google.com/uc?export=download&id=12gAlbcMIqNrsS1CTDj2MiPfBA6hujZH2"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "14Wce1FvvMNPGCKMl4Y5tGl5STSeM6AqN",
+     "url": "https://drive.google.com/uc?export=download&id=14Wce1FvvMNPGCKMl4Y5tGl5STSeM6AqN"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Jan",
+     "fileId": "1fgsThDe8RCYvNu-2LW-icXYfFfjhC2dV",
+     "url": "https://drive.google.com/uc?export=download&id=1fgsThDe8RCYvNu-2LW-icXYfFfjhC2dV"
+    },
+    {
+     "name": "2023 July",
+     "fileId": "1FbfGKgyg2vkuhzjVSidAj1gniNwJNDXe",
+     "url": "https://drive.google.com/uc?export=download&id=1FbfGKgyg2vkuhzjVSidAj1gniNwJNDXe"
+    },
+    {
+     "name": "2023 June",
+     "fileId": "12z8YybciwiLsQ44mI8GZ35367QKc6I7l",
+     "url": "https://drive.google.com/uc?export=download&id=12z8YybciwiLsQ44mI8GZ35367QKc6I7l"
+    },
+    {
+     "name": "2024 Jan",
+     "fileId": "1_SvJIf7VrfLGN9Rzug4_cHg_N6wxq4yP",
+     "url": "https://drive.google.com/uc?export=download&id=1_SvJIf7VrfLGN9Rzug4_cHg_N6wxq4yP"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1-lv-QZ-1eWJ3OqxP3sOl1eNy82yrznwd",
+     "url": "https://drive.google.com/uc?export=download&id=1-lv-QZ-1eWJ3OqxP3sOl1eNy82yrznwd"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1rDz1nzXP-TDjnkMQSD0wfAdJsiugjjRk",
+     "url": "https://drive.google.com/uc?export=download&id=1rDz1nzXP-TDjnkMQSD0wfAdJsiugjjRk"
+    }
+   ]
+  },
+  {
+   "name": "Project Management (PM)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1v0Y65yxbVvCYn_JtcXnhgTTMpOxqS1gS",
+     "url": "https://drive.google.com/uc?export=download&id=1v0Y65yxbVvCYn_JtcXnhgTTMpOxqS1gS"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1D4DiDkjgm-0bopjFiOKoQcXrGsLF1j17",
+     "url": "https://drive.google.com/uc?export=download&id=1D4DiDkjgm-0bopjFiOKoQcXrGsLF1j17"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1_DoqP7_4AGUhxT-aC0IZqhtzLhyc4sW-",
+     "url": "https://drive.google.com/uc?export=download&id=1_DoqP7_4AGUhxT-aC0IZqhtzLhyc4sW-"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1gseD5X8lNroyEPeKqDm7s1JfYodV0DJt",
+     "url": "https://drive.google.com/uc?export=download&id=1gseD5X8lNroyEPeKqDm7s1JfYodV0DJt"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": []
+  },
+  {
+   "name": "Protein Engineering",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1NiQS5Q4WUvaekHBB6CSdNiSpcd5Mu7Vp",
+     "url": "https://drive.google.com/uc?export=download&id=1NiQS5Q4WUvaekHBB6CSdNiSpcd5Mu7Vp"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1iSPnGNnK8SMOCnfIBAzcPtv2jcdGj-Xa",
+     "url": "https://drive.google.com/uc?export=download&id=1iSPnGNnK8SMOCnfIBAzcPtv2jcdGj-Xa"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1q17GX5ivx2ISFjX4eopiuZH65oUuJfrw",
+     "url": "https://drive.google.com/uc?export=download&id=1q17GX5ivx2ISFjX4eopiuZH65oUuJfrw"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1sMmd_KEDMVB7av18RLCZoezl0RLaw-HA",
+     "url": "https://drive.google.com/uc?export=download&id=1sMmd_KEDMVB7av18RLCZoezl0RLaw-HA"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1zinzLXopn_8oJXpFnd_xNsOkjjjTvXov",
+     "url": "https://drive.google.com/uc?export=download&id=1zinzLXopn_8oJXpFnd_xNsOkjjjTvXov"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": []
+  },
+  {
+   "name": "Remote Sensing and GIS Applications in Engineering",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "BOOK",
+     "fileId": "1yL4eBxbY67tpIrdljmEvo_GWFqbgZLJy",
+     "url": "https://drive.google.com/uc?export=download&id=1yL4eBxbY67tpIrdljmEvo_GWFqbgZLJy"
+    },
+    {
+     "name": "Unit 1",
+     "fileId": "1VBLBJYREK7JeteaUy8JdFwf5ajz89Ijb",
+     "url": "https://drive.google.com/uc?export=download&id=1VBLBJYREK7JeteaUy8JdFwf5ajz89Ijb"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1NQZc-FwCvqluypLf3-3P5ajq1iqK0XCj",
+     "url": "https://drive.google.com/uc?export=download&id=1NQZc-FwCvqluypLf3-3P5ajq1iqK0XCj"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 May",
+     "fileId": "13j6_2z2Sv2NN3NimvU7FqGoigaoi4tCk",
+     "url": "https://drive.google.com/uc?export=download&id=13j6_2z2Sv2NN3NimvU7FqGoigaoi4tCk"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1LSKwnTX_-gl9QXLpRbK54hkAd5pi08Aj",
+     "url": "https://drive.google.com/uc?export=download&id=1LSKwnTX_-gl9QXLpRbK54hkAd5pi08Aj"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1_pX5aRL5aH66MtX9IqY4AqyF3xo9zTVr",
+     "url": "https://drive.google.com/uc?export=download&id=1_pX5aRL5aH66MtX9IqY4AqyF3xo9zTVr"
+    }
+   ]
+  },
+  {
+   "name": "Renewable Energy Sources and Applications",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1qaBlYfiLQRpFTUZbOB5LY97gBraf8QiP",
+     "url": "https://drive.google.com/uc?export=download&id=1qaBlYfiLQRpFTUZbOB5LY97gBraf8QiP"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1OBvZ2kFtPtz4N9nkmCscUYLV5FsxApdP",
+     "url": "https://drive.google.com/uc?export=download&id=1OBvZ2kFtPtz4N9nkmCscUYLV5FsxApdP"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1tl_xAKCjEcgof_5Tr9_LqowwwxMABzUq",
+     "url": "https://drive.google.com/uc?export=download&id=1tl_xAKCjEcgof_5Tr9_LqowwwxMABzUq"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1Aq7ozv_WEgKiXpZW7BBjFmM3242XD3Bp",
+     "url": "https://drive.google.com/uc?export=download&id=1Aq7ozv_WEgKiXpZW7BBjFmM3242XD3Bp"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1gX1DHedVPSgEK4puZn1i4EvqJ6tIGcd1",
+     "url": "https://drive.google.com/uc?export=download&id=1gX1DHedVPSgEK4puZn1i4EvqJ6tIGcd1"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2025 May",
+     "fileId": "1UrnuVejK4veB_Gc9ZHz4Hcbwm0pKARMJ",
+     "url": "https://drive.google.com/uc?export=download&id=1UrnuVejK4veB_Gc9ZHz4Hcbwm0pKARMJ"
+    },
+    {
+     "name": "2025 Nov",
+     "fileId": "1vubWlWNiPLMUs6uPjYjTnK-L7Fy_iMC0",
+     "url": "https://drive.google.com/uc?export=download&id=1vubWlWNiPLMUs6uPjYjTnK-L7Fy_iMC0"
+    }
+   ],
+   "syllabus": []
+  },
+  {
+   "name": "SD-WAN Networking Solutions",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1qW0r-zdtvwADtzZPtNdxeYrwceMU39xk",
+     "url": "https://drive.google.com/uc?export=download&id=1qW0r-zdtvwADtzZPtNdxeYrwceMU39xk"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1BV3LXs5bnlC23Gh0BieQ03WXRgyllfhe",
+     "url": "https://drive.google.com/uc?export=download&id=1BV3LXs5bnlC23Gh0BieQ03WXRgyllfhe"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1hGvqJT_AGOozGqRv2pq4DRclzbPOhZF2",
+     "url": "https://drive.google.com/uc?export=download&id=1hGvqJT_AGOozGqRv2pq4DRclzbPOhZF2"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1KCT8X1BVTTwojetrtGxdPoBTcqYnm5Gf",
+     "url": "https://drive.google.com/uc?export=download&id=1KCT8X1BVTTwojetrtGxdPoBTcqYnm5Gf"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1mEfhCqoyJntMd4UiVAwfKll1NgtcWCdP",
+     "url": "https://drive.google.com/uc?export=download&id=1mEfhCqoyJntMd4UiVAwfKll1NgtcWCdP"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 Nov",
+     "fileId": "19ayNNe1c3tW_FwbbO1WIr_afsbsHn3GW",
+     "url": "https://drive.google.com/uc?export=download&id=19ayNNe1c3tW_FwbbO1WIr_afsbsHn3GW"
+    }
+   ],
+   "syllabus": []
+  },
+  {
+   "name": "Security Governance, Risk and Compliance (GRC)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "14DhMipI7edHBj_-s4EDmPBSd6v8GKs3Z",
+     "url": "https://drive.google.com/uc?export=download&id=14DhMipI7edHBj_-s4EDmPBSd6v8GKs3Z"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1K7VnzwzyMOhUfkbvFcxamhfBrBncbysq",
+     "url": "https://drive.google.com/uc?export=download&id=1K7VnzwzyMOhUfkbvFcxamhfBrBncbysq"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1zhGmHVml3xWUjMUc3P1SvJknfZGkgTtK",
+     "url": "https://drive.google.com/uc?export=download&id=1zhGmHVml3xWUjMUc3P1SvJknfZGkgTtK"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1im8fPFOu_N3s2AoJ6vf90FJut2APBvZg",
+     "url": "https://drive.google.com/uc?export=download&id=1im8fPFOu_N3s2AoJ6vf90FJut2APBvZg"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "10Cm8smHMxGESJpqr-GHUFPqcyi2SOHST",
+     "url": "https://drive.google.com/uc?export=download&id=10Cm8smHMxGESJpqr-GHUFPqcyi2SOHST"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 June",
+     "fileId": "1Zb6ZjAxnA4N5P71ErpCoCTgrYkY5KRXT",
+     "url": "https://drive.google.com/uc?export=download&id=1Zb6ZjAxnA4N5P71ErpCoCTgrYkY5KRXT"
+    },
+    {
+     "name": "2023 Nov",
+     "fileId": "1T3ZRdhmdqlttNgx-0JPnlctu7ye3rKjs",
+     "url": "https://drive.google.com/uc?export=download&id=1T3ZRdhmdqlttNgx-0JPnlctu7ye3rKjs"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "1xkUu-Usqmcrd4BgwuI_K-AdqbbvC8X6g",
+     "url": "https://drive.google.com/uc?export=download&id=1xkUu-Usqmcrd4BgwuI_K-AdqbbvC8X6g"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "14aEf4D5BvNJEyjDVfldefSUpojcyfPcj",
+     "url": "https://drive.google.com/uc?export=download&id=14aEf4D5BvNJEyjDVfldefSUpojcyfPcj"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1QstJkhLJ5qrhorLGp5GzsOeIoJya4qTM",
+     "url": "https://drive.google.com/uc?export=download&id=1QstJkhLJ5qrhorLGp5GzsOeIoJya4qTM"
+    },
+    {
+     "name": "2025 Jan",
+     "fileId": "1ah8ETGD3So7smmAJpfBgJRinua5rcLp4",
+     "url": "https://drive.google.com/uc?export=download&id=1ah8ETGD3So7smmAJpfBgJRinua5rcLp4"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1j_7cITXPE9S7t5MKTWZdw1k1ZyOELnGY",
+     "url": "https://drive.google.com/uc?export=download&id=1j_7cITXPE9S7t5MKTWZdw1k1ZyOELnGY"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1YA4S8XRPt51qttijZCUnUK-Z4rd1-RIk",
+     "url": "https://drive.google.com/uc?export=download&id=1YA4S8XRPt51qttijZCUnUK-Z4rd1-RIk"
+    }
+   ]
+  },
+  {
+   "name": "Security Management",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1uXl24THqWuW3ksbch4IKi7rvzNnTs-_P",
+     "url": "https://drive.google.com/uc?export=download&id=1uXl24THqWuW3ksbch4IKi7rvzNnTs-_P"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1a5waC6k1nFq8d0epXUTpoiKM5feNo0m9",
+     "url": "https://drive.google.com/uc?export=download&id=1a5waC6k1nFq8d0epXUTpoiKM5feNo0m9"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1obiJudgAi_OglNx-xvMsbCkwj77YuAl2",
+     "url": "https://drive.google.com/uc?export=download&id=1obiJudgAi_OglNx-xvMsbCkwj77YuAl2"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1wyLw7tZYIhh1HmjTDLY6zlPGY2mePvaA",
+     "url": "https://drive.google.com/uc?export=download&id=1wyLw7tZYIhh1HmjTDLY6zlPGY2mePvaA"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1pdPEbSDoKWYaEAanOb-X4awMIBvG6eL_",
+     "url": "https://drive.google.com/uc?export=download&id=1pdPEbSDoKWYaEAanOb-X4awMIBvG6eL_"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 Nov",
+     "fileId": "1gB6VjT7CUKMgb6__4CE4CE9f_3f3cXSY",
+     "url": "https://drive.google.com/uc?export=download&id=1gB6VjT7CUKMgb6__4CE4CE9f_3f3cXSY"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1jKoCZ3-A_6_WJLZ7lhjW-KxyD2nnt0Nm",
+     "url": "https://drive.google.com/uc?export=download&id=1jKoCZ3-A_6_WJLZ7lhjW-KxyD2nnt0Nm"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1xyuHo2Z0n1AcHSdVAsGjiNVJFGyR2Svq",
+     "url": "https://drive.google.com/uc?export=download&id=1xyuHo2Z0n1AcHSdVAsGjiNVJFGyR2Svq"
+    }
+   ]
+  },
+  {
+   "name": "Security Risk Management and Principles (SRMP)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1ijDJUaNQNZhC3vv-WLekNYpZ43EtF-rJ",
+     "url": "https://drive.google.com/uc?export=download&id=1ijDJUaNQNZhC3vv-WLekNYpZ43EtF-rJ"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1Wn-MInNcMkKByu5dYs60RWqBDr3JDjo3",
+     "url": "https://drive.google.com/uc?export=download&id=1Wn-MInNcMkKByu5dYs60RWqBDr3JDjo3"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1OYZJ89hh2qoaOssWcdWpOv2ksV06FdKV",
+     "url": "https://drive.google.com/uc?export=download&id=1OYZJ89hh2qoaOssWcdWpOv2ksV06FdKV"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "17yj384h1zjcQJQ_x8WXjYFJBZSxXcudA",
+     "url": "https://drive.google.com/uc?export=download&id=17yj384h1zjcQJQ_x8WXjYFJBZSxXcudA"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "19ahLY9i7PFGMRGFc60qPHyU0umPmKK2y",
+     "url": "https://drive.google.com/uc?export=download&id=19ahLY9i7PFGMRGFc60qPHyU0umPmKK2y"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 Jan",
+     "fileId": "1fKg0LdRXUNNm5KERWsIJuCt99hf8AVYK",
+     "url": "https://drive.google.com/uc?export=download&id=1fKg0LdRXUNNm5KERWsIJuCt99hf8AVYK"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "1VbkxncDroa7iIs63XJJLAAflTKtRmOWN",
+     "url": "https://drive.google.com/uc?export=download&id=1VbkxncDroa7iIs63XJJLAAflTKtRmOWN"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1sIaKe9HAj3iZDKGCkJUHPdlCpeooMddH",
+     "url": "https://drive.google.com/uc?export=download&id=1sIaKe9HAj3iZDKGCkJUHPdlCpeooMddH"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1Fi2Xiqx-nQAXKJvWeI-xEgYz9lLpajTX",
+     "url": "https://drive.google.com/uc?export=download&id=1Fi2Xiqx-nQAXKJvWeI-xEgYz9lLpajTX"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1T-vGRi83NE1FKEE2VZTKhBN2TzmIFrEP",
+     "url": "https://drive.google.com/uc?export=download&id=1T-vGRi83NE1FKEE2VZTKhBN2TzmIFrEP"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1wC6vFnItxqDsACd3v5cMpRyP31j-wA5z",
+     "url": "https://drive.google.com/uc?export=download&id=1wC6vFnItxqDsACd3v5cMpRyP31j-wA5z"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1BmxnPPC0cegA2ymV9M4am2tIkY6a2nBO",
+     "url": "https://drive.google.com/uc?export=download&id=1BmxnPPC0cegA2ymV9M4am2tIkY6a2nBO"
+    }
+   ]
+  },
+  {
+   "name": "Semiconductor Physics and Computational Methods",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1rvUtYSUkR3H1NnPEOjTgYA0iVdTfEO3L",
+     "url": "https://drive.google.com/uc?export=download&id=1rvUtYSUkR3H1NnPEOjTgYA0iVdTfEO3L"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1HXKFJTyPxC01ypliWhP2nsqjzQdIqoYC",
+     "url": "https://drive.google.com/uc?export=download&id=1HXKFJTyPxC01ypliWhP2nsqjzQdIqoYC"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1kePTQr9slc_8NTwFneRvkXfATljtptdr",
+     "url": "https://drive.google.com/uc?export=download&id=1kePTQr9slc_8NTwFneRvkXfATljtptdr"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1mFq0yKr4w5RLxygHkMTA20SLTzQpcTIm",
+     "url": "https://drive.google.com/uc?export=download&id=1mFq0yKr4w5RLxygHkMTA20SLTzQpcTIm"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1rSETl04PsLRM-Pw42THWrJgBi3eSNSRq",
+     "url": "https://drive.google.com/uc?export=download&id=1rSETl04PsLRM-Pw42THWrJgBi3eSNSRq"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Jan",
+     "fileId": "1Ws5NYfLyMnnfM_4CfYDxm360sBpB0fRR",
+     "url": "https://drive.google.com/uc?export=download&id=1Ws5NYfLyMnnfM_4CfYDxm360sBpB0fRR"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1ZGcShR2zsA-lPbnYICn_ZGsbtG9QisQ5",
+     "url": "https://drive.google.com/uc?export=download&id=1ZGcShR2zsA-lPbnYICn_ZGsbtG9QisQ5"
+    },
+    {
+     "name": "2024 Jan",
+     "fileId": "1EkFcTsZ37R9t1502hbYa9wHRk9fmK8FF",
+     "url": "https://drive.google.com/uc?export=download&id=1EkFcTsZ37R9t1502hbYa9wHRk9fmK8FF"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1PvXtFwcRI_WNRTKDM33TfewOPaaApn7H",
+     "url": "https://drive.google.com/uc?export=download&id=1PvXtFwcRI_WNRTKDM33TfewOPaaApn7H"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1GP6ycu_m-vV1QuyIVLZU2RSxiqNAGImf",
+     "url": "https://drive.google.com/uc?export=download&id=1GP6ycu_m-vV1QuyIVLZU2RSxiqNAGImf"
+    }
+   ]
+  },
+  {
+   "name": "Sensors and Instruments",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1HrXmoyvTn1ajXeRXTeHgwQm9s1GeKY2L",
+     "url": "https://drive.google.com/uc?export=download&id=1HrXmoyvTn1ajXeRXTeHgwQm9s1GeKY2L"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1sjsbnhvcyDnMraFLJcp9H7n_HEHqitWh",
+     "url": "https://drive.google.com/uc?export=download&id=1sjsbnhvcyDnMraFLJcp9H7n_HEHqitWh"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1Va8x_4Up1ugD7KvpHnofvLMwVDp3lkGo",
+     "url": "https://drive.google.com/uc?export=download&id=1Va8x_4Up1ugD7KvpHnofvLMwVDp3lkGo"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1IaBpMgZnqzEGbrjOwZB6sbT-NhrLuqOG",
+     "url": "https://drive.google.com/uc?export=download&id=1IaBpMgZnqzEGbrjOwZB6sbT-NhrLuqOG"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1u7r2DS8qvcs9Yg_AwMh8MHWzlL7vPrpV",
+     "url": "https://drive.google.com/uc?export=download&id=1u7r2DS8qvcs9Yg_AwMh8MHWzlL7vPrpV"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": []
+  },
+  {
+   "name": "Short Range Wireless Communication",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "135anEeu1mdow93cR78PwxspqvahSkhvz",
+     "url": "https://drive.google.com/uc?export=download&id=135anEeu1mdow93cR78PwxspqvahSkhvz"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1fw62rOSjGwLOOXkcAHUV9XNFt88jj3VO",
+     "url": "https://drive.google.com/uc?export=download&id=1fw62rOSjGwLOOXkcAHUV9XNFt88jj3VO"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1vsc9g3PMtNWLgi0TPWw2fuvVCIJ23qOD",
+     "url": "https://drive.google.com/uc?export=download&id=1vsc9g3PMtNWLgi0TPWw2fuvVCIJ23qOD"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1cjjKmv09ESLRQ0_7SJgLBdMALSfOeKsx",
+     "url": "https://drive.google.com/uc?export=download&id=1cjjKmv09ESLRQ0_7SJgLBdMALSfOeKsx"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1cUEBgsWKx0g_MxHD28WVtm4nU2RcQmW3",
+     "url": "https://drive.google.com/uc?export=download&id=1cUEBgsWKx0g_MxHD28WVtm4nU2RcQmW3"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2025 May",
+     "fileId": "1Gk1clFzcOYY4wIOGx3kQjCaQxi4_TCsM",
+     "url": "https://drive.google.com/uc?export=download&id=1Gk1clFzcOYY4wIOGx3kQjCaQxi4_TCsM"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1fSfaPc4fghneveWYqdNoqGUgK7DwxSAH",
+     "url": "https://drive.google.com/uc?export=download&id=1fSfaPc4fghneveWYqdNoqGUgK7DwxSAH"
+    }
+   ]
+  },
+  {
+   "name": "Smart Cities",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1.1",
+     "fileId": "1gt_FvvohCkRHEhMcQosGrJiJVEkzdNBS",
+     "url": "https://drive.google.com/uc?export=download&id=1gt_FvvohCkRHEhMcQosGrJiJVEkzdNBS"
+    },
+    {
+     "name": "Unit 1.2",
+     "fileId": "128lNUjbTQBi4TgAdb9mZFdQMNIk0hlMZ",
+     "url": "https://drive.google.com/uc?export=download&id=128lNUjbTQBi4TgAdb9mZFdQMNIk0hlMZ"
+    },
+    {
+     "name": "Unit 2.1",
+     "fileId": "1TUDHOxV0nAfYAJLMCbjiZ8_uNpaBqqGL",
+     "url": "https://drive.google.com/uc?export=download&id=1TUDHOxV0nAfYAJLMCbjiZ8_uNpaBqqGL"
+    },
+    {
+     "name": "Unit 2.2",
+     "fileId": "1ErU1ja_oHaIOK5bTns8ks3j74L0VcUe9",
+     "url": "https://drive.google.com/uc?export=download&id=1ErU1ja_oHaIOK5bTns8ks3j74L0VcUe9"
+    },
+    {
+     "name": "Unit 2.3",
+     "fileId": "1cKRi7c9E3Wx3yzbbk_MiAsOWndJhTk76",
+     "url": "https://drive.google.com/uc?export=download&id=1cKRi7c9E3Wx3yzbbk_MiAsOWndJhTk76"
+    },
+    {
+     "name": "Unit 2.4",
+     "fileId": "1n6MkIgmRhHfFt4iq6TyYt1hmzFIhQZsu",
+     "url": "https://drive.google.com/uc?export=download&id=1n6MkIgmRhHfFt4iq6TyYt1hmzFIhQZsu"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1PADI9IcoXwU7ddz_ohb5QyJJqYesoDlM",
+     "url": "https://drive.google.com/uc?export=download&id=1PADI9IcoXwU7ddz_ohb5QyJJqYesoDlM"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "12zZ9-Lkl_SZGeMeZFQHw-hQckgl7SSY6",
+     "url": "https://drive.google.com/uc?export=download&id=12zZ9-Lkl_SZGeMeZFQHw-hQckgl7SSY6"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1zoFsBFEWx5yL1VHaNU7kI7EvQfTpMxWO",
+     "url": "https://drive.google.com/uc?export=download&id=1zoFsBFEWx5yL1VHaNU7kI7EvQfTpMxWO"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2025 Nov",
+     "fileId": "1pWIrX_vmaEFuaQl73wBQPmGfy43_OVxQ",
+     "url": "https://drive.google.com/uc?export=download&id=1pWIrX_vmaEFuaQl73wBQPmGfy43_OVxQ"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1iw3PSG2ah2amqwwzlMuC-IAOviHA5VPE",
+     "url": "https://drive.google.com/uc?export=download&id=1iw3PSG2ah2amqwwzlMuC-IAOviHA5VPE"
+    }
+   ]
+  },
+  {
+   "name": "Social Engineering",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Combined Units",
+     "fileId": "1n2hIg1paYbT3Mbj1oHgq3hLcs3DtOZfs",
+     "url": "https://drive.google.com/uc?export=download&id=1n2hIg1paYbT3Mbj1oHgq3hLcs3DtOZfs"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1q09fpmfvyYWM5yiV6DF_vojYuXdnBiPG",
+     "url": "https://drive.google.com/uc?export=download&id=1q09fpmfvyYWM5yiV6DF_vojYuXdnBiPG"
+    }
+   ]
+  },
+  {
+   "name": "Software Engineering and Project Management (SEPM)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1zeyYtIfODaJI6MYbhl-t-0uedElweCxC",
+     "url": "https://drive.google.com/uc?export=download&id=1zeyYtIfODaJI6MYbhl-t-0uedElweCxC"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1epIR1eTkPhUUZR_HPaJ2sPHII6Ac4FpS",
+     "url": "https://drive.google.com/uc?export=download&id=1epIR1eTkPhUUZR_HPaJ2sPHII6Ac4FpS"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1hKaXGJbvX42Bc684k4DeeJlXEeNOeBna",
+     "url": "https://drive.google.com/uc?export=download&id=1hKaXGJbvX42Bc684k4DeeJlXEeNOeBna"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1Jkm0usTQ_MjPghhJl1bZz1yXNqhvrnDj",
+     "url": "https://drive.google.com/uc?export=download&id=1Jkm0usTQ_MjPghhJl1bZz1yXNqhvrnDj"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1Ct7rWGmciC6fGGlOhBRamPuq1EQZXUfp",
+     "url": "https://drive.google.com/uc?export=download&id=1Ct7rWGmciC6fGGlOhBRamPuq1EQZXUfp"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 Dec",
+     "fileId": "1BGy99i0K3i7aimXk2S8KuaXnqta4HF4G",
+     "url": "https://drive.google.com/uc?export=download&id=1BGy99i0K3i7aimXk2S8KuaXnqta4HF4G"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "1YEG4nPotS2iHaHNXU5dCi8SIMaWzqkf_",
+     "url": "https://drive.google.com/uc?export=download&id=1YEG4nPotS2iHaHNXU5dCi8SIMaWzqkf_"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1ALPVaIcmhga-dAk6SMF6o5rEHbq2JlbU",
+     "url": "https://drive.google.com/uc?export=download&id=1ALPVaIcmhga-dAk6SMF6o5rEHbq2JlbU"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "14-lMclgrzL0nRubBEVNlr2HPOP9J2Zas",
+     "url": "https://drive.google.com/uc?export=download&id=14-lMclgrzL0nRubBEVNlr2HPOP9J2Zas"
+    },
+    {
+     "name": "2025 May",
+     "fileId": "1-lczoYX4n2nXO4CcieZywyCwuJN8_NVO",
+     "url": "https://drive.google.com/uc?export=download&id=1-lczoYX4n2nXO4CcieZywyCwuJN8_NVO"
+    },
+    {
+     "name": "2025 Nov",
+     "fileId": "1MoXphya5wX0CZ84CPFDTno2a8AJhCLQY",
+     "url": "https://drive.google.com/uc?export=download&id=1MoXphya5wX0CZ84CPFDTno2a8AJhCLQY"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1hxenDKJw0Xf3d5J2U1L0HtnAYgblycxV",
+     "url": "https://drive.google.com/uc?export=download&id=1hxenDKJw0Xf3d5J2U1L0HtnAYgblycxV"
+    }
+   ]
+  },
+  {
+   "name": "Solid State Devices (SSD)",
+   "semester": "",
+   "ppts": [],
+   "pyqs": [
+    {
+     "name": "2024 Dec",
+     "fileId": "1IhByonPYW6fOxqBeqxcq_0lz4L2cnOGR",
+     "url": "https://drive.google.com/uc?export=download&id=1IhByonPYW6fOxqBeqxcq_0lz4L2cnOGR"
+    },
+    {
+     "name": "2024 Jan",
+     "fileId": "1S2d7S8J8LUcpiRcd8lWu8_G86zv8n31e",
+     "url": "https://drive.google.com/uc?export=download&id=1S2d7S8J8LUcpiRcd8lWu8_G86zv8n31e"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "1waBoTDirKZ4rCE05QMd0IEn4qc8MXy2r",
+     "url": "https://drive.google.com/uc?export=download&id=1waBoTDirKZ4rCE05QMd0IEn4qc8MXy2r"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1_Wke7Ww4t-PKLYnHaU31OouYt-qkNGAQ",
+     "url": "https://drive.google.com/uc?export=download&id=1_Wke7Ww4t-PKLYnHaU31OouYt-qkNGAQ"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1T99e2lTyphi6fWjG6s2XRPd5e32qdAT8",
+     "url": "https://drive.google.com/uc?export=download&id=1T99e2lTyphi6fWjG6s2XRPd5e32qdAT8"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1suDhY89Pq7uvntv-JJMA89nCPCOYDaqb",
+     "url": "https://drive.google.com/uc?export=download&id=1suDhY89Pq7uvntv-JJMA89nCPCOYDaqb"
+    }
+   ],
+   "syllabus": []
+  },
+  {
+   "name": "Spanish",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Textbook",
+     "fileId": "1pAGd453pSm0_vNlPpRQiMmbeusFtudxG",
+     "url": "https://drive.google.com/uc?export=download&id=1pAGd453pSm0_vNlPpRQiMmbeusFtudxG"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 Jan",
+     "fileId": "12zaR-IjIbsV2nD4h6hYtb1rLQYfK6MHB",
+     "url": "https://drive.google.com/uc?export=download&id=12zaR-IjIbsV2nD4h6hYtb1rLQYfK6MHB"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1IldmgmnomZY6VVr53F7N4pS0NYv_uDBk",
+     "url": "https://drive.google.com/uc?export=download&id=1IldmgmnomZY6VVr53F7N4pS0NYv_uDBk"
+    },
+    {
+     "name": "2024 Dec",
+     "fileId": "1BHFSA0RE4ZiutD9lcptKppPUUQ3ToVjf",
+     "url": "https://drive.google.com/uc?export=download&id=1BHFSA0RE4ZiutD9lcptKppPUUQ3ToVjf"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "12XEHXyF-c3pO4IY0ZGed7YBfdyHb9NnO",
+     "url": "https://drive.google.com/uc?export=download&id=12XEHXyF-c3pO4IY0ZGed7YBfdyHb9NnO"
+    }
+   ]
+  },
+  {
+   "name": "Stress Management",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1-5 Notes",
+     "fileId": "1qt2HT_md2zm1zZZKTbVJB01Gq40m6RsY",
+     "url": "https://drive.google.com/uc?export=download&id=1qt2HT_md2zm1zZZKTbVJB01Gq40m6RsY"
+    },
+    {
+     "name": "Unit 1.1",
+     "fileId": "1e13Ha5fCIlVtO7ePtnuoCPdmDorGYqiv",
+     "url": "https://drive.google.com/uc?export=download&id=1e13Ha5fCIlVtO7ePtnuoCPdmDorGYqiv"
+    },
+    {
+     "name": "Unit 1.2",
+     "fileId": "1bd3LO3kKEsJiX-C_ZqIbfS9E8kwgy8K3",
+     "url": "https://drive.google.com/uc?export=download&id=1bd3LO3kKEsJiX-C_ZqIbfS9E8kwgy8K3"
+    },
+    {
+     "name": "Unit 2.1",
+     "fileId": "1g1IGarifZM-HqPdRhUaNHrWeHMZwWMHO",
+     "url": "https://drive.google.com/uc?export=download&id=1g1IGarifZM-HqPdRhUaNHrWeHMZwWMHO"
+    },
+    {
+     "name": "Unit 2.2",
+     "fileId": "1Yjjaw52SHmXB2cwXbQMsRy6ZJDWnQnQ5",
+     "url": "https://drive.google.com/uc?export=download&id=1Yjjaw52SHmXB2cwXbQMsRy6ZJDWnQnQ5"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1bJqyYp4EagY65hfDsEQzmlFMrF1geve0",
+     "url": "https://drive.google.com/uc?export=download&id=1bJqyYp4EagY65hfDsEQzmlFMrF1geve0"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1cAjzl7eZqaCKMj4lj-6roM_sNO_d62KG",
+     "url": "https://drive.google.com/uc?export=download&id=1cAjzl7eZqaCKMj4lj-6roM_sNO_d62KG"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": []
+  },
+  {
+   "name": "Transforms and Boundary Value Problems (TBVP)",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1crC1kCO9LF9VpfO8HDLOtwnSZX6hM749",
+     "url": "https://drive.google.com/uc?export=download&id=1crC1kCO9LF9VpfO8HDLOtwnSZX6hM749"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1uBQMuEnWl4s1fEuDGc7cqkKkalu-uH3s",
+     "url": "https://drive.google.com/uc?export=download&id=1uBQMuEnWl4s1fEuDGc7cqkKkalu-uH3s"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1MuGnh2EB5IRKf3mDQCAEX5yP7vUnMA53",
+     "url": "https://drive.google.com/uc?export=download&id=1MuGnh2EB5IRKf3mDQCAEX5yP7vUnMA53"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1YJTeW2T_ZxRLw2C-sVxnjmkz7pH5tvTA",
+     "url": "https://drive.google.com/uc?export=download&id=1YJTeW2T_ZxRLw2C-sVxnjmkz7pH5tvTA"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1nOwmp8iiyC4ExpAGDYqqE6QnVYs5OHPz",
+     "url": "https://drive.google.com/uc?export=download&id=1nOwmp8iiyC4ExpAGDYqqE6QnVYs5OHPz"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2023 June",
+     "fileId": "1fGrx0MWzyb3_YN05ers7zJ67C6MGl2S9",
+     "url": "https://drive.google.com/uc?export=download&id=1fGrx0MWzyb3_YN05ers7zJ67C6MGl2S9"
+    },
+    {
+     "name": "2023 May",
+     "fileId": "1UUKGY9gEDkGOEHOUgIyZ0hegfgdb-1tc",
+     "url": "https://drive.google.com/uc?export=download&id=1UUKGY9gEDkGOEHOUgIyZ0hegfgdb-1tc"
+    },
+    {
+     "name": "2023 Nov",
+     "fileId": "1K49PH65zAA7mc2aq-9aZ5lYUiAKTf74C",
+     "url": "https://drive.google.com/uc?export=download&id=1K49PH65zAA7mc2aq-9aZ5lYUiAKTf74C"
+    },
+    {
+     "name": "2024 July",
+     "fileId": "1xzhleTW_qE9VKXtzt_hsqS8gz4s8M4XZ",
+     "url": "https://drive.google.com/uc?export=download&id=1xzhleTW_qE9VKXtzt_hsqS8gz4s8M4XZ"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1x_3w8VT5zes6PsdmjM93xDmuBvqxhwFB",
+     "url": "https://drive.google.com/uc?export=download&id=1x_3w8VT5zes6PsdmjM93xDmuBvqxhwFB"
+    },
+    {
+     "name": "2024 Nov",
+     "fileId": "1O6JJ1hEhjNYUYXYjPZh-qK5Kjprb2TCh",
+     "url": "https://drive.google.com/uc?export=download&id=1O6JJ1hEhjNYUYXYjPZh-qK5Kjprb2TCh"
+    },
+    {
+     "name": "2025 July",
+     "fileId": "1L_IRaDurivUZj4PoVduSzDZ4bL2lCW2t",
+     "url": "https://drive.google.com/uc?export=download&id=1L_IRaDurivUZj4PoVduSzDZ4bL2lCW2t"
+    }
+   ],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1E7ELv-xf0-V3hdQGSsiUhIYI3ZSbCNwU",
+     "url": "https://drive.google.com/uc?export=download&id=1E7ELv-xf0-V3hdQGSsiUhIYI3ZSbCNwU"
+    }
+   ]
+  },
+  {
+   "name": "Waste to Wealth to Wheels",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1",
+     "fileId": "1jjV3ZTS2leqhMTaduoPKJZB-BFOvfKeS",
+     "url": "https://drive.google.com/uc?export=download&id=1jjV3ZTS2leqhMTaduoPKJZB-BFOvfKeS"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1YpShpaIHCVIewoxOT4uWIjN6eML3F-Do",
+     "url": "https://drive.google.com/uc?export=download&id=1YpShpaIHCVIewoxOT4uWIjN6eML3F-Do"
+    },
+    {
+     "name": "Unit 3",
+     "fileId": "1613WK6nlh9Nkr8ACV8xHs1n5YFKPE-rH",
+     "url": "https://drive.google.com/uc?export=download&id=1613WK6nlh9Nkr8ACV8xHs1n5YFKPE-rH"
+    },
+    {
+     "name": "Unit 4",
+     "fileId": "1lDLmDgRw-5ZcPzcyQqzu0iuZTE6tRbYA",
+     "url": "https://drive.google.com/uc?export=download&id=1lDLmDgRw-5ZcPzcyQqzu0iuZTE6tRbYA"
+    },
+    {
+     "name": "Unit 5",
+     "fileId": "1NZKceVQoiREf-0_zE5EuWLLU2diARLae",
+     "url": "https://drive.google.com/uc?export=download&id=1NZKceVQoiREf-0_zE5EuWLLU2diARLae"
+    }
+   ],
+   "pyqs": [],
+   "syllabus": [
+    {
+     "name": "Syllabus",
+     "fileId": "1loyJS2s3vrT31RXkRrYM64n_EBIH2L1e",
+     "url": "https://drive.google.com/uc?export=download&id=1loyJS2s3vrT31RXkRrYM64n_EBIH2L1e"
+    }
+   ]
+  },
+  {
+   "name": "Water Pollution",
+   "semester": "",
+   "ppts": [],
+   "pyqs": [
+    {
+     "name": "2022 May",
+     "fileId": "1zeh2m1Qoqsa1ol3CkwfFg9I_e72goFPr",
+     "url": "https://drive.google.com/uc?export=download&id=1zeh2m1Qoqsa1ol3CkwfFg9I_e72goFPr"
+    },
+    {
+     "name": "2022 Nov",
+     "fileId": "1p6oWqHm3kYCVRbfr5crdmH5YTMYZ0g57",
+     "url": "https://drive.google.com/uc?export=download&id=1p6oWqHm3kYCVRbfr5crdmH5YTMYZ0g57"
+    },
+    {
+     "name": "2023 June",
+     "fileId": "1iJNXkDPE335jlnI958SMKvous67Tit21",
+     "url": "https://drive.google.com/uc?export=download&id=1iJNXkDPE335jlnI958SMKvous67Tit21"
+    },
+    {
+     "name": "2024 May",
+     "fileId": "1SLXF5kQOHk54CivKaMdcGndZ-JgxC6R7",
+     "url": "https://drive.google.com/uc?export=download&id=1SLXF5kQOHk54CivKaMdcGndZ-JgxC6R7"
+    }
+   ],
+   "syllabus": []
+  },
+  {
+   "name": "Wireless Networks",
+   "semester": "",
+   "ppts": [
+    {
+     "name": "Unit 1.1",
+     "fileId": "1yxIxhMQ-UAfLTx17ce83ersakJYpynxP",
+     "url": "https://drive.google.com/uc?export=download&id=1yxIxhMQ-UAfLTx17ce83ersakJYpynxP"
+    },
+    {
+     "name": "Unit 1.2",
+     "fileId": "1Y-IIJ5ompC_CVacwMd50Jzkd6rubEUoR",
+     "url": "https://drive.google.com/uc?export=download&id=1Y-IIJ5ompC_CVacwMd50Jzkd6rubEUoR"
+    },
+    {
+     "name": "Unit 1||Numericals",
+     "fileId": "1zlVtP8O7hUeBt5gGnWmbRuoP40VZ2kWI",
+     "url": "https://drive.google.com/uc?export=download&id=1zlVtP8O7hUeBt5gGnWmbRuoP40VZ2kWI"
+    },
+    {
+     "name": "Unit 2",
+     "fileId": "1IIbGiSdaiYPpb2FwyMDf5MnN8u8k8_MT",
+     "url": "https://drive.google.com/uc?export=download&id=1IIbGiSdaiYPpb2FwyMDf5MnN8u8k8_MT"
+    },
+    {
+     "name": "Unit 3.1",
+     "fileId": "1qb7NmK_cf5K1OxORfR5kvaZWgK9fgMJw",
+     "url": "https://drive.google.com/uc?export=download&id=1qb7NmK_cf5K1OxORfR5kvaZWgK9fgMJw"
+    },
+    {
+     "name": "Unit 3.2",
+     "fileId": "1UrXRuKxiEUV6EOMUQw5jZVWtS2nqXt9Y",
+     "url": "https://drive.google.com/uc?export=download&id=1UrXRuKxiEUV6EOMUQw5jZVWtS2nqXt9Y"
+    },
+    {
+     "name": "Unit 4-5",
+     "fileId": "1FqtpgMVQTVzEIUddCALIdqDf-Y6G_zh3",
+     "url": "https://drive.google.com/uc?export=download&id=1FqtpgMVQTVzEIUddCALIdqDf-Y6G_zh3"
+    }
+   ],
+   "pyqs": [
+    {
+     "name": "2024 Nov",
+     "fileId": "1bIPDj-gH0STYZwzst8CpawEuMQ1HUeVE",
+     "url": "https://drive.google.com/uc?export=download&id=1bIPDj-gH0STYZwzst8CpawEuMQ1HUeVE"
+    },
+    {
+     "name": "2025 Nov",
+     "fileId": "1iJEGILVmsBDqoUCcYWXjL0DVyp5DNTqa",
+     "url": "https://drive.google.com/uc?export=download&id=1iJEGILVmsBDqoUCcYWXjL0DVyp5DNTqa"
+    }
+   ],
+   "syllabus": []
+  }
+ ]
+}

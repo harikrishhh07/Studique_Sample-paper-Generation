@@ -1,0 +1,82 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: studique_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-studique}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-studique_secure_password}
+      POSTGRES_DB: ${POSTGRES_DB:-studique_qb}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-studique} -d ${POSTGRES_DB:-studique_qb}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: studique_backend
+    restart: always
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql+asyncpg://${POSTGRES_USER:-studique}:${POSTGRES_PASSWORD:-studique_secure_password}@postgres:5432/${POSTGRES_DB:-studique_qb}
+      - PROXY_SHARED_SECRET=${PROXY_SHARED_SECRET:-studique_internal_proxy_secret_2026}
+      - ALLOWED_ORIGINS=${ALLOWED_ORIGINS:-http://localhost:3000}
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - LLM_PROVIDER=${LLM_PROVIDER:-anthropic}
+      - MODEL_NAME=${MODEL_NAME:-claude-sonnet-5}
+    volumes:
+      - ./backend:/app
+      - uploads_data:/app/uploads
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  worker:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: studique_worker
+    restart: always
+    command: python -m app.worker
+    environment:
+      - DATABASE_URL=postgresql+asyncpg://${POSTGRES_USER:-studique}:${POSTGRES_PASSWORD:-studique_secure_password}@postgres:5432/${POSTGRES_DB:-studique_qb}
+      - PROXY_SHARED_SECRET=${PROXY_SHARED_SECRET:-studique_internal_proxy_secret_2026}
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - LLM_PROVIDER=${LLM_PROVIDER:-anthropic}
+      - MODEL_NAME=${MODEL_NAME:-claude-sonnet-5}
+    volumes:
+      - ./backend:/app
+      - uploads_data:/app/uploads
+    depends_on:
+      postgres:
+        condition: service_healthy
+      backend:
+        condition: service_started
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    container_name: studique_frontend
+    restart: always
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+    depends_on:
+      - backend
+
+volumes:
+  postgres_data:
+  uploads_data:

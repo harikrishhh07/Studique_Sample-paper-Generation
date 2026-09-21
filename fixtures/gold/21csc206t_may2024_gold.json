@@ -1,0 +1,46 @@
+{
+  "header": {
+    "exam_name": "B.Tech DEGREE EXAMINATION",
+    "month": "MAY",
+    "year": 2024,
+    "subject_code": "21CSC206T",
+    "subject_name": "ARTIFICIAL INTELLIGENCE"
+  },
+  "questions": [
+    {
+      "part": "A",
+      "question_no": 1,
+      "question_text": "Which of the following search algorithms is optimal for unit step costs?",
+      "options": {"A": "BFS", "B": "DFS", "C": "Greedy Best First", "D": "Depth Limited"},
+      "marks": 1,
+      "bl": 1,
+      "co": 1
+    },
+    {
+      "part": "A",
+      "question_no": 2,
+      "question_text": "In A* search, $h(n)$ is admissible if it never:",
+      "options": {"A": "Overestimates cost", "B": "Underestimates cost", "C": "Equals actual cost", "D": "Exceeds zero"},
+      "marks": 1,
+      "bl": 2,
+      "co": 1
+    },
+    {
+      "part": "B",
+      "question_no": 21,
+      "or_group": "21.a",
+      "question_text": "Explain Minimax search algorithm with alpha-beta pruning. Give a trace on a binary game tree of depth 3.",
+      "marks": 8,
+      "bl": 3,
+      "co": 2
+    },
+    {
+      "part": "C",
+      "question_no": 26,
+      "question_text": "Formulate the 8-puzzle problem as a state space search problem. Compare A* search heuristic $h_1$ (misplaced tiles) and $h_2$ (Manhattan distance).",
+      "marks": 15,
+      "bl": 4,
+      "co": 3
+    }
+  ]
+}
